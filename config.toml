@@ -1,4 +1,4 @@
-baseurl = "https://www.auto-dens.fr/"  # Include trailing slash
+baseurl = "http://www.auto-dens.fr/"  # Include trailing slash
 title = "Auto Dens - Achat / Vente de véhicules d'occasion - 06 08 22 85 82"
 theme = "hugo-swift-theme"
 # theme = "swift"
@@ -12,15 +12,15 @@ pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-  [params.designer]
-    name = "Weru"
-    url = "https://www.linkedin.com/in/dan-weru-profile/"
+#  [params.designer]
+#    name = "Weru"
+#    url = "https://www.linkedin.com/in/dan-weru-profile/"
   [[params.authors]]
-    name = "yourName" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
+    name = "autodens" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
     fullName = "Denis Freydiere" # optional. If set, it will display on author card
-    bio = "It's time to flex. Write a short or not-so-short summary about yourself."
+    bio = ""
     photo = "/images/carte.jpg"
-    url = "https://www.auto-dens.fr"
+    url = "http://www.auto-dens.fr"
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
 
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
