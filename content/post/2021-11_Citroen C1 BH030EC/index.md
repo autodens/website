@@ -1,5 +1,5 @@
 +++
-title = "CITROEN C1 "
+title = "CITROEN C1 2011"
 description = "C1- Année 2011 - 140 000 Km"
 tags = [
 ]
@@ -8,13 +8,11 @@ categories = [
     "Voitures",
 ]
 image = "../post/2021-11_Citroen C1 BH030EC/images/1.jpg"
-image = "../post/2021-11_Citroen C1 BH030EC/images/2.jpg"
-image = "../post/2021-11_Citroen C1 BH030EC/images/3.jpg"
 +++
 
-# CITROEN C1
+# CITROEN  2011
 
-{{< gallery "../post/2021-11_Citroen C1 BH030EC/images/1.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/2021-11_Citroen C1 BH030EC/images/1.jpg,../post/2021-11_Citroen C1 BH030EC/images/2.jpg,../post/2021-11_Citroen C1 BH030EC/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 CITROEN C1 1.0L ATTRACTION 3 portes rouge de 2011 totalisant 139.000 km
@@ -25,7 +23,7 @@ faible coûts en assurance et en carburant
 Véhicule première main
 Entretien mécanique à jour ( dernière révision Mars 2022)
 pas de courroie de distribution ( moteur à chaîne)
-Carrosserie : propre ( sauf vernis qui s’écaille sur le parechoc avant)
+Carrosserie : propre
 CT OK ( moins de 6 mois)
 CRITAIR 1
 double des clés
@@ -38,5 +36,9 @@ PRIX : 3500 Euros
 <!-- more -->
 
 
-![](images/i2.jpg)
+![](images/1.jpg)
+
+![](images/2.jpg)
+
+![](images/3.jpg)
 
