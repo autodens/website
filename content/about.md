@@ -1,6 +1,6 @@
 +++
 title = "Auto-Dens"
-date = "2021-11-06"
+date = "2021-11-01"
 
 image="carte.jpg"
 
