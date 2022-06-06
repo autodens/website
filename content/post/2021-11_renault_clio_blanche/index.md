@@ -23,6 +23,7 @@ RENAULT CLIO IV blanche 90cv 0.9TCE de 2017 affichant 29.000km
 Equipements :
 
 AUDIO - TÉLÉCOMMUNICATIONS
+
 Commandes du système audio au volant
 Ecran tactile
 Fonction MP3
@@ -33,6 +34,7 @@ Prise USB
 Radio
 
 CONDUITE
+
 Aide au démarrage en côte
 Commande Mode ECO
 Démarrage sans clé
@@ -40,11 +42,13 @@ Limiteur de vitesse
 Régulateur de vitesse
 
 COULEUR
+
 grise 
 Sellerie Tissu Noir/Gris style carbone
 
 
 EXTÉRIEUR
+
 Becquet arrière
 Boucliers AV et AR couleur caisse
 Enjoliveurs
@@ -57,6 +61,7 @@ Rétroviseurs dégivrants
 Rétroviseurs électriques
 
 INTÉRIEUR
+
 Bacs de portes avant
 Banquette AR rabattable
 Banquette arrière 3 places
@@ -80,6 +85,7 @@ Volant cuir
 Volant réglable en profondeur et hauteur
 
 SÉCURITÉ
+
 ABS
 Aide au freinage d'urgence
 Airbag conducteur
@@ -98,10 +104,12 @@ Descriptif Renault sous reserve d'erreur
 
 
 ENTRETIEN
+
 entretien réseau Renault à jour ( dernier entretien 07/2021)
 carrosserie : propre
 
 2 clés
+
 Pas de courroie de distribution ( moteur à chaîne)
 
 disponible de suite
