@@ -16,11 +16,11 @@ image = "../post/2021-11_mercedes/images/i1.jpg"
 {{< gallery "../post/2021-11_mercedes/images/i1.jpg,../post/2021-11_mercedes/images/i2.jpg,../post/2021-11_mercedes/images/i3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-Année 2015
+Année 2017
 
-Kilométrages : 270 000 kms, 
+Kilométrages : 29 000 kms, 
 
-Prix : 17 000 euros,
+Prix : 11 500 euros,
 
 <!-- more -->
 
