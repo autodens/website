@@ -1,4 +1,4 @@
-baseurl = "https://www.auto-dens.fr/"  # Include trailing slash
+baseurl = "https://auto-dens.fr/"  # Include trailing slash
 title = "Auto Dens - Achat / Vente de véhicules d'occasion - 06 08 22 85 82"
 theme = "hugo-swift-theme"
 # theme = "swift"
