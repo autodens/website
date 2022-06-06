@@ -13,7 +13,7 @@ image = "../post/2021-11_mercedes/images/i1.jpg"
 
 # RENAULT Clio 4
 
-{{< gallery "../post/2021-11_mercedes/images/i1.jpg,../post/2021-11_mercedes/images/i2.jpg,../post/2021-11_mercedes/images/i3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/2021-11_mercedes/images/i1.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 Année 2017
