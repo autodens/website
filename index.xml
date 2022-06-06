@@ -19,19 +19,6 @@ disponible de suite</description>
     </item>
     
     <item>
-      <title>Auto-Dens</title>
-      <link>https://auto-dens.fr/about/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://auto-dens.fr/about/</guid>
-      <description>Auto-Dens Achat / Vente de voitures d&amp;rsquo;occasions,
-Telephone : 06 08 22 85 82
-email : autodens@orange.fr
-91 allée des tilleuls
-694200 TREVES</description>
-    </item>
-    
-    <item>
       <title>RENAULT CLIO 0.9 TCE</title>
       <link>https://auto-dens.fr/post/2021-11_renault_clio_blanche/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
@@ -70,6 +57,19 @@ Aide au démarrage en côte Commande Mode ECO Démarrage sans clé Limiteur de v
       <description>Mercedes CLS 250     Année 2015
 Kilométrages : 270 000 kms,
 Prix : 17 000 euros,</description>
+    </item>
+    
+    <item>
+      <title>Auto-Dens</title>
+      <link>https://auto-dens.fr/about/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://auto-dens.fr/about/</guid>
+      <description>Auto-Dens Achat / Vente de voitures d&amp;rsquo;occasions,
+Telephone : 06 08 22 85 82
+email : autodens@orange.fr
+91 allée des tilleuls
+694200 TREVES</description>
     </item>
     
   </channel>
