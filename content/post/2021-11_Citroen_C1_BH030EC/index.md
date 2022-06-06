@@ -7,12 +7,12 @@ date = "2022-06-06"
 categories = [
     "Voitures",
 ]
-image = "../post/2021-11_Citroen_C1_BH030EC/images/1.jpg"
+image = "../post/2021-11_citroen_c1_bh030ec/images/1.jpg"
 +++
 
 # CITROEN  2011
 
-{{< gallery "../post/2021-11_Citroen_C1_BH030EC/images/1.jpg,../post/2021-11_Citroen_C1_BH030EC/images/2.jpg,../post/2021-11_Citroen_C1_BH030EC/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/2021-11_citroen_c1_bh030ec/images/1.jpg,../post/2021-11_citroen_c1_bh030ec/images/2.jpg,../post/2021-11_citroen_c1_bh030ec/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 CITROEN C1 1.0L ATTRACTION 3 portes rouge de 2011 totalisant 139.000 km

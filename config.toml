@@ -1,10 +1,10 @@
 baseurl = "https://auto-dens.fr/"  # Include trailing slash
-title = "Auto Dens - Achat / Vente de véhicules d'occasion - 06 08 22 85 82"
+title = "Achat / Vente de véhicules d'occasion - 06 08 22 85 82"
 theme = "hugo-swift-theme"
 author = "Denis Freydiere"
 copyright = "Copyright © 2008–2022, Denis Freydiere ; all rights reserved."
 canonifyurls = true
-paginate = 4
+paginate = 100
 # Enable syntax highlighting
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
