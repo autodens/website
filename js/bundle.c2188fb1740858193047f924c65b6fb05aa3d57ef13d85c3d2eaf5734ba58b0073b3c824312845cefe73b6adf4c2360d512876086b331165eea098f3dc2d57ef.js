@@ -272,7 +272,7 @@ function fileClosure(){
   headingNodes.forEach(function(node){
     link = createEl('a');
     icon = createEl('img');
-    icon.src = 'https://www.auto-dens.fr/images/icons/link.svg';
+    icon.src = 'https://auto-dens.fr/images/icons/link.svg';
     link.className = 'link';
     link.appendChild(icon);
     id = node.getAttribute('id');
