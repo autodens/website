@@ -1,9 +1,8 @@
 baseurl = "https://auto-dens.fr/"  # Include trailing slash
 title = "Auto Dens - Achat / Vente de véhicules d'occasion - 06 08 22 85 82"
 theme = "hugo-swift-theme"
-# theme = "swift"
 author = "Denis Freydiere"
-copyright = "Copyright © 2008–2018, Denis Freydiere ; all rights reserved."
+copyright = "Copyright © 2008–2022, Denis Freydiere ; all rights reserved."
 canonifyurls = true
 paginate = 4
 # Enable syntax highlighting
@@ -20,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
     fullName = "Denis Freydiere" # optional. If set, it will display on author card
     bio = ""
     photo = "/images/carte.jpg"
-    url = "http://www.auto-dens.fr"
+    url = "https://auto-dens.fr"
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
 
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
