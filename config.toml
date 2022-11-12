@@ -9,11 +9,13 @@ paginate = 100
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
+defaultContentLanguage = 'fr'
+
 
 [params]
-#  [params.designer]
-#    name = "Weru"
-#    url = "https://www.linkedin.com/in/dan-weru-profile/"
+  [params.designer]
+    name = "frett27"
+    url = "https://github.com/frett27"
   [[params.authors]]
     name = "autodens" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
     fullName = "Denis Freydiere" # optional. If set, it will display on author card

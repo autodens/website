@@ -8,6 +8,13 @@ categories = [
     "Voitures",
 ]
 image = "../post/2021-11_citroen_c1_bh030ec/images/1.jpg"
+adate = "2011"
+akm = "120 000km"
+agaz = "diesel"
+aboite = "Auto."
+apuissance="60 CH"
+acouleur = "Bleu"
+
 +++
 
 # CITROEN  2011

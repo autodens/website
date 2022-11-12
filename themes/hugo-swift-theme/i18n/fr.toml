@@ -63,7 +63,7 @@
 [errMsg]
   other = "Désolé, une erreur s'est produite lors de l'envoi du commentaire !"
 [moreFrom]
-  other = "Plus de billets sur"
+  other = "Plus de modèles sur"
 [discard]
   other = "effacer"
 [discardComment]

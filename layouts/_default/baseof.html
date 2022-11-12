@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang='{{ .Lang }}' >
   {{- partial "head" . }}
-  <body>
+  <body style='background-color: black;color:lightgray'>
     {{- partialCached "nav" . }}
     <main>
       {{- block "main" . }}{{ end }}
