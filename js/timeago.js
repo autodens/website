@@ -23,19 +23,19 @@ function calculateTimeSince(num){
     timeTag = timeAgo < 2 ? 'HR' : 'HRS';
   } else if (timeSince > day && timeSince < week) {
     timeAgo = Math.floor(timeSince / day);
-    timeTag = timeAgo < 2 ? 'DAY' : 'DAYS';
+    timeTag = timeAgo < 2 ? 'JR' : 'JRS';
   } else if (timeSince > week && timeSince < month) {
     timeAgo = Math.floor(timeSince / week);
-    timeTag = timeAgo < 2 ? 'WK' : 'WKS';
+    timeTag = timeAgo < 2 ? 'SEM' : 'SEMS';
   } else if (timeSince > month && timeSince < year) {
     timeAgo = Math.floor(timeSince / month);
-    timeTag = timeAgo < 2 ? 'MONTH' : 'MONTHS';
+    timeTag = timeAgo < 2 ? 'MOIS' : 'MOIS';
   } else if (timeSince > year) {
     timeAgo = Math.floor(timeSince / year);
-    timeTag = timeAgo < 2 ? 'YR' : 'YRS';
+    timeTag = timeAgo < 2 ? 'YR' : 'ANS';
   }
 
-  return `${timeAgo}&nbsp;${timeTag} AGO`;
+  return `IL Y A ${timeAgo}&nbsp;${timeTag}`;
 }
 
 function populateCommentsTime(nodes) {

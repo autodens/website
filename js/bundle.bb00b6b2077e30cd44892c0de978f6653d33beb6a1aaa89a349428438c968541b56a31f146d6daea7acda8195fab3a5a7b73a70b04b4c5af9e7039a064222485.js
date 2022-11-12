@@ -7,21 +7,21 @@ const parentURL = window.location.protocol + "//" + window.location.host + "/";
 const staticman = Object.create(null);
 const translations = {
   success: {
-    title: 'Review submitted',
-    text: 'Thanks for your review! It will be shown on the site once it has been approved.',
-    close: 'Close'
+    title: 'Commentaire envoyé',
+    text: 'Merci de votre commentaire !  Il s'affichera sur le site une fois approuvé.',
+    close: 'Fermer'
   },
   error: {
-    title: 'Error',
-    text: 'Sorry, there was an error with the submission!',
-    close: 'Close'
+    title: 'Erreur',
+    text: 'Désolé, une erreur s'est produite lors de l'envoi du commentaire !',
+    close: 'Fermer'
   },
   discard: {
-    title: 'Discard Comment',
-    button: 'discard'
+    title: 'Effacer commentaire',
+    button: 'effacer'
   },
-  submit: 'Submit',
-  submitted: 'Submitted'
+  submit: 'Envoyer',
+  submitted: 'Envoyé'
 };
 
 const tAddress = 'Address';
