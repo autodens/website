@@ -34,7 +34,7 @@ Carrosserie  TBEG
 Aucun frais à prévoir. 
 Contrôle technique OK 
 
-
+PRIX : 5900 Euros
 
 <!-- more -->
 
