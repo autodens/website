@@ -35,9 +35,8 @@ CT OK ( moins de 6 mois)
 CRITAIR 1
 
 
-disponible rapidement
 
-PRIX : 7000 Euros
+PRIX : vendue
 
 
 <!-- more -->
