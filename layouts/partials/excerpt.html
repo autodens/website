@@ -58,8 +58,15 @@
       {{ .Params.acouleur }}
       {{- end }}
       
+     
+
     </span>
-    <p class = 'pale'>{{ .Summary | truncate 90 }}</p>
     
+    <!-- <p class = 'pale'>{{ .Summary | truncate 90 }}</p>
+     -->
+     {{- if isset .Params "prix" }}
+     <p class="pale" style="text-align:end;font-size:medium;font-weight: bold;">{{ .Params.prix }} Euros</p>
+     {{- end }}
+      
   </div>
 </li>
