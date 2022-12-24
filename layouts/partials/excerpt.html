@@ -10,14 +10,17 @@
 {{- $image := $scratch.Get "image" }}
 {{- $bg := (path.Join "images" $image) }}
 <li class = 'post_item fp' style='background-color: grey;'>
-  <a class = 'post_card' href='{{ .Permalink }}' title = '{{ .Title }}' style = 'background-image: url({{ absURL $bg }});'>
+  <a class = 'post_card' href='{{ .Permalink }}' 
+    
+    title = '{{ .Title }}' style = 'height:23rem;background-image: url({{ absURL $bg }});'>
   </a>
   <div class = 'excerpt' style='padding: 16px;font-size:small;'>
     <div class = 'excerpt_meta'>
     {{- with .Params.tags -}}
       {{- range first 1 . }}
       {{- $tag := . | urlize }}
-      <a href = '{{ absURL (printf "tags/%s" $tag) }}' class = 'post_tag'>
+      <a href = '{{ absURL (printf "tags/%s" $tag) }}' 
+           class = 'post_tag'>
         {{- . }}
       </a>
       {{- end }}
