@@ -14,6 +14,7 @@ agaz = "diesel"
 aboite = "manu."
 apuissance="92 CV"
 acouleur = "grise"
+prix="5900"
 
 +++
 
