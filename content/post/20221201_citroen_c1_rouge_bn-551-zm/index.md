@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu."
 apuissance="68 CV"
 acouleur = "rouge"
-prix="4800"
+prix="4300"
 
 +++
 
@@ -38,7 +38,7 @@ double des clés
 
 disponible rapidement
 
-PRIX : 4800 Euros
+PRIX : 4300 Euros
 
 
 <!-- more -->
