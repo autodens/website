@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu."
 apuissance="68 CV"
 acouleur = "beige"
-
+prix="6500"
 +++
 
 # FIAT 500 cabriolet 2011
