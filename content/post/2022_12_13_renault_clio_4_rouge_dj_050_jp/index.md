@@ -7,7 +7,7 @@ date = "2022-06-06"
 categories = [
     "Voitures",
 ]
-image = "../post/2022_12_13_renault_clio_4_rouge_dj_050_jp/images/1.jpg"
+image = "../2022_12_13_renault_clio_4_rouge_dj_050_jp/images/1.jpg"
 adate = "2014"
 akm = "44.500km"
 agaz = "essence"
