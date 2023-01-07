@@ -19,7 +19,7 @@ prix="6500"
 
 # FIAT 500 cabriolet 2011
 
-{{< gallery "../post/2022_06_30_fiat500beige_capoterouge_bt031kw/images/1.jpg,../post/2022_06_30_fiat500beige_capoterouge_bt031kw/images/2.jpg,../2022_06_30_fiat500beige_capoterouge_bt031kw/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/2022_06_30_fiat500beige_capoterouge_bt031kw/images/1.jpg,../post/2022_06_30_fiat500beige_capoterouge_bt031kw/images/2.jpg,../post/2022_06_30_fiat500beige_capoterouge_bt031kw/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 FIAT 500 Cabriolet 1.2 8V 69 CH S&S LOUNGE
