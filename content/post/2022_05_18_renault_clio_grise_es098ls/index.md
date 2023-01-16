@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu."
 apuissance="90 CV"
 acouleur = "grise"
-prix="10700"
+prix="11000"
 
 +++
 
@@ -42,7 +42,6 @@ Radio
 CONDUITE
 Aide au démarrage en côte
 Commande Mode ECO
-Démarrage sans clé
 Limiteur de vitesse
 Régulateur de vitesse
 
@@ -113,7 +112,7 @@ Pas de courroie de distribution ( moteur à chaîne)
 
 disponible de suite
 
-PRIX : 10700 Euros
+PRIX : 11000 Euros
 
 
 <!-- more -->
