@@ -23,22 +23,19 @@ prix="9000"
 {{< gallery "../post/20221201_renaultclio4 blanche_1.2L_75CV/images/1.jpg,../post/20221201_renaultclio4 blanche_1.2L_75CV/images/2.jpg,../post/20221201_renaultclio4 blanche_1.2L_75CV/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-RENAULT CLIO IV Essence 1.2L 75 CV blanche  CRITAIR 1 affichant seulement 103000 km
+RENAULT CLIO IV Essence 1.2L 75 CV blanche TREND  CRITAIR 1 affichant seulement 103000 km
 
 Equipements :
-Climatisation AUTO, 4 vitres électriques, direction assistée, aide au démarrage en côte, radars de recul arrières, roue de secours, verrouillage centralisé, autoradio bluetooth tactile, feux auto, rétroviseurs électriques rabattables, verrouillage centralisé, jantes alu 16, etc...
+Climatisation, vitres électriques, direction assistée, aide au démarrage en côte, autoradio, rétroviseurs électriques , verrouillage centralisé, etc...
 
-Carrosserie : très propre ( qq petites rayures d'usage)
-Intérieur tissus : très propre
-Mécanique : entretien à jour ( dernière vidange + filtres en Décembre 2022) ; moteur à chaîne ( pas de courroie de distribution)
-disques et plaquettes de frein AV neuves
+Carrosserie en très bon état ( qq rayures d'usage)
+Intérieur tissus 
+Mécanique : entretien et la courroie de distribution sera faits pour la vente
 
-CT OK ( vierge)
+CT OK
 
 Voiture disponible rapidement
 
-mots clés : RENAULT, peugeot 208, ford fiesta, 500, citroen C3, audi A1...
-disponible rapidement
 
 PRIX : 9000 Euros
 
