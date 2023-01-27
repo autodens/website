@@ -52,29 +52,43 @@
 </div>
 
 <ul class='posts wrap' id = 'posts'>
-<li class = 'post_item fp' style='background-color: grey;'>
-  <a class = 'post_card' href='https://auto-dens.fr/categories/voitures/' 
-    
-    title = 'Voitures' style = 'height:18rem;background-image: url(https://auto-dens.fr/images/thumbnail.svg);'>
+<li class='post_item fp' style='background-color: grey;'>
+  <style>
+     .image-vignette {
+        height: 18rem;
+      }
+    @media (max-width: 750px) {
+      .image-vignette {
+      height: 12rem;
+      }
+    }
+
+    .excerpt {
+      padding: 8px;
+      padding-bottom: 4;
+      line-height: 0.2;
+    }
+  </style>
+  <a  href='https://auto-dens.fr/categories/voitures/' title='Voitures' class='post_card image-vignette'
+    style='background-image: url(https://auto-dens.fr/images/thumbnail.svg);'>
   </a>
-  <div class = 'excerpt' style='padding: 16px;font-size:small;'>
-    <div class = 'excerpt_meta'>
+  <div class='excerpt' style='padding: 16px;font-size:small;'>
+    <div class='excerpt_meta'>
     </div>
-    <h3 class = 'post_link'>
+    <h3 class='post_link'>
       <a href='https://auto-dens.fr/categories/voitures/'>Voitures</a>
     </h3>
     
-    <span class = 'icons'>
-      
-     
+    <span class='icons'>
+
+
 
     </span>
+
     
-    
-      
+
   </div>
 </li>
-
 </ul>
 
     </main><svg width="0" height="0" class="hidden">
