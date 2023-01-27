@@ -43,8 +43,9 @@
     <h3 class='post_link'>
       <a href='{{ .Permalink }}'>{{ .Title }}</a>
     </h3>
+
+    <div class='icons' style=''> 
     <!-- <p class = 'pale'>{{ .Summary | truncate 90 }}</p> -->
-    <span class='icons' style=''>
       {{- if isset .Params "adate" }}
       <i class="fas fa-calendar"></i>
       {{ .Params.adate }}
@@ -62,7 +63,7 @@
 
       {{- if isset .Params "aboite" }}
       <!-- <i class="fas fa-oil-can"></i> -->
-      <img src='{{  absURL ("images/gearbox.svg") }}' height="16px" width="16px" />
+      <img src='{{  absURL ("images/gearbox.svg") }}' style='margin:0px' height="16px" width="16px" />
       {{ .Params.aboite }}
       {{- end }}
 
@@ -77,8 +78,7 @@
       {{- end }}
 
 
-
-    </span>
+    </div>
 
     <!-- <p class = 'pale'>{{ .Summary | truncate 90 }}</p>
      -->
