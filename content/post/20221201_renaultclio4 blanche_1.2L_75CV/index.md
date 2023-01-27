@@ -30,7 +30,7 @@ Climatisation, vitres électriques, direction assistée, aide au démarrage en c
 
 Carrosserie en très bon état ( qq rayures d'usage)
 Intérieur tissus 
-Mécanique : entretien et la courroie de distribution sera faits pour la vente
+Mécanique : entretien et la courroie de distribution seront faits pour la vente
 
 CT OK
 
