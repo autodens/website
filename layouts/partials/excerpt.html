@@ -47,7 +47,8 @@
       {{- end }}
 
       {{- if isset .Params "aboite" }}
-      <i class="fas fa-oil-can"></i>
+      <!-- <i class="fas fa-oil-can"></i> -->
+      <img src='{{  absURL ("images/gearbox.svg") }}' height="16px" width="16px"/>
       {{ .Params.aboite }}
       {{- end }}
 
