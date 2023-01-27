@@ -23,7 +23,7 @@
     .excerpt {
       padding: 8px;
       padding-bottom: 4;
-      line-height: 0.2;
+      /* line-height: 0.2; */
     }
   </style>
   <a  href='{{ .Permalink }}' title='{{ .Title }}' class='post_card image-vignette'
@@ -44,7 +44,7 @@
       <a href='{{ .Permalink }}'>{{ .Title }}</a>
     </h3>
     <!-- <p class = 'pale'>{{ .Summary | truncate 90 }}</p> -->
-    <span class='icons'>
+    <span class='icons' style=''>
       {{- if isset .Params "adate" }}
       <i class="fas fa-calendar"></i>
       {{ .Params.adate }}
@@ -83,7 +83,7 @@
     <!-- <p class = 'pale'>{{ .Summary | truncate 90 }}</p>
      -->
     {{- if isset .Params "prix" }}
-    <p class="pale" style="text-align:end;font-size:medium;font-weight: bold;">{{ .Params.prix }} Euros</p>
+    <p class="pale" style="text-align:end;font-size:medium;font-weight: bold;padding-top:7px;">{{ .Params.prix }} Euros</p>
     {{- end }}
 
   </div>
