@@ -12,7 +12,7 @@ adate = "2009"
 akm = "8700km"
 agaz = "essence"
 aboite = "manu"
-apuissance=75 CV"
+apuissance= "75 CV"
 acouleur = "grise"
 prix="6800"
 
