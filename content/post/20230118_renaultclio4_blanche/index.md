@@ -12,7 +12,7 @@ adate = "2013"
 akm = "10300km"
 agaz = "essence"
 aboite = "manu"
-apuissance=75 CV"
+apuissance= "75 CV"
 acouleur = "blanche"
 prix="9000"
 
