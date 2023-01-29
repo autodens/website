@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu"
 apuissance= "75 CV"
 acouleur = "grise"
-prix="6800"
+prix="6500"
 
 +++
 
@@ -37,7 +37,7 @@ CT OK
 Voiture disponible rapidement
 
 
-PRIX : 6800 Euros
+PRIX : 6500 Euros
 
 
 <!-- more -->
