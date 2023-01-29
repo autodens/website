@@ -37,7 +37,7 @@ CT OK
 Voiture disponible rapidement
 
 
-PRIX : 9000 Euros
+PRIX : 6800 Euros
 
 
 <!-- more -->
