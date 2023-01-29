@@ -11,10 +11,10 @@ image = "../post/20221201_citroen_c1_rouge_bn-551-zm/images/1.jpg"
 adate = "2011"
 akm = "122 000km"
 agaz = "essence"
-aboite = "manu."
+aboite = "manuelle"
 apuissance="68 CV"
 acouleur = "rouge"
-prix="4300"
+prix="4500"
 
 +++
 
@@ -38,7 +38,7 @@ double des clés
 
 disponible rapidement
 
-PRIX : 4300 Euros
+PRIX : 4500 Euros
 
 
 <!-- more -->
