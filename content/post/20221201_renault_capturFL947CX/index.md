@@ -7,7 +7,7 @@ date = "2023-01-31"
 categories = [
     "Voitures",
 ]
-image = "../post/20221201_renaultclio3_grise/images/1.jpg"
+image = "../post/20221201_renault_capturFL947CX/images/1.jpg"
 adate = "2019"
 akm = "29000km"
 agaz = "essence"
@@ -20,7 +20,7 @@ prix="14900"
 
 # RENAULT CAPTUR 2019 ESSENCE 29 000 km
 
-{{< gallery "../post/20221201_renaultclio3_grise/images/1.jpg,../post/20221201_renaultclio3_grise/images/2.jpg,../post/20221201_renaultclio3_grise/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20221201_renault_capturFL947CX/images/1.jpg,../post/20221201_renault_capturFL947CX/images/2.jpg,../post/20221201_renault_capturFL947CX/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 RENAULT CAPTUR Essence 0.9TCE 90 CV gris platine finition BUSINESS CRITAIR 1 affichant seulement 290000 km
