@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20221201_renaultclio3_grise/images/1.jpg"
 adate = "2009"
-akm = "8700km"
+akm = "87 000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance= "75 CV"
