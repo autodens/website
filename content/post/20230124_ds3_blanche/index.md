@@ -18,24 +18,26 @@ prix="8900"
 
 +++
 
-# DS3 Blanche 2015 ESSENCE 113 000 km
+# DS3 Blanche 2015 1.2L ESSENCE 82CV 113 000 km
 
 {{< gallery "../post/20230124_ds3_blanche/images/1.jpg,../post/20230124_ds3_blanche/images/2.jpg,../post/20230124_ds3_blanche/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-DS3 So chic blanche, toit émeraude de 08/2015 essence affichant 113 000 km
+DS3 "So chic" blanche, toit émeraude de 08/2015 1.2L essence affichant 113 000 km
 
 Equipements :
 ABS, ESP, Airbags,vitres électriques, direction assistée, Radio CD RDS avec commande au volant,regulateur de vitesse, pack chrome, rétroviseurs électriques ,verrouillage centralisé avec telecommande, fixations isofix,
-jantes alu 16 pouces, climatisation,feu diurnes LED, etc..
+jantes alu 16 pouces, climatisation,feu diurnes LED, CRIT AIR 1, Etc...
 
-Carrosserie en très bon état
+Carrosserie : en très bon état
 
 Intérieur : sellerie tissu 
 
-Mécanique : entretien suivi Réseau exclusivemenet / moteur neuf, remplacé par CITROEN en 03/2022
+Mécanique : entretien suivi Réseau CITROEN exclusivemenet avec factures/ moteur neuf, remplacé par CITROEN en 03/2022 à 97000km
+batterie neuve, disques + plaquettes de freins avant TRW recents.
+dernier entretien 07/2022
 
-
+Rien à prévoir
 
 Voiture disponible rapidement
 
