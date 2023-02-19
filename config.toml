@@ -1,5 +1,5 @@
 baseurl = "https://auto-dens.fr/"  # Include trailing slash
-title = "Achat / Vente de véhicules d'occasion - 06 08 22 85 82"
+title = "Achat / Vente de véhicules d'occasion"
 theme = "hugo-swift-theme"
 author = "Denis Freydiere"
 copyright = "Copyright © 2008–2022, Denis Freydiere ; all rights reserved."
