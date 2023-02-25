@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "75 CV"
 acouleur = "blanche"
-prix="9000"
+prix="8900"
 
 +++
 
@@ -25,26 +25,25 @@ prix="9000"
 
 RENAULT CLIO IV Essence 1.2L 75 CV blanche TREND  CRITAIR 1 affichant seulement 103000 km
 
-Equipements :
+EQUIPEMENTS :
 Climatisation, vitres électriques, direction assistée, aide au démarrage en côte, autoradio, rétroviseurs électriques , verrouillage centralisé, etc...
-
 Merci de valider cette liste d'équipements avec un commercial
 
-Carrosserie :
-En très bon état ( PC avant et arrière repeint)
+CARROSSERIE :
+En très bon état (Parechocs avant et arrière repeints)
 
-Intérieur :
+INTERIEUR :
 Tissus noir et rouge très propre
 
-Mécanique :
-Entretien et la courroie de distribution sont à jour
+MECANIQUE :
+Entretien complet réalisé chez RENAULT depuis l'origine.La courroie de distribution est à jour (faite en 2019 à 64000 km)
 
-CT OK
+CONTROLE TECHNIQUE : OK
 
 Voiture disponible rapidement
 
 
-PRIX : 9000 Euros
+PRIX : 8900 Euros
 
 
 <!-- more -->
