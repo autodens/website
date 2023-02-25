@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance="90 CV"
 acouleur = "grise"
-prix="11000"
+prix="10900"
 
 +++
 
@@ -100,19 +100,21 @@ ESP
 Préparation Isofix
 Troisième ceinture de sécurité
 
-Descriptif Renault sous reserve d'erreur
+Liste d'équipements à valider avec un commercial
 
 
 ENTRETIEN
 entretien à jour avec factures ( dernier entretien 12/2022)
-carrosserie : propre
-
-2 clés
 Pas de courroie de distribution ( moteur à chaîne)
 
-disponible de suite
+CARROSSERIE : propre
 
-PRIX : 11000 Euros
+2 clés
+
+
+Disponible rapidement
+
+PRIX : 10900 Euros
 
 
 <!-- more -->

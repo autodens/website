@@ -28,12 +28,13 @@ RENAULT CAPTUR Essence 0.9TCE 90 CV gris platine finition BUSINESS CRITAIR 1 aff
 Equipements :
 vitres électriques, direction assistée, systeme Media Nav evolution, écran tactile 7 pouces,bluetooth, rétroviseurs électriques ,verrouillage centralisé avec telecommande, fixations isofix,
 jantes alu 16 pouces,GPS, climatisation manuelle, feux de jour LED, etc..
+Merci de valider cette liste d'équipements avec un commercial
 
-Carrosserie en très bon état
+Carrosserie : en très bon état
 
 Intérieur : sellerie tissu carbone foncé
 
-Mécanique : entretien suivi Réseau / carnet disponible
+Mécanique : entretien et suivi Réseau RENAULT .
 
 
 

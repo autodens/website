@@ -24,21 +24,24 @@ prix="7200"
 
 
 VOLKSWAGEN POLO 5 1.2L TREND 5 portes noire de 2010 totalisant 127.000 km
-Puissance fiscale : 4cv
-puissance réelle : 60Cv
-faibles coûts en assurance et en carburant
+
+Equipements :
 Vérouillage centralisé avec telecommande, vitres electriques, direction assistée, isofix, airbags, radio CD MP3, etc..
+Merci de valider cette liste d'équipements avec un commercial
 
 
-Entretien mécanique à jour ( dernier entretien 01/2023)
-amortisseurs neufs MONROE, rotules de direction neuves...
+Entretien mécanique:
+A jour ( dernier entretien 01/2023)
+Amortisseurs neufs MONROE, rotules de direction neuves...
+Pas de courroie de distribution ( moteur à chaîne)
 
-pas de courroie de distribution ( moteur à chaîne)
 Carrosserie : impeccable
+
+Intérieur : tissu propre
+
 CT OK ( moins de 6 mois)
 
-
-disponible rapidement
+Disponible rapidement
 
 PRIX : 7200 Euros
 

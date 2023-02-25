@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance="95 CV"
 acouleur = "noire"
-prix="6500"
+prix="6300"
 
 +++
 
@@ -24,20 +24,27 @@ prix="6500"
 
 
 MINI ONE 1.4L 95CV noire Essence de 2009 totalisant 122.000 km
-Puissance fiscale : 5cv
-puissance réelle : 95Cv
+
+Equipements :
 Boîte de vitesse manuelle 6 vitesses, jantes alu, airbags, climatisation, vitres electriques, verouillage centralisé, direction assistée...etc
+Merci de valider cette liste d'équipements avec un commercial
 
 Entretien mécanique à jour ( grosse révision moteur l'an passé)
 Pas de courroie de distribution ( moteur à chaîne)
+
 Carrosserie : propre
+
+Intérieur : Tissu propre
+
 CT OK ( moins de 6 mois)
+
 CRITAIR 1
+
 Double des clés
 
-disponible rapidement
+Disponible rapidement
 
-PRIX : 6500 Euros
+PRIX : 6300 Euros
 
 
 <!-- more -->

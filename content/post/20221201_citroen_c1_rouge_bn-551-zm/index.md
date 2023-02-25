@@ -24,19 +24,22 @@ prix="4500"
 
 
 CITROEN C1 1.0L ATTRACTION 3 portes rouge de 2011 totalisant 122.000 km
-Puissance fiscale : 4cv
-puissance réelle : 68Cv
-faibles coûts en assurance et en carburant
 
+Intérieur :
+Tissus bicolore très propre
 
-Entretien mécanique à jour 
-pas de courroie de distribution ( moteur à chaîne)
+Entretien mécanique : à jour 
+Pas de courroie de distribution ( moteur à chaîne)
+
 Carrosserie : propre
-CT OK ( moins de 6 mois)
-CRITAIR 1
-double des clés
 
-disponible rapidement
+CT OK ( moins de 6 mois)
+
+CRITAIR 1
+
+Double des clés
+
+Disponible rapidement
 
 PRIX : 4500 Euros
 

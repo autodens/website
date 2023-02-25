@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance="68 CV"
 acouleur = "beige"
-prix="6500"
+prix="6400"
 +++
 
 # FIAT 500 cabriolet 2011
@@ -25,23 +25,29 @@ prix="6500"
 FIAT 500 Cabriolet 1.2 8V 69 CH S&S LOUNGE
 
 
-FIAT 500C de 2011, beige avec capote bordeaux, totalisant 158mkm
+FIAT 500C de 2011, beige avec capote bordeaux, totalisant 158000km
 
-Equipements : climatisation manuelle, direction assistée, mode city, verrouillage centralisé avec télécommande,
+Equipements :
+Climatisation manuelle, direction assistée, mode city, verrouillage centralisé avec télécommande,
 autoradio bluetooth, vitres électrique, capote électrique, sièges isofix, double des clés,
 radars de recul arrière, etc
+Merci de vérifier cette liste d'équipements avec un commercial
 
-Mécanique : entretien courant fait ( vidange+filtres), courroie de distribution remplacée ,
+Mécanique :
+Entretien courant fait ( vidange+filtres), courroie de distribution remplacée ,
 pompe à eau neuve, courroie accessoire neuve, amortisseurs avants neufs...
 
-CT OK
+Carrosserie :
+très propre 
 
-Carrosserie : propre 
+Intérieur :
+tissus avec rebords en cuir très propre
 
+Contôle technique : OK ( moins de 6 mois )
 
-disponible rapidement
+Disponible rapidement
 
-PRIX : 6500 Euros
+PRIX : 6400 Euros
 
 
 <!-- more -->

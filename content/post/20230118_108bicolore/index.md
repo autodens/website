@@ -25,18 +25,23 @@ prix="7800"
 
 PEUGEOT 108 1.0L 68CV 3p, bicolore de 2015 affichant seulement 41000km
 
-Equipements : verrouillage centralisé avec telecommande, vitres electriques avant, poste radio USB BLUETOOTH, climatisation manuelle, etc
+Equipements :
+Verrouillage centralisé avec telecommande, vitres electriques avant, poste radio USB BLUETOOTH, climatisation manuelle, etc
 Descriptif des options Peugeot pouvant contenir des erreurs, à valider avec le commercial lors de la visite
+Merci de valider cette liste d'équipements avec un commercial
 
-Carrosserie : très propre
-Intérieur : tissus à carreaux impeccable
-Entretien mécanique à jour ( dernier entretien 02/2023). Modèle avec chaine de distribution
+Carrosserie :
+Très propre
+
+Intérieur :
+Tissus à carreaux impeccable
+
+Entretien mécanique :
+A jour ( dernier entretien 02/2023). Modèle avec chaine de distribution. Batterie neuve
 
 CT OK ( moins de 6 mois)
-CRITAIR 1
 
-
-disponible rapidement
+Disponible rapidement
 
 PRIX : 7800 Euros
 

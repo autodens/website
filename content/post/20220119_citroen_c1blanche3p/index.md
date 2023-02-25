@@ -24,21 +24,21 @@ prix="4900"
 
 
 CITROEN C1 1.0L ATTRACTION 3 portes blanche de 2011 totalisant seulement 76.000 km
-Puissance fiscale : 4cv
-puissance réelle : 68Cv
-faibles coûts en assurance et en carburant
-
 
 
 Entretien mécanique à jour ( dernier entretien 02/2023)
 embrayage neuf
 pas de courroie de distribution ( moteur à chaîne)
+
 Carrosserie : impeccable
+
+Intérieur : tissu trè propre
+
 CT OK ( moins de 6 mois)
+
 CRITAIR 1
 
-
-disponible rapidement
+Disponible rapidement
 
 PRIX : 4900 Euros
 

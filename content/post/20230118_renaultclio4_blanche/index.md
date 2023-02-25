@@ -27,10 +27,16 @@ RENAULT CLIO IV Essence 1.2L 75 CV blanche TREND  CRITAIR 1 affichant seulement 
 
 Equipements :
 Climatisation, vitres électriques, direction assistée, aide au démarrage en côte, autoradio, rétroviseurs électriques , verrouillage centralisé, etc...
+Merci de valider cette liste d'équipements avec un commercial
 
-Carrosserie en très bon état ( qq rayures d'usage)
-Intérieur tissus 
-Mécanique : entretien et la courroie de distribution seront faits pour la vente
+Carrosserie :
+En très bon état ( PC avant et arrière repeint)
+
+Intérieur :
+Tissus noir et rouge très propre
+
+Mécanique :
+Entretien et la courroie de distribution sont à jour
 
 CT OK
 
