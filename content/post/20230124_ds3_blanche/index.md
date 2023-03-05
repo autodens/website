@@ -26,8 +26,7 @@ prix="8900"
 DS3 "So chic" blanche, toit émeraude de 08/2015 1.2L essence affichant 113 000 km
 
 ### EQUIPEMENTS :
-ABS, ESP, Airbags,vitres électriques, direction assistée, Radio CD RDS avec commande au volant,regulateur de vitesse, pack chrome, rétroviseurs électriques ,verrouillage centralisé avec telecommande, fixations isofix,
-jantes alu 16 pouces, climatisation,feu diurnes LED, CRIT AIR 1, Etc...
+ABS, ESP, Airbags,vitres électriques, direction assistée, Radio CD RDS avec commande au volant,regulateur de vitesse, pack chrome, rétroviseurs électriques ,verrouillage centralisé avec telecommande, fixations isofix, jantes alu 16 pouces, climatisation,feu diurnes LED, CRIT AIR 1, Etc...
 
 Merci de valider cette liste d'équipements avec un commercial
 
@@ -43,14 +42,15 @@ batterie neuve, disques + plaquettes de freins avant TRW recents.
 
 Dernier entretien 07/2022
 
-### CT : OK
+### CT : 
+OK
 
 Rien à prévoir
 
 Voiture disponible rapidement
 
 
-**PRIX : 8900 Euros**
+### PRIX : 8900 Euros
 
 
 <!-- more -->
