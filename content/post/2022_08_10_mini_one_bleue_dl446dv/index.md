@@ -25,24 +25,25 @@ prix="6700"
 
 MINI ONE 1.4L 95CV Couleur bleue, année 2008, 114.000km, 95 CV, puissance 5 CV,
 
-Equipements :
-boite de vitesse mécanique 6 rapports, airbags, jantes alu,
-climatisation, vitres électriques, direction assistée, autoradio CD, ….
+###  EQUIPEMENTS :
+Boîte de vitesse mécanique 6 rapports, airbags, jantes alu, climatisation, vitres électriques, direction assistée, autoradio CD, ….
 Merci de valider cette liste d'équipements avec un commercial
 
+### CARROSSERIE :
+Bon état
+
+### INTERIEUR :
+Tissu propre
+
+###  MECANIQUE :
 Entretien à jour (chaîne de distribution). historique des factures dispo
-
-Carrosserie en bon état
-
-Interieur tissus noir
-
-Contrôle technique OK (08/2022),
+Contrôle technique OK (08/2022) sera refait pour la vente
 
 Disponible rapidment
 
 Aucun frais à prévoir.
 
-PRIX : 6700 Euros
+### PRIX : 6700 Euros
 
 
 <!-- more -->

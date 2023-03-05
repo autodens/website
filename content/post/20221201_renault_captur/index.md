@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "90 CV"
 acouleur = "grise"
-prix="14900"
+prix="14800"
 
 +++
 
@@ -25,23 +25,25 @@ prix="14900"
 
 RENAULT CAPTUR Essence 0.9TCE 90 CV gris platine finition BUSINESS CRITAIR 1 affichant seulement 29 000 km
 
-Equipements :
-vitres électriques, direction assistée, systeme Media Nav evolution, écran tactile 7 pouces,bluetooth, rétroviseurs électriques ,verrouillage centralisé avec telecommande, fixations isofix,
-jantes alu 16 pouces,GPS, climatisation manuelle, feux de jour LED, etc..
+### EQUIPEMENTS :
+Vitres électriques, direction assistée, systeme Media Nav evolution, écran tactile 7 pouces,bluetooth, rétroviseurs électriques ,verrouillage centralisé avec telecommande, fixations isofix, jantes alu 16 pouces, GPS, climatisation manuelle, feux de jour LED, etc..
 Merci de valider cette liste d'équipements avec un commercial
 
-Carrosserie : en très bon état
+### CARROSSERIE : 
+Très bon état
 
-Intérieur : sellerie tissu carbone foncé
+### INTERIEUR :
+Sellerie tissu carbone foncé
 
-Mécanique : entretien et suivi Réseau RENAULT .
-
+### MECANIQUE :
+Entretien et suivi Réseau RENAULT .
+Moteur à chaîne de distribution
 
 
 Voiture disponible rapidement
 
 
-PRIX : 14900 Euros
+### PRIX : 14800 Euros
 
 
 <!-- more -->

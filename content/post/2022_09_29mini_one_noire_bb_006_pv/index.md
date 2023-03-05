@@ -25,18 +25,20 @@ prix="6300"
 
 MINI ONE 1.4L 95CV noire Essence de 2009 totalisant 122.000 km
 
-Equipements :
+### EQUIPEMENTS :
 Boîte de vitesse manuelle 6 vitesses, jantes alu, airbags, climatisation, vitres electriques, verouillage centralisé, direction assistée...etc
 Merci de valider cette liste d'équipements avec un commercial
 
-Entretien mécanique à jour ( grosse révision moteur l'an passé)
+### CARROSSERIE :
+Propre
+
+### INTERIEUR :
+Tissu noir et gris
+
+### MECANIQUE : 
+Entretien mécanique à jour ( grosse révision 12/2021)
 Pas de courroie de distribution ( moteur à chaîne)
-
-Carrosserie : propre
-
-Intérieur : Tissu propre
-
-CT OK ( moins de 6 mois)
+Contrôle technique OK ( moins de 6 mois)
 
 CRITAIR 1
 
@@ -44,7 +46,7 @@ Double des clés
 
 Disponible rapidement
 
-PRIX : 6300 Euros
+### PRIX : 6300 Euros
 
 
 <!-- more -->

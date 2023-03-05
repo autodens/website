@@ -27,7 +27,7 @@ prix="10900"
 RENAULT CLIO IV grise ZEN 90cv 0.9TCE de 12/2017 affichant 94.000km
 5 portes
 
-Equipements :
+### EQUIPEMENTS :
 
 AUDIO - TÉLÉCOMMUNICATIONS
 Commandes du système audio au volant
@@ -103,18 +103,22 @@ Troisième ceinture de sécurité
 Liste d'équipements à valider avec un commercial
 
 
-ENTRETIEN
+### MECANIQUE :
 entretien à jour avec factures ( dernier entretien 12/2022)
 Pas de courroie de distribution ( moteur à chaîne)
 
-CARROSSERIE : propre
+### CARROSSERIE :
+Propre
 
-2 clés
+###  INTERIEUR
+Tissu style carbone
+
+2 clés (cartes)
 
 
 Disponible rapidement
 
-PRIX : 10900 Euros
+### PRIX : 10900 Euros
 
 
 <!-- more -->

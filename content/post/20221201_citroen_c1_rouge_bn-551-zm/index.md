@@ -25,15 +25,21 @@ prix="4500"
 
 CITROEN C1 1.0L ATTRACTION 3 portes rouge de 2011 totalisant 122.000 km
 
-Intérieur :
+### EQUIPEMENTS :
+Direction assistée, sièges isofix, poste radio bluetooth, vitres manuelles, roue de secours, etc..
+Merci de valider cette liste d'équipements avec un commercial
+
+### CARROSSERIE :
+Très propre
+
+### INTERIEUR :
 Tissus bicolore très propre
 
-Entretien mécanique : à jour 
-Pas de courroie de distribution ( moteur à chaîne)
-
-Carrosserie : propre
-
-CT OK ( moins de 6 mois)
+### MECANIQUE :
+Entretien mécanique à jour 
+Derniere vidange 02/2023
+Pas de courroie de distribution (moteur à chaîne)
+Controle technique OK ( moins de 6 mois)
 
 CRITAIR 1
 
@@ -41,7 +47,7 @@ Double des clés
 
 Disponible rapidement
 
-PRIX : 4500 Euros
+### PRIX : 4500 Euros
 
 
 <!-- more -->
