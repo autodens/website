@@ -26,7 +26,7 @@ prix="4900"
 TOYOTA AYGO Grise 1.0L essence 5 portes de 2012 affichant 154000 km
 
 ### EQUIPEMENTS :
-Verrouilage centralisé avec telecommande, vitres electriques, climatisation manuelle, radio bluetooth, roue de secours, sièges isofix, etc...
+Verrouillage centralisé avec télecommande, vitres électriques, climatisation manuelle, radio bluetooth, roue de secours, sièges isofix, etc...
 
 Merci de valider cette liste d'équipements avec un commercial
 
@@ -34,12 +34,12 @@ Merci de valider cette liste d'équipements avec un commercial
 Impeccable
 
 ### INTERIEUR :
-Sellerie tissu gris et noi très propre
+Sellerie tissu gris et noir très propre
 
 ### MECANIQUE : 
 Entretien suivi avec factures recentes.
 Dernier entretien Octobre 2022
-Moteur à chaine de distribution ( pas de courroie)
+Moteur à chaîne de distribution ( pas de courroie)
 CT : OK
 
 Rien à prévoir
