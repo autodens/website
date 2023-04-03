@@ -7,7 +7,7 @@ date = "2023-03-27
 categories = [
     "Voitures",
 ]
-image = "../post/20230403_peugeot_107_grisfonce_5pBVA/images/1.jpg"
+image = "../post/20230404_peugeot_107_grisfonce_5pbva/images/1.jpg"
 adate = "2006"
 akm = "108 000km"
 agaz = "essence"
@@ -20,7 +20,7 @@ prix="6300"
 
 # PEUGEOT 107 grise BVA 2006
 
-{{< gallery "../post/20230403_peugeot_107_grisfonce_5pBVA/images/1.jpg,../post/20230403_peugeot_107_grisfonce_5pBVA/images/2.jpg,../post/20230403_peugeot_107_grisfonce_5pBVA/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20230404_peugeot_107_grisfonce_5pbva/images/1.jpg,../post/20230404_peugeot_107_grisfonce_5pbva/images/2.jpg,../post/20230404_peugeot_107_grisfonce_5pbva/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 107- Année 2006 - 108 000 Km BVA 5 portes grise de 2006 totalisant 108 000 km
