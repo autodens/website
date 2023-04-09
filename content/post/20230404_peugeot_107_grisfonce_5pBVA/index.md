@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20230404_peugeot_107_grisfonce_5pbva/images/1.jpg"
 adate = "2006"
-akm = "108 000km"
+akm = "108000km"
 agaz = "essence"
 aboite = "automatique"
 apuissance="68 CV"
