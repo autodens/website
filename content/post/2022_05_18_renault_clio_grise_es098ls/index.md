@@ -9,12 +9,12 @@ categories = [
 ]
 image = "../post/2022_05_18_renault_clio_grise_es098ls/images/1.jpg"
 adate = "2017"
-akm = " 95000km"
+akm = " 96000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance="90 CV"
 acouleur = "grise"
-prix="10900"
+prix="10500"
 
 +++
 
@@ -24,7 +24,7 @@ prix="10900"
 
 
 
-RENAULT CLIO IV grise ZEN 90cv 0.9TCE de 12/2017 affichant 94.000km
+RENAULT CLIO IV grise ZEN 90cv 0.9TCE de 12/2017 affichant 96.000km
 5 portes
 
 ### EQUIPEMENTS :
@@ -118,7 +118,7 @@ Tissu style carbone
 
 Disponible rapidement
 
-### PRIX : 10900 Euros
+### PRIX : 10500 Euros
 
 
 <!-- more -->
