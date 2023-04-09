@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20230405_peugeot_107_grisclair_5p_34mkm/images/1.jpg"
 adate = "2011"
-akm = "34 000km"
+akm = "34000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance="68 CV"
