@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance="68 CV"
 acouleur = "gris clair"
-prix="6900"
+prix="6600"
 
 +++
 
@@ -30,7 +30,7 @@ Vérrouillage centralisé, clim manuelle, Direction assistée,compte tours, siè
 Merci de valider cette liste d'équipements avec un commercial
 
 ### CARROSSERIE :
-Propre ( voir photos) rayure porte ARD
+Propre ( voir photos) leger enfoncement aile avg et porte ard
 
 ### INTERIEUR :
 Tissus noir/gris très propre
@@ -50,7 +50,7 @@ Double des clés
 
 Disponible rapidement
 
-### PRIX 6900 Euros
+### PRIX 6600 Euros
 
 
 <!-- more -->
