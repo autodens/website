@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance="68 CV"
 acouleur = "beige"
-prix="6400"
+prix="6300"
 +++
 
 # FIAT 500 cabriolet 2011
@@ -46,7 +46,7 @@ Contôle technique : OK
 
 Disponible rapidement
 
-### PRIX : 6400 Euros
+### PRIX : 6300 Euros
 
 
 <!-- more -->
