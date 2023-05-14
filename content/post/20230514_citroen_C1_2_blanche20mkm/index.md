@@ -7,7 +7,7 @@ date = "2023-05-14"
 categories = [
     "Voitures",
 ]
-image = "../post/20230514_citroen_C1_2_blanche20mkm/images/1.jpg"
+image = "../post/20230514_citroen_c1_2_blanche20mkm/images/1.jpg"
 adate = "20117
 akm = "20 000km"
 agaz = "essence"
@@ -20,7 +20,7 @@ prix="7990"
 
 # CITROEN C1 2017 ESSENCE
 
-{{< gallery "../post/20230514_citroen_C1_2_blanche20mkm/images/1.jpg,../post/20230514_citroen_C1_2_blanche20mkm/images/2.jpg,../post/20230514_citroen_C1_2_blanche20mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20230514_citroen_c1_2_blanche20mkm/images/1.jpg,../post/20230514_citroen_c1_2_blanche20mkm/images/2.jpg,../post/20230514_citroen_c1_2_blanche20mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 CITROEN C1 (2) 1.0L VTI LIVE Essence 3 portes blanche  de 2017 totalisant 20.000 km
