@@ -8,7 +8,7 @@ categories = [
     "Voitures",
 ]
 image = "../post/20230514_citroen_c1_blanche20mkm/images/1.jpg"
-adate = "20117
+adate = "2017
 akm = "20 000km"
 agaz = "essence"
 aboite = "manuelle"
