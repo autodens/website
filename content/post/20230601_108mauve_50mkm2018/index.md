@@ -39,7 +39,7 @@ Comme neuf
 Entretien mécanique à jour 
 Derniere vidange 06/2023
 Pas de courroie de distribution (moteur à chaîne)
-Controle technique OK ( moins de 6 mois)
+Controle technique OK (moins de 6 mois)
 
 CRITAIR 1
 
