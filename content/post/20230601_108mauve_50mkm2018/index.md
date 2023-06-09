@@ -12,7 +12,7 @@ adate = "2018"
 akm = "59 000km"
 agaz = "essence"
 aboite = "manuelle"
-apuissance= "72 CV"
+apuissance= "72CV"
 acouleur = "mauve"
 prix="8200"
 
