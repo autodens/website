@@ -7,7 +7,7 @@ date = "2023-06-30"
 categories = [
     "Voitures",
 ]
-image = "../post/20230530_clio3grise_137mkm2011/images/1.jpg"
+image = "../post/20230630_clio3rouge_71mkm2013/images/1.jpg"
 adate = "2013"
 akm = "71 000km"
 agaz = "essence"
