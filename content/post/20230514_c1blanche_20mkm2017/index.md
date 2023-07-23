@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
 acouleur = "blanche"
-prix="7800"
+prix="7600"
 
 +++
 
@@ -47,7 +47,7 @@ CRITAIR 1
 
 Disponible rapidement
 
-### PRIX : 7800 Euros
+### PRIX : 7600 Euros
 
 
 <!-- more -->
