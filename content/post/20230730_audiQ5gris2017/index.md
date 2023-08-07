@@ -7,7 +7,7 @@ date = "2023-07-30"
 categories = [
     "Voitures",
 ]
-image = "../post/20230730_audiQ5gris2017/images/1.jpg"
+image = "../post/20230730_audiq5gris2017/images/1.jpg"
 adate = "2017"
 akm = "130 000km"
 agaz = "diesel"
@@ -20,7 +20,7 @@ prix="29 000"
 
 # AUDI Q5
 
-{{< gallery "../post/20230730_audiQ5gris2017/images/1.jpg,../post/20230730_audiQ5gris2017/images/2.jpg,../post/20230730_audiQ5gris2017/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20230730_audiq5gris2017/images/1.jpg,../post/20230730_audiq5gris2017/images/2.jpg,../post/20230730_audiq5gris2017/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 AUDI Q5 2L 190CV QUATTRO PACK Business Executive gris fleuret metallisé de 11/2017 affichant 130000km
