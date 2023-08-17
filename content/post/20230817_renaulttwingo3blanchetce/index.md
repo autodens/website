@@ -14,7 +14,7 @@ agaz = "Essence"
 aboite = "manu"
 apuissance= "90 CV"
 acouleur = "blanc"
-prix="8500"
+prix="8600"
 
 +++
 
@@ -91,7 +91,7 @@ Liste d'options à valider avec un commercial lors de votre visite
 Voiture disponible rapidement
 
 
-### PRIX : 8500 Euros
+### PRIX : 8600 Euros
 
 
 <!-- more -->
