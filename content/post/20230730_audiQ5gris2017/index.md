@@ -29,106 +29,107 @@ Véhicule première main
 
 ### EQUIPEMENTS :
 
-Argent Fleuret,
-8 Haut parleurs,
-ABS,
-Accoudoir central AV,
-Aide au freinage d'urgence,
-Airbag conducteur,
-Airbag passager déconnectable,
-Airbags latéraux avant,
-Airbags rideaux AV et AR,
-Antidémarrage électronique,
-Antipatinage,
-Appui-tête conducteur réglable hauteur,
-Appui-tête passager réglable en hauteur,
-Arrêt et redémarrage auto. du moteur,
-Bacs de portes arrière,
-Bacs de portes avant,
-Banquette 40/20/40,
-Banquette AR rabattable,
-Banquette arrière 3 places,
-Barres de toit,
-Blocage électronique du différentiel,
-Boite à gants éclairée et réfrigérable,
-Borne Wi-Fi,
-Boucliers AV et AR couleur caisse,
-Buses de lave-glace chauffantes,
-Capteur de luminosité,
-Capteur de pluie,
-Ceinture de vitrage chromée,
-Ceintures avant ajustables en hauteur,
-Clim automatique tri-zones,
-Coffre assisté électriquement,
-Commande Climatisation AR,
-Commandes du système audio au volant,
-Commandes vocales,
-Compte tours,Contrôle élect. de la pression des pneus,
-Démarrage sans clé,
-Disque dur multimédia EBD,
-Echappement à double sortie,
-Ecran multifonction couleur,
-ESP,
-Essuie-glace arrière,
-Feux arrière à LED,
-Feux de jour à LED,
-Filets de coffre,
-Filtre à particules,
-Filtre à Pollen,
-Fixation Isofix siège passager avant,
-Fixations Isofix aux places arrières,
-Freinage automatique d'urgence,
-GPS Cartographique,
-Interface Media,
-Jantes Alu,
-Kit Fumeur,
-Kit mains-libres Bluetooth,
-Lampe de coffre,
-Lampes de lecture à l'avant,
-Lecteur carte SD,
-Lecteur CD,
-Limiteur de vitesse,
-Lunette AR dégivrante,
-Miroir de courtoisie conducteur,
-Miroir de courtoisie passager,
-Mode de conduite,
-Ordinateur de bord,
-Ouverture des vitres séquentielle,
-Palettes changement vitesses au volant,
-Phares xénon,
-Poches d'aumonières,
-Poignées ton carrosserie,
-Porte-gobelets arrière,
-Porte-gobelets avant,
-Prise 12V,
-Prise auxiliaire de connexion audio,
-Prise USB,
-Radar de stationnement AR,
-Radar de stationnement AV,
-Radio,
-Régulateur de vitesse,
-Répétiteurs de clignotant dans rétro ext,
-Rétroviseur intérieur électrochrome,
-Rétroviseurs dégivrants,
+Argent Fleuret
+8 Haut parleurs
+ABS
+Accoudoir central AV
+Aide au freinage d'urgence
+Airbag conducteur
+Airbag passager déconnectable
+Airbags latéraux avant
+Airbags rideaux AV et AR
+Antidémarrage électronique
+Antipatinage
+Appui-tête conducteur réglable hauteur
+Appui-tête passager réglable en hauteur
+Arrêt et redémarrage auto. du moteur
+Bacs de portes arrière
+Bacs de portes avant
+Banquette 40/20/40
+Banquette AR rabattable
+Banquette arrière 3 places
+Barres de toit
+Blocage électronique du différentiel
+Boite à gants éclairée et réfrigérable
+Borne Wi-Fi
+Boucliers AV et AR couleur caisse
+Buses de lave-glace chauffantes
+Capteur de luminosité
+Capteur de pluie
+Ceinture de vitrage chromée
+Ceintures avant ajustables en hauteur
+Clim automatique tri-zones
+Coffre assisté électriquement
+Commande Climatisation AR
+Commandes du système audio au volant
+Commandes vocales
+Compte tours
+Contrôle élect. de la pression des pneus
+Démarrage sans clé
+Disque dur multimédia EBD
+Echappement à double sortie
+Ecran multifonction couleur
+ESP
+Essuie-glace arrière
+Feux arrière à LED
+Feux de jour à LED
+Filets de coffre
+Filtre à particules
+Filtre à Pollen
+Fixation Isofix siège passager avant
+Fixations Isofix aux places arrières
+Freinage automatique d'urgence
+GPS Cartographique
+Interface Media
+Jantes Alu
+Kit Fumeur
+Kit mains-libres Bluetooth
+Lampe de coffre
+Lampes de lecture à l'avant
+Lecteur carte SD
+Lecteur CD
+Limiteur de vitesse
+Lunette AR dégivrante
+Miroir de courtoisie conducteur
+Miroir de courtoisie passager
+Mode de conduite
+Ordinateur de bord
+Ouverture des vitres séquentielle
+Palettes changement vitesses au volant
+Phares xénon
+Poches d'aumonières
+Poignées ton carrosserie
+Porte-gobelets arrière
+Porte-gobelets avant
+Prise 12V
+Prise auxiliaire de connexion audio
+Prise USB
+Radar de stationnement AR
+Radar de stationnement AV
+Radio
+Régulateur de vitesse
+Répétiteurs de clignotant dans rétro ext
+Rétroviseur intérieur électrochrome
+Rétroviseurs dégivrants
 Rétroviseurs électriques,
-Rétroviseurs rabattables électriquement,
-Services connectés,
-Siège conducteur avec réglage lombaire,
-Siège conducteur réglable en hauteur,
-Siège passager avec réglage lombaire,
-Siège passager réglable en hauteur,
-Sortie d'échappement chromée,
-Système d'accès sans clé,
-Tablette cache bagages,
-Témoin de bouclage des ceintures AV,
-Température extérieure,
-TMC,
-Troisième ceinture de sécurité,
-Verrouillage centralisé à distance,
-Verrouillage centralisé des portes,
-Vitres arrière électriques,
-Vitres avant électriques,
-Volant cuir,
+Rétroviseurs rabattables électriquement
+Services connectés
+Siège conducteur avec réglage lombaire
+Siège conducteur réglable en hauteur
+Siège passager avec réglage lombaire
+Siège passager réglable en hauteur
+Sortie d'échappement chromée
+Système d'accès sans clé
+Tablette cache bagages
+Témoin de bouclage des ceintures AV
+Température extérieure
+TMC
+Troisième ceinture de sécurité
+Verrouillage centralisé à distance
+Verrouillage centralisé des portes
+Vitres arrière électriques
+Vitres avant électriques
+Volant cuir
 Volant multifonction
 
 Liste d'options à valider avec un commercial lors de votre visite...
