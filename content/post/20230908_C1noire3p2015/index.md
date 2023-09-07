@@ -7,7 +7,7 @@ date = "2023-09-0"
 categories = [
     "Voitures",
 ]
-image = "../post/20230908_C1noire3p2015/images/1.jpg"
+image = "../post/20230908_c1noire3p2015/images/1.jpg"
 adate = "2015"
 akm = "65 000km"
 agaz = "essence"
@@ -20,7 +20,7 @@ prix="7500"
 
 # CITROEN C1
 
-{{< gallery "../post/20230908_C1noire3p2015/images/1.jpg,../post/20230908_C1noire3p2015/images/2.jpg,../post/20230908_C1noire3p2015/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20230908_c1noire3p2015/images/1.jpg,../post/20230908_c1noire3p2015/images/2.jpg,../post/20230908_c1noire3p2015/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 CITROEN C1 II noire de 2015 affichant 65.000 km
@@ -50,7 +50,7 @@ Controle technique : OK
 rien à prévoir
 
 
-Voiture disponible rapidement
+Voiture disponible sur parc
 
 
 ### PRIX : 7500 Euros
