@@ -20,8 +20,8 @@ prix="6500"
 
 # CITROEN C1
 
-{{< galleryg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
- "../post/20230917_c1blanche2012_5p_65mkm/images/1.jpg,../post/20230917_c1blanche2012_5p_65mkm/images/2.jpg,../post/20230917_c1blanche2012_5p_65mkm/images/3.jp
+{{< gallery  "../post/20230917_c1blanche2012_5p_65mkm/images/1.jpg,../post/20230917_c1blanche2012_5p_65mkm/images/2.jpg,../post/20230917_c1blanche2012_5p_65mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+ 
 
 
 CITROEN C1 blanche 1.0L ATTRACTION 5 portes de 2012 affichant 63.000 km
