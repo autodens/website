@@ -3,7 +3,7 @@ title = "CITROEN C1 II 1.0L VTI 68CV "
 description = "CITROEN C1 II 1.0L VTI 68CV"
 tags = [
 ]
-date = "2023-09-0"
+date = "2023-09-08"
 categories = [
     "Voitures",
 ]
@@ -34,8 +34,7 @@ Liste d'options à valider avec un commercial lors de votre visite...
 
 
 ### CARROSSERIE :
-rayures d'usage
-Petit enfoncement bas de caisse AVD
+impeccable ( sort de carrosserie)
 
 ### INTERIEUR :
 Tissu noir carreaux très bon état
