@@ -27,7 +27,7 @@ PEUGEOT 108 VTI 1.0L 72cv 5 portes , STYLE de 2017 affichant seulement 34.000 km
 véhicule 1ere main
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, vitres électriques avant, poste radio USB bluetooth , climatisation manuelle, surveillance de la pression des pneus, limiteur de vitesse, ABS, airnbags, sièges AR isofix, etc..
+Verrouillage centralisé avec télécommande, vitres électriques avant, poste radio USB bluetooth , climatisation manuelle, surveillance de la pression des pneus, limiteur de vitesse, ABS, airbags, sièges AR isofix, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite...
@@ -35,13 +35,12 @@ Liste d'options à valider avec un commercial lors de votre visite...
 
 ### CARROSSERIE :
 En très bon état 
-Petit enfoncement bas de caisse AVD
 
 ### INTERIEUR :
 Tissu carreaux très bon état
 
 ### MECANIQUE :
-Entretien à jour, facture et historique disponibles
+Entretien à jour, factures et historique disponibles
 
 
 
