@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20230907_108blanche5p2018/images/1.jpg"
 adate = "2018"
-akm = "340 000km"
+akm = "30 000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance= "72 CV"
