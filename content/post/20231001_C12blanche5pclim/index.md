@@ -1,13 +1,13 @@
 +++
-title = "CITROEN C1 2 5 portes clim 2016"
-description = "CITROEN C1 2 5 portes clim 2016"
+title = "CITROEN C1 2 FEEL 5 portes "
+description = "CITROEN C1 2 FEEL 5 portes 2016"
 tags = [
 ]
 date = "2023-10-01"
 categories = [
     "Voitures",
 ]
-image = "../post/20231001_C12blanche5pclim/images/1.jpg"
+image = "../post/20231001_c12blanche5pclim/images/1.jpg"
 adate = "2016"
 akm = "48 000km"
 agaz = "essence"
@@ -20,7 +20,7 @@ prix="8700"
 
 # CITROEN C1 2 Blanche FEEL 5p 2016
 
-{{< gallery "../post/20231001_C12blanche5pclim/images/1.jpg,../post/20231001_C12blanche5pclim/images/2.jpg,../post/20231001_C12blanche5pclim/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20231001_c12blanche5pclim/images/1.jpg,../post/20231001_c12blanche5pclim/images/2.jpg,../post/20231001_c12blanche5pclim/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 CITROEN C1 2 Blanche VTI 1.0L 72cv FEEL 5 portes de 2016 affichant  48.000 km
