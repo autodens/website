@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
 acouleur = "noire"
-prix="7400"
+prix="7200"
 
 +++
 
@@ -52,7 +52,7 @@ rien à prévoir
 Voiture disponible sur parc
 
 
-### PRIX : 7400 Euros
+### PRIX : 7200 Euros
 
 
 <!-- more -->
