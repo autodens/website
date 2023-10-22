@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance="68 CV"
 acouleur = "rouge"
-prix="4100"
+prix="3900"
 
 +++
 
@@ -47,7 +47,7 @@ Double des clés
 
 Disponible rapidement
 
-### PRIX : 4100 Euros
+### PRIX : 3900 Euros
 
 
 <!-- more -->
