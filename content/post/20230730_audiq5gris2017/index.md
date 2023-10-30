@@ -14,7 +14,7 @@ agaz = "diesel"
 aboite = "auto"
 apuissance= "190 CV"
 acouleur = "gris"
-prix="26500"
+prix="26600"
 
 +++
 
@@ -23,7 +23,7 @@ prix="26500"
 {{< gallery "../post/20230730_audiq5gris2017/images/1.jpg,../post/20230730_audiq5gris2017/images/2.jpg,../post/20230730_audiq5gris2017/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-AUDI Q5 2L 190CV QUATTRO PACK Business Executive gris fleuret metallisé de 11/2017 affichant 130000km
+AUDI Q5 2L TDI 190CV QUATTRO PACK Business Executive gris fleuret metallisé de 11/2017 affichant 130000km
 
 Véhicule première main
 
@@ -154,7 +154,7 @@ rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 26500 Euros
+### PRIX : 26600 Euros
 
 
 <!-- more -->
