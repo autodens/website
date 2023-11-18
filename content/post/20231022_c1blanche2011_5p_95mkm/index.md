@@ -20,7 +20,7 @@ prix="6200"
 
 # CITROEN C1
 
-{{< gallery  "../post/20231022_c1blanche2011_5p_95mkm/images/1.jpg,../post/20231022_c1blanche2011_5p_95mkm/images/2.jpg,../post/20230917_c1blanche2012_5p_65mkm20231022_c1blanche2011_5p_95mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery  "../post/20231022_c1blanche2011_5p_95mkm/images/1.jpg,../post/20231022_c1blanche2011_5p_95mkm/images/2.jpg,../post/20231022_c1blanche2011_5p_95mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
  
 
 
