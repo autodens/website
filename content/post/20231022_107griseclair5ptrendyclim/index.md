@@ -31,7 +31,7 @@ Verrouillage centralisé avec télécommande, Climatisation manuelle, Compte tou
 Liste d'options à valider avec moi lors de l'achat
 
 ### CARROSSERIE :
-Propre 
+Très propre 
 
 
 ### INTERIEUR :
@@ -45,10 +45,10 @@ Factures d'entretien
 
 
 Controle technique : OK
-rien à prévoir
+Rien à prévoir
 
 
-Voiture prêt à partir
+Voiture prête à partir
 
 
 ### PRIX : 4500 Euros
