@@ -20,7 +20,7 @@ prix="4500"
 
 # PEUGEOT 107 TRENDY
 
-{{< gallery "../post/20231022_107griseclair5ptrendyclim/1.jpg,../post/20231022_107griseclair5ptrendyclim/images/2.jpg,../post/20231022_107griseclair5ptrendyclim/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20231022_107griseclair5ptrendyclim/images/1.jpg,../post/20231022_107griseclair5ptrendyclim/images/2.jpg,../post/20231022_107griseclair5ptrendyclim/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 PEUGEOT 107  TRENDY grise 69cv 5 portes de 2007 affichant 110.000 km
