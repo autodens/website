@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20231022_107blanche2011_5p_95mkm/images/1.jpg"
 adate = "2011"
-akm = "95 000km"
+akm = "84 000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
@@ -24,7 +24,7 @@ prix="6200"
  
 
 
-PEUGEOT 107 blanche 2011 5p clim TRENDY 5 portes de 2011 affichant 95.000 km
+PEUGEOT 107 blanche 2011 5p clim TRENDY 5 portes de 2011 affichant 84.000 km
 
 
 ### EQUIPEMENTS :
