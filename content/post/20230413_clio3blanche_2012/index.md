@@ -1,6 +1,6 @@
 +++
-title = "RENAULT CLIO 3 blanche 137 000 km"
-description = "RENAULT CLIO 3 blanche 137 000 km"
+title = "RENAULT CLIO 3 blanche 129 000 km"
+description = "RENAULT CLIO 3 blanche 129 000 km"
 tags = [
 ]
 date = "2023-11-13"
@@ -30,7 +30,7 @@ Climatisation, vitres électriques, direction assistée,autoradio CD, rétrovise
 Merci de valider cette liste d'équipements avec un commercial
 
 ### CARROSSERIE :
-Bon état 
+Bon état ( petit enfoncement sur hayon arrière)
 
 ### INTERIEUR :
 Tissus noir très propre.
