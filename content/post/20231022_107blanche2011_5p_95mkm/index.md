@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
 acouleur = "blanche"
-prix="6200"
+prix="6000"
 
 +++
 
@@ -47,7 +47,7 @@ Contrôle technique OK ( moins de 6 mois)
 aucun frais à prévoir
 
 
-### PRIX : 6200 Euros
+### PRIX : 6000 Euros
 
 
 <!-- more -->
