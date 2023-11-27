@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "69 CV"
 acouleur = "grise"
-prix="9300"
+prix="8700"
 
 +++
 
@@ -55,7 +55,7 @@ mot clé : idem peugeot 108, renault clio, twingo, fiat 500, fiat panda, chevrol
 
 
 
-### PRIX : 9300 Euros
+### PRIX : 8700 Euros
 
 
 <!-- more -->
