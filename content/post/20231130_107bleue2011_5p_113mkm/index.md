@@ -42,9 +42,11 @@ Tissu noir très propre
 ### MECANIQUE :
 Entretien récent 11/2023( vidange+filtres)
 Pas de courroie de distribution ( moteur à chaîne)
+Embrayage NEUF
+
 Contrôle technique OK ( moins de 6 mois)
 
-aucun frais à prévoir
+Aucun frais à prévoir
 
 
 ### PRIX : 5900 Euros
