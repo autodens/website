@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
 acouleur = "blanche"
-prix="4700"
+prix="4800"
 
 +++
 
@@ -49,7 +49,7 @@ Contrôle technique OK ( sera fait pour la vente)
 Aucun frais à prévoir
 
 
-### PRIX : 4700 Euros
+### PRIX : 4800 Euros
 
 disponible début janvier
 
