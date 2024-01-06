@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "75 CV"
 acouleur = "beige"
-prix="6900"
+prix="6700"
 
 +++
 
@@ -50,7 +50,7 @@ Controle technique : OK ( moins de 6 mois)
 Voiture disponible sur parc
 
 
-### PRIX : 6900 Euros
+### PRIX : 6700 Euros
 
 
 <!-- more -->

@@ -14,7 +14,7 @@ agaz = "diesel"
 aboite = "auto"
 apuissance= "190 CV"
 acouleur = "gris"
-prix="26600"
+prix="26200"
 
 +++
 
@@ -154,7 +154,7 @@ rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 26600 Euros
+### PRIX : 26200 Euros
 
 
 <!-- more -->
