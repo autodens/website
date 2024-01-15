@@ -1,6 +1,6 @@
 +++
-title = "CITROEN C1 GRISE 5p 2010 CLIM BVA "
-description = "CITROEN C1 GRISE 5p 2010 CLIM BVA "
+title = "CITROEN C1 GRISE 5p 2011 CLIM BVA "
+description = "CITROEN C1 GRISE 5p 2011 CLIM BVA "
 tags = [
 ]
 date = "2023-09-30"
@@ -8,13 +8,13 @@ categories = [
     "Voitures",
 ]
 image = "../post/20231108_c1grise5pclimbva/images/1.jpg"
-adate = "2010"
+adate = "2011"
 akm = "108 000km"
 agaz = "essence"
 aboite = "automatique"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="6900"
+prix="6800"
 
 +++
 
@@ -38,8 +38,10 @@ Tissus noir très propre
 
 ### MECANIQUE :
 Entretien mécanique à jour 
-Derniere vidange 09/2023
+Derniere vidange 01/2024
 Pas de courroie de distribution (moteur à chaîne)
+Embrayage récent avec facture
+4 Pneus récents ( 2023)
 
 
 Rien à prévoir
@@ -48,9 +50,9 @@ CRITAIR 1
 
 
 
-Disponible fini janvier
+Disponible rapidement
 
-### PRIX : 6900 Euros
+### PRIX : 6800 Euros
 
 
 <!-- more -->
