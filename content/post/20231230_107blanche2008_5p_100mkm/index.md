@@ -1,6 +1,6 @@
 +++
-title = "PEUGEOT 107 blanche 2008 5p clim "
-description = "PEUGEOT 107 blanche 2008 5p clim  "
+title = "PEUGEOT 107 blanche 2009 5p clim "
+description = "PEUGEOT 107 blanche 2009 5p clim  "
 tags = [
 ]
 date = "2023-12-27"
@@ -8,8 +8,8 @@ categories = [
     "Voitures",
 ]
 image = "../post/20231230_107blanche2008_5p_100mkm/images/1.jpg"
-adate = "2008"
-akm = "105 000km"
+adate = "2009"
+akm = "132 000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
@@ -18,13 +18,13 @@ prix="4800"
 
 +++
 
-# PEUGEOT 107 blanche 2008 5p clim
+# PEUGEOT 107 blanche 2009 5p clim
 
 {{< gallery  "../post/20231230_107blanche2008_5p_100mkm/images/1.jpg,../post/20231230_107blanche2008_5p_100mkm/images/2.jpg,../post/20231230_107blanche2008_5p_100mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
  
 
 
-PEUGEOT 107 blanche 2008 5p clim TRENDY 5 portes affichant 106.000 km
+PEUGEOT 107 blanche 2009 5p clim TRENDY 5 portes affichant 132.000 km
 
 
 ### EQUIPEMENTS :
@@ -33,7 +33,7 @@ Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE :
-Propre ( léger enfoncement bas de caisse ARD)
+Propre 
 
 
 ### INTERIEUR :
@@ -51,7 +51,7 @@ Aucun frais à prévoir
 
 ### PRIX : 4800 Euros
 
-disponible début janvier
+disponible
 
 
 <!-- more -->
