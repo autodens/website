@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20240204_107grise_5p_2010_93mkm_clim/images/1.jpg"
 adate = "2010"
-akm = "93 000km"
+akm = "92 000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
@@ -24,7 +24,7 @@ prix="4900"
  
 
 
-PEUGEOT 107 grise 2010 5p clim affichant 93.000 km
+PEUGEOT 107 grise 2010 5p clim affichant 92.000 km
 
 
 ### EQUIPEMENTS :
