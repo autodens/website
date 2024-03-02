@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="4900"
+prix="5000"
 
 +++
 
@@ -49,7 +49,7 @@ Contrôle technique OK ( sera fait pour la vente)
 Aucun frais à prévoir
 
 
-### PRIX : 4900 Euros
+### PRIX : 5000 Euros
 
 disponible sous 10 jours
 
