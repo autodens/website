@@ -8,13 +8,13 @@ categories = [
     "Voitures",
 ]
 image = "../post/20240123_c1iiblanche5p2016_46mkm/images/1.jpg"
-adate = "2017"
+adate = "2016"
 akm = "48 000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
-acouleur = "grise"
-prix="8000"
+acouleur = "blanche"
+prix="8200"
 
 +++
 
