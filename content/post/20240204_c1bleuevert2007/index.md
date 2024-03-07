@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
 acouleur = "bleue"
-prix="5500"
+prix="5200"
 
 +++
 
@@ -41,7 +41,7 @@ Entretien mécanique à jour
 Derniere vidange 12/2023
 Pas de courroie de distribution (moteur à chaîne)
 Embrayage neuf
-
+silencieux echappement arriere neuf
 
 
 Rien à prévoir
@@ -52,7 +52,7 @@ CRITAIR 2
 
 Disponible rapidement
 
-### PRIX : 5500 Euros
+### PRIX : 5200 Euros
 
 
 <!-- more -->
