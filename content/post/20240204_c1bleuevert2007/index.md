@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
 acouleur = "bleue"
-prix="5200"
+prix="5000"
 
 +++
 
@@ -52,7 +52,7 @@ CRITAIR 2
 
 Disponible rapidement
 
-### PRIX : 5200 Euros
+### PRIX : 5000 Euros
 
 
 <!-- more -->
