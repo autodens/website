@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
 acouleur = "rouge"
-prix=6300"
+prix=6500"
 
 +++
 
@@ -40,8 +40,10 @@ Propre
 Tissu très propre
 
 ### MECANIQUE :
-Entretien à jour ( vidange+filtres)
+Entretien à jour ( vidange+filtres fait en 04/2024)
 Moteur à chaîne ( pas de Courroie de distribution)
+Embrayage NEUF
+
 Consomation : 4L/100km
 vehicule econome
 
@@ -51,7 +53,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 6300 Euros
+### PRIX : 6500 Euros
 
 Disponible rapidement
 Garantie
