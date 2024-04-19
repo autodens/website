@@ -7,7 +7,7 @@ date = "2024-04-05"
 categories = [
     "Voitures",
 ]
-image = "../post/20240406_peugeot_107bva_2010_100mkm_clim_rouge/images/1.jpg"
+image = "../post/20240406_peugeot_107bva_2010_rouge/images/1.jpg"
 adate = "2010"
 akm = "100 000km"
 agaz = "essence"
@@ -20,7 +20,7 @@ prix=6500"
 
 # PEUGEOT 107 2010 rouge 5p BVA clim
 
-{{< gallery  "../post/20240406_peugeot_107bva_2010_100mkm_clim_rouge/images/1.jpg,../post/20240406_peugeot_107bva_2010_100mkm_clim_rouge/images/2.jpg,../post/20240406_peugeot_107bva_2010_100mkm_clim_rouge/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery  "../post/20240406_peugeot_107bva_2010_rouge/images/1.jpg,../post/20240406_peugeot_107bva_2010_rouge/images/2.jpg,../post/20240406_peugeot_107bva_2010_rouge/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
  
 
 
