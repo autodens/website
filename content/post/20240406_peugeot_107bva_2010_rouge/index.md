@@ -11,7 +11,7 @@ image = "../post/20240406_peugeot_107bva_2010_rouge/images/1.jpg"
 adate = "2010"
 akm = "100 000km"
 agaz = "essence"
-aboite = "manuelle"
+aboite = "auto"
 apuissance= "68 CV"
 acouleur = "rouge"
 prix=6500"
@@ -44,8 +44,9 @@ Entretien à jour ( vidange+filtres fait en 04/2024)
 Moteur à chaîne ( pas de Courroie de distribution)
 Embrayage NEUF
 
+Double des clés
 Consomation : 4L/100km
-vehicule econome
+Vehicule econome
 
 
 Contrôle technique OK 
