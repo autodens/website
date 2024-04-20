@@ -5,7 +5,7 @@ tags = [
 ]
 date = "2024-04-05"
 categories = [
-    "Voitures",
+    "Voitures"
 ]
 image = "../post/20240406_peugeot_107bva_2010_rouge/images/1.jpg"
 adate = "2010"
@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "rouge"
-prix=6500"
+prix="6500"
 
 +++
 
