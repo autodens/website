@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance="90 CV"
 acouleur = "grise"
-prix="10000"
+prix="9400"
 
 +++
 
@@ -118,7 +118,7 @@ Tissu style carbone
 
 Disponible rapidement
 
-### PRIX : 10000 Euros
+### PRIX : 9400 Euros
 
 
 <!-- more -->

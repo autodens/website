@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "69 CV"
 acouleur = "beige"
-prix="9500"
+prix="9400"
 
 +++
 
@@ -50,7 +50,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 9500 Euros
+### PRIX : 9400 Euros
 
 disponible sur parc
 garantie
