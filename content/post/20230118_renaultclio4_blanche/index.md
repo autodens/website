@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "75 CV"
 acouleur = "blanche"
-prix="7500"
+prix="7300"
 
 +++
 
@@ -42,7 +42,7 @@ Controle technique : OK
 Voiture disponible rapidement
 
 
-### PRIX : 7500 Euros
+### PRIX : 7300 Euros
 
 
 <!-- more -->

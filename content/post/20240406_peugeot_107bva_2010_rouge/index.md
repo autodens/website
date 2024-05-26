@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "rouge"
-prix="6500"
+prix="6300"
 
 +++
 
@@ -54,7 +54,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 6500 Euros
+### PRIX : 6300 Euros
 
 Disponible rapidement
 Garantie
