@@ -39,7 +39,7 @@ Carrosserie en TBE ( qq rayures d'usage)
 ### INTERIEUR :
 propre ( cuir entretenu).
 Tapis de sol neufs
-4 pneus MICHELIN crossclimate 4 saisons à mi-usure
+4 pneus MICHELIN Crossclimate 4 saisons à mi-usure
 
 
 ### MECANIQUE :
@@ -55,7 +55,7 @@ Aucun frais à prévoir
 
 ### PRIX : 13900 Euros
 
-disponible sur parc 
+Disponible sur parc 
 
 
 <!-- more -->
