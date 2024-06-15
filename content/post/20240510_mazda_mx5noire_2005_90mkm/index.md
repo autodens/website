@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance= "146 CV"
 acouleur = "noire"
-prix="13500"
+prix="13000"
 
 +++
 
@@ -67,7 +67,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 13500 Euros
+### PRIX : 13000 Euros
 
 disponible sur parc bientôt
 garantie 
