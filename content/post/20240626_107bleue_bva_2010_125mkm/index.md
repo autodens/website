@@ -41,14 +41,14 @@ Bon état ( qq rayures d'usage)
 Tissu noir impeccable
 
 ### MECANIQUE :
-Entretien à jour
-distribution par chaiine
-Climatisation rechargée
-double de clés
+Entretien à jour/
+Distribution par chaîne/
+Climatisation rechargée/
+Double de clés
 
 
 Controle technique : OK
-rien à prévoir
+Rien à prévoir
 
 
 Voiture disponible rapidement
