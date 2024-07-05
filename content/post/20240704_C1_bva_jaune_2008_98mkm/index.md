@@ -14,20 +14,20 @@ agaz = "essence"
 aboite = "Auto"
 apuissance= "69 CV"
 acouleur = "jaune"
-prix="6600"
+prix="6700"
 
 +++
 
 # CITROEN C1 jaune BVA 5p clim 2008
 
-{{< gallery "../post/20240704_C1_bva_jaune_2008_98mkm/images/1.jpg,../post/20240704_C1_bva_jaune_2008_98mkm/images/2.jpg,../post/20240704_C1_bva_jaune_2008_98mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20240704_c1_bva_jaune_2008_98mkm/images/1.jpg,../post/20240704_c1_bva_jaune_2008_98mkm/images/2.jpg,../post/20240704_c1_bva_jaune_2008_98mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 CITROEN C1 jaune BVA 5p clim de 2008 affichant 98.000 km
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, vitres électriques avant, poste radio CD ( compatible bluetooth), climatisation manuelle, nABS, airbags, sièges arrières isofix, banquette ar rabattable, véritable roue de secours etc..
+Verrouillage centralisé avec télécommande, vitres électriques avant, poste radio CD ( compatible bluetooth), climatisation manuelle, ABS, airbags, sièges arrières isofix, banquette ar rabattable, véritable roue de secours etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite...
@@ -47,14 +47,14 @@ Climatisation rechargée/
 Double de clés
 
 
-Controle technique : OK
+Contrôle technique : OK
 Rien à prévoir
 
 
 Voiture disponible rapidement
 
 
-### PRIX : 6600 Euros
+### PRIX : 6700 Euros
 
 
 <!-- more -->
