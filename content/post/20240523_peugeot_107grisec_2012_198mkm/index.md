@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="3700"
+prix="3600"
 
 +++
 
@@ -28,7 +28,7 @@ PEUGEOT 107 2012 grise 5p clim affichant 198.000 km
 
 
 ### EQUIPEMENTS :
-Climatisation, Verrouillage centralisé avec télécommande,compte tours, direction assistée , Radio CD (compatible bluetooth), vitres avant électriques, airbags, sièges arrières ISOFIX,banquette arrière rabattable,etc.
+Climatisation, Verrouillage centralisé avec télécommande, compte tours, direction assistée , Radio CD (compatible bluetooth), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, etc.
 Liste d'options à valider avec moi lors de votre visite
 
 
@@ -40,20 +40,20 @@ Très Propre
 Tissu noir impeccable
 
 ### MECANIQUE :
-Entretien à jour ( vidange+filtres fait en 04/2024)
+Entretien à jour ( vidange + filtres faits en 04/2024)
 Moteur à chaîne ( pas de Courroie de distribution)
 
 Double des clés
-Consomation : 4L/100km
-Vehicule econome
-Critair 1
+Consommation : 4L/100km
+Véhicule économe
+Crit air 1
 
 Contrôle technique OK 
 
 Aucun frais à prévoir
 
 
-### PRIX : 3700 Euros
+### PRIX : 3600 Euros
 
 Disponible rapidement
 Garantie
