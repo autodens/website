@@ -18,7 +18,7 @@ prix="7500"
 
 +++
 
-# CPEUGEOT 108 cabriolet 68CV 2015 noire 5p clim
+# PEUGEOT 108 cabriolet 68CV 2015 noire 5p clim
 
 {{< gallery "../post/20240705_peugeot_108_cab_noire_2015_65mkm/images/1.jpg,../post/20240705_peugeot_108_cab_noire_2015_65mkm/images/2.jpg,../post/20240705_peugeot_108_cab_noire_2015_65mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
