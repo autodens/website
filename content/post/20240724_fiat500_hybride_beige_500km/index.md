@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "70 CV"
 acouleur = "beige"
-prix="15000"
+prix="14900"
 
 +++
 
@@ -28,7 +28,7 @@ FIAT 500 hybride 70CV Essence Dolce Vita clim affichant 500 km
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, vitres électriques, Radio Bluetooth avec écran tactile, climatisation , ABS, airbags, sièges arrières isofix, banquette arrière rabattable, aide au démarrage en côte ,aides à la conduite, etc..
+Verrouillage centralisé avec télécommande, vitres électriques, Radio Bluetooth avec écran tactile, climatisation , ABS,ESP, airbags, sièges arrières isofix, banquette arrière rabattable, toit panoramique vitré, radar de recul, boite vitesse manuelle 6 rapports,   etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
@@ -49,7 +49,7 @@ rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 15000 Euros
+### PRIX : 14900 Euros
 
 
 <!-- more -->
