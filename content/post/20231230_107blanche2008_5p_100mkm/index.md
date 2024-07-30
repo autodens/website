@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20231230_107blanche2008_5p_100mkm/images/1.jpg"
 adate = "2009"
-akm = "132 000km"
+akm = "142 000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance= "68 CV"
@@ -24,7 +24,7 @@ prix="4600"
  
 
 
-PEUGEOT 107 blanche 2009 5p clim TRENDY 5 portes affichant 132.000 km
+PEUGEOT 107 blanche 2009 5p clim TRENDY 5 portes affichant 142.000 km
 
 
 ### EQUIPEMENTS :
@@ -42,16 +42,17 @@ Tissu noir très propre
 ### MECANIQUE :
 Entretien à jour ( vidange+filtres)
 Pas de courroie de distribution ( moteur à chaîne)
+Embrayage neuf
 
 
-Contrôle technique OK ( sera fait pour la vente)
+Contrôle technique OK 
 
 Aucun frais à prévoir
 
 
 ### PRIX : 4600 Euros
 
-disponible
+disponible rapidement
 
 
 <!-- more -->
