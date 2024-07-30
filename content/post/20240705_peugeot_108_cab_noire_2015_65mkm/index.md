@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "Manuelle"
 apuissance= "69 CV"
 acouleur = "noire"
-prix="7200"
+prix="7300"
 
 +++
 
