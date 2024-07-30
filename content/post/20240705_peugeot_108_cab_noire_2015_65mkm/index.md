@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "Manuelle"
 apuissance= "69 CV"
 acouleur = "noire"
-prix="7500"
+prix="7300"
 
 +++
 
@@ -43,7 +43,6 @@ Tissu noir impeccable
 ### MECANIQUE :
 Entretien à jour/
 Distribution par chaîne/
-Climatisation rechargée/
 Double de clés
 
 
@@ -54,7 +53,7 @@ Rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 7500 Euros
+### PRIX : 7300 Euros
 
 
 <!-- more -->
