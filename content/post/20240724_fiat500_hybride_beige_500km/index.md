@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "70 CV"
 acouleur = "beige"
-prix="14900"
+prix="14300"
 
 +++
 
@@ -44,12 +44,12 @@ Cuir noir bi-ton impeccable
 ### MECANIQUE :
 rien à prévoir
 
-
+Vehicule encore sous garantie constructeur.
 
 Voiture disponible rapidement
 
 
-### PRIX : 14900 Euros
+### PRIX : 14300 Euros
 
 
 <!-- more -->
