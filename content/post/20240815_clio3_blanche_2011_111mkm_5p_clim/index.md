@@ -27,7 +27,8 @@ prix="6600"
 RENAULT CLIO 3 Blanche Essence 75CV 5p Clim 2011 110mkm
 
 ### EQUIPEMENTS :
-Climatisation, vitres électriques, direction assistée, autoradio CD, rétroviseurs électriques , verrouillage centralisé avec télécommande, etc...
+Climatisation, Vitres électriques, Direction assistée, Autoradio CD, Rétroviseurs électriques , Verrouillage centralisé avec télécommande, Véritable roue de secours, etc...
+
 Merci de valider cette liste d'équipements avec un commercial
 
 
@@ -41,6 +42,7 @@ Tissu impeccable
 
 ### MECANIQUE :
 Entretien à jour
+
 La courroie de distribution + pompe à eau + courroie accessoires seront à jour pour la vente
 
 CT OK
