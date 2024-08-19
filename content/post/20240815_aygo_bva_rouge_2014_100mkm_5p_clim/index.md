@@ -27,7 +27,7 @@ prix="7300"
 TOYOTA AYGO BVA rouge Essence 68CV 5p Clim 2014 100mkm
 
 ### EQUIPEMENTS :
-Climatisation, Verrouillage centralisé avec télécommande, double de clés, compte tours, direction assistée , Radio CD Bluetooth, vitres avant électriques, airbags, sièges arrières ISOFIX, véritable roue de secours..etc.
+Climatisation, Boîte automatique avec palettes au volant,  Verrouillage centralisé avec télécommande, Double de clés, Compte tours, Direction assistée , Radio CD Bluetooth ( possibilité de carplay sur demande), Vitres avant électriques, Airbags, Sièges arrières ISOFIX, Véritable roue de secours..etc.
 Liste d'options à valider avec moi lors de votre visite
 
 
@@ -40,11 +40,13 @@ Très propre
 Tissu impeccable
 
 ### MECANIQUE :
-Entretien récent 
+Entretien récent
+
 Pas de courroie de distribution ( moteur à chaîne)
+
 Contrôle technique OK ( moins de 6 mois)
 
-A frais à prévoir
+Aucun frais à prévoir
 
 Voiture disponible rapidement
 
