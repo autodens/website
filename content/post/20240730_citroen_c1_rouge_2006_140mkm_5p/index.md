@@ -33,11 +33,11 @@ Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE :
- qq rayures et bosses 
+Présence de rayures et bosses 
 
 
 ### INTERIEUR :
-Tissu propre
+Tissu
 
 ### MECANIQUE :
 moteur à chaine
