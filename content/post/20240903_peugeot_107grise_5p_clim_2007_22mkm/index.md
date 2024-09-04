@@ -24,7 +24,7 @@ prix="5300"
  
 
 
-PEUGEOT 107 1.0E 68cv grise de 2007 5p clim affichant seulement 22.000 km
+PEUGEOT 107 68cv grise de 2007 5p clim affichant seulement 22.000 km
 
 
 ### EQUIPEMENTS :
