@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= " 68CV"
 acouleur = "rouge"
-prix="3400"
+prix="3500"
 
 +++
 
@@ -43,13 +43,14 @@ Tissu propre
 moteur à chaine
 Première main
 Historique d'entretien disponible
+EMBRAYAGE NEUF
 
 CT OK
 
 Voiture disponible rapidement
 
 
-### PRIX : 3400 Euros
+### PRIX : 3500 Euros
 
 
 <!-- more -->
