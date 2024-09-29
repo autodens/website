@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20240927_vw_polo_match_blanche_2012_140mkm/images/1.jpg"
 adate = "2012"
-akm = "141 000km"
+akm = "140000km"
 agaz = "essence"
 aboite = "Manuelle"
 apuissance= "60 CV"
@@ -23,7 +23,7 @@ prix="7900"
 {{< gallery "../post/20240927_vw_polo_match_blanche_2012_140mkm/images/1.jpg,../post/20240927_vw_polo_match_blanche_2012_140mkm/images/2.jpg,../post/20240927_vw_polo_match_blanche_2012_140mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-VOLKSWAGEN POLO MATCH 2012 1.2L Essence 60cv blanche 5p clim affichant 131.000 km
+VOLKSWAGEN POLO MATCH 2012 1.2L Essence 60cv blanche 5p clim affichant 140.000 km
 
 
 ### EQUIPEMENTS :
