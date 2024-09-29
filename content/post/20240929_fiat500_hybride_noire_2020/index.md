@@ -3,7 +3,7 @@ title = "FIAT 500 hybride noire 70CV Essence clim"
 description = "FIAT 500 hybride noire 70CV Essence clim"
 tags = [
 ]
-date = "2024-09-248
+date = "2024-09-28
 categories = [
     "Voitures",
 ]
