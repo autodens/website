@@ -3,9 +3,9 @@ title = "FIAT 500 hybride noire 70CV Essence clim"
 description = "FIAT 500 hybride noire 70CV Essence clim"
 tags = [
 ]
-date = "2024-09-28
+date = "2024-09-28"
 categories = [
-    "Voitures",
+    "Voitures"
 ]
 image = "../post/20240929_fiat500_hybride_noire_2020/images/1.jpg"
 adate = "2020"
