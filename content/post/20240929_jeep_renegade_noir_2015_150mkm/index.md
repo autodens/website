@@ -1,6 +1,6 @@
 +++
-title = "JEEP RENEGADE noir 1.6L Multijet 120CV S/S Limited 2015 "
-description = "JEEP RENEGADE 1.6L Multijet 120CV 2015 "
+title = "JEEP RENEGADE noir 1.6L Multijet 120CV Limited 2015 "
+description = "JEEP RENEGADE noir 1.6L Multijet 120CV Limited 2015 "
 tags = [
 ]
 date = "2024-10-05"
