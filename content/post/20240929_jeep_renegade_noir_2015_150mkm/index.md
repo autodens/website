@@ -1,29 +1,29 @@
 +++
-title = "VOLKSWAGEN POLO MATCH 2012 1.2L Essence 60cv blanche 5p clim"
-description = "VOLKSWAGEN POLO MATCH 2012 1.2L Essence 60cv blanche 5p clim"
+title = "JEEP RENEGADE noir 1.6L Multijet 120CV S/S Limited 2015 "
+description = "JEEP RENEGADE 1.6L Multijet 120CV 2015 "
 tags = [
 ]
-date = "2024-09-24"
+date = "2024-10-05"
 categories = [
     "Voitures",
 ]
-image = "../post/20240927_vw_polo_match_blanche_2012_140mkm/images/1.jpg"
-adate = "2012"
-akm = "140000km"
-agaz = "essence"
+image = "../post/20240929_jeep_renegade_noir_2015_150mkm/images/1.jpg"
+adate = "2015"
+akm = "149000km"
+agaz = "Diesel"
 aboite = "Manuelle"
-apuissance= "60 CV"
-acouleur = "blanche"
-prix="7900"
+apuissance= "120 CV"
+acouleur = "noire"
+prix="9500"
 
 +++
 
-# VOLKSWAGEN POLO MATCH 2012 1.2L Essence 60cv blanche 5p clim
+# JEEP RENEGADE 1.6L Multijet 120CV 2015 
 
-{{< gallery "../post/20240927_vw_polo_match_blanche_2012_140mkm/images/1.jpg,../post/20240927_vw_polo_match_blanche_2012_140mkm/images/2.jpg,../post/20240927_vw_polo_match_blanche_2012_140mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20240929_jeep_renegade_noir_2015_150mkm/images/1.jpg,../post/20240929_jeep_renegade_noir_2015_150mkm/images/2.jpg,../post/20240929_jeep_renegade_noir_2015_150mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-VOLKSWAGEN POLO MATCH 2012 1.2L Essence 60cv blanche 5p clim affichant 140.000 km
+JEEP RENEGADE 1.6L Multijet 120CV 2015  affichant 1409000 km
 
 
 ### EQUIPEMENTS :
@@ -34,16 +34,16 @@ Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
- Bon état 
+ Très bon état 
 
 
 ### INTERIEUR :
 Tissu noir très propre
 
 ### MECANIQUE :
-Entretien à jour/
-Distribution par chaîne/
-Disques et plaquette avant neufs
+Entretien à jour/ dernier entretien 02/2024
+Distribution faite en 2023 à 120mkm
+
 
 
 Contrôle technique : OK
@@ -52,7 +52,7 @@ Contrôle technique : OK
 Voiture disponible rapidement
 
 
-### PRIX : 7900 Euros
+### PRIX : 9500 Euros
 
 
 <!-- more -->
