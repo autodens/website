@@ -23,7 +23,7 @@ prix="5800"
 {{< gallery "../post/20241006_citroen_c1_grise_2014_93mkm/images/1.jpg,../post/20241006_citroen_c1_grise_2014_93mkm/images/2.jpg,../post/20241006_citroen_c1_grise_2014_93mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-PCITROEN C1 grise 1.0L 68CV 5p clim de 2014 affichant 93.000km
+CITROEN C1 grise 1.0L 68CV 5p clim de 2014 affichant 93.000km
 
 
 ### EQUIPEMENTS :
