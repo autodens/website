@@ -23,11 +23,11 @@ prix="7200"
 {{< gallery "../post/20241012_peugeot_108_grise_5p_2016_76mkm/images/1.jpg,../post/20241012_peugeot_108_grise_5p_2016_76mkm/images/2.jpg,../post/20241012_peugeot_108_grise_5p_2016_76mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-PEUGEOT 108 grise Active 68CV 5p clim de 2016 affichant 45.000 km
+PEUGEOT 108 grise Active 68CV 5p clim de 2016 affichant 76.000 km
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, double des clés, vitres électriques avant, poste radio  Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières isofix, banquette ar rabattable, aide au démarrage en côte, limiteur de vitesse, etc..
+Verrouillage centralisé avec télécommande, double des clés, vitres électriques avant, poste radio  Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette ar rabattable, aide au démarrage en côte, limiteur de vitesse, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite...

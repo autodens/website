@@ -23,7 +23,7 @@ prix="5900"
 {{< gallery "../post/20241012_toyota_aygo_noire_2014_90mkm/images/1.jpg,../post/20241012_toyota_aygo_noire_2014_90mkm/images/2.jpg,../post/20241012_toyota_aygo_noire_2014_90mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-TOYOTA AYGO noire 1.0L 68CV 5p clim de 2014 affichant 93.000km
+TOYOTA AYGO noire 1.0L 68CV 5p clim de 2014 affichant 90.000km
 
 
 ### EQUIPEMENTS :
