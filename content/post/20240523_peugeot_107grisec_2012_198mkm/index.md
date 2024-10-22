@@ -28,7 +28,7 @@ PEUGEOT 107 2012 grise 5p clim affichant 198.000 km
 
 
 ### EQUIPEMENTS :
-Climatisation, Verrouillage centralisé avec télécommande, compte tours, direction assistée , Radio CD (compatible bluetooth), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, etc.
+Climatisation, Verrouillage centralisé avec télécommande, compte tours, direction assistée , Radio CD (possibilité de monter un autoradio récent avec ecran tactile et fonction CARPLAY), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
 Liste d'options à valider avec moi lors de votre visite
 
 
