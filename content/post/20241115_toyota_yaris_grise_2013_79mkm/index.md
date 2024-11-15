@@ -1,6 +1,6 @@
 +++
-title = "TOYOTA AYGO grise 1.0L 72CV 5p clim"
-description = "TOYOTA AYGO grise 1.0L 72CV 5p clim"
+title = "TOYOTA YARIS grise 1.0L 69CV 3p clim"
+description = "TOYOTA YARIS grise 1.0L 69CV 3p clim"
 tags = [
 ]
 date = "2024-11-14"
@@ -8,29 +8,29 @@ categories = [
     "Voitures",
 ]
 image = "../post/20241115_toyota_aygo_grise_2019_75mkm/images/1.jpg"
-adate = "2019"
-akm = "75 000km"
+adate = "2013"
+akm = "79 000km"
 agaz = "essence"
 aboite = "manuelle"
-apuissance= "72 CV"
+apuissance= "69 CV"
 acouleur = "grise"
-prix="9300"
+prix="7800"
 
 +++
 
-# TOYOTA AYGO grise 1.0L 72CV 5p clim
+# TOYOTA YARIS grise 1.0L 69CV 3p clim
 
 {{< gallery "../post/20241115_toyota_aygo_grise_2019_75mkm/images/1.jpg,../post/20241115_toyota_aygo_grise_2019_75mkm/images/2.jpg,../post/20241115_toyota_aygo_grise_2019_75mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-TOYOTA AYGO grise 1.0L 72CV 5p clim de 2019 affichant 75mkm
+TOYOTA YARIS grise 1.0L 69CV 3p clim de 2013 affichant 79mkm
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, vitres électriques avant, poste CD compatible Bluetooth ( possibilité ajout CARPLAY en option), climatisation manuelle, ABS, airbags, sièges arrières isofix, banquette ar rabattable, véritable roue de secours etc..
+Verrouillage centralisé avec télécommande, vitres électriques avant, poste CD compatible Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières isofix, banquette ar rabattable, véritable roue de secours etc..
 
 
-Liste d'options à valider avec un commercial lors de votre visite...
+Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
@@ -53,7 +53,7 @@ Rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 9300 Euros
+### PRIX : 7800 Euros
 
 
 <!-- more -->
