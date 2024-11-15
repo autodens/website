@@ -7,7 +7,7 @@ date = "2024-11-14"
 categories = [
     "Voitures",
 ]
-image = "../post/20241115_toyota_aygo_grise_2019_75mkm/images/1.jpg"
+image = "../post/20241115_toyota_yaris_grise_2013_79mkm/images/1.jpg"
 adate = "2013"
 akm = "79 000km"
 agaz = "essence"
@@ -20,7 +20,7 @@ prix="7800"
 
 # TOYOTA YARIS grise 1.0L 69CV 3p clim
 
-{{< gallery "../post/20241115_toyota_aygo_grise_2019_75mkm/images/1.jpg,../post/20241115_toyota_aygo_grise_2019_75mkm/images/2.jpg,../post/20241115_toyota_aygo_grise_2019_75mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20241115_toyota_yaris_grise_2013_79mkm/images/1.jpg,../post/20241115_toyota_yaris_grise_2013_79mkm/images/2.jpg,../post/20241115_toyota_yaris_grise_2013_79mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 TOYOTA YARIS grise 1.0L 69CV 3p clim de 2013 affichant 79mkm
