@@ -15,7 +15,7 @@ aboite = "Manuelle 6"
 
 apuissance= "90 CV"
 acouleur = "grise"
-prix="16400"
+prix="16000"
 
 +++
 
@@ -28,14 +28,14 @@ RENAULT CLIO 5 2023 Essence 90CV EVOLUTION grise 5p clim affichant 15.000 km
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, vitres électriques, Radio CARPLAY Bluetooth avec ecran tactile, climatisation , ABS, airbags, sièges arrières isofix, banquette arrière rabattable,aide au démarrage en côte ,aides à la conduite, etc..
+Verrouillage centralisé avec télécommande, vitres électriques, Radio CARPLAY Bluetooth avec écran tactile, climatisation , ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, aide au démarrage en côte ,aides à la conduite, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
- Très Bon état 
+Très bon état 
 
 
 ### INTERIEUR :
@@ -50,7 +50,7 @@ Distribution par chaîne
 Voiture disponible rapidement
 
 
-### PRIX : 16400 Euros
+### PRIX : 16000 Euros
 
 
 <!-- more -->

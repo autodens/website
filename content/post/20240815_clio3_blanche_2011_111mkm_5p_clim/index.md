@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= " 75CV"
 acouleur = "blanche"
-prix="6600"
+prix="6500"
 
 +++
 
@@ -43,14 +43,14 @@ Tissu impeccable
 ### MECANIQUE :
 Entretien à jour
 
-La courroie de distribution + pompe à eau + courroie accessoires seront à jour pour la vente
+La courroie de distribution + pompe à eau + courroie accessoires sont neufs
 
 CT OK
 
 Voiture disponible rapidement
 
 
-### PRIX : 6600 Euros
+### PRIX : 6500 Euros
 
 
 <!-- more -->
