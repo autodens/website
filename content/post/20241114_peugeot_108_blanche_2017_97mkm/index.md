@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "Manuelle"
 apuissance= "68 CV"
 acouleur = "blanche"
-prix="7800"
+prix="7500"
 
 +++
 
@@ -26,7 +26,7 @@ prix="7800"
 PEUGEOT 108 blanche 68CV 2017 5p clim de 2017 affichant 97.000km
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, vitres électriques avant, poste radio  Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette ar rabattable, aide au démarrage en côte, limiteur de vitesse, etc..
+Verrouillage centralisé avec télécommande, vitres électriques avant, poste radio  Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, aide au démarrage en côte, limiteur de vitesse, véritable roue de secours etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
@@ -52,7 +52,7 @@ Rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 7800 Euros
+### PRIX : 7500 Euros
 
 
 <!-- more -->
