@@ -1,6 +1,6 @@
 +++
-title = "TOYOTA AYGO 1.0L VVTI 68 72CV 2019 5p clim"
-description = "TOYOTA AYGO 1.0L VVTI 68 72CV 2019 5p clim"
+title = "TOYOTA AYGO 1.0L VVTI 72CV 2019 5p clim"
+description = "TOYOTA AYGO 1.0L VVTI 72CV 2019 5p clim"
 tags = [
 ]
 date = "2024-11-22"
@@ -18,16 +18,16 @@ prix="9000"
 
 +++
 
-# TOYOTA AYGO 1.0L VVTI 68 72CV 2019 5p clim
+# TOYOTA AYGO 1.0L VVTI 72CV 2019 5p clim
 
 {{< gallery "../post/20241122_toyota_aygo_grise_2019_75mkm_5p/images/1.jpg,../post/20241122_toyota_aygo_grise_2019_75mkm_5p/images/2.jpg,../post/20241122_toyota_aygo_grise_2019_75mkm_5p/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-TOYOTA AYGO 1.0L VVTI 68 72CV 2019 5p clim affichant 75.000 km
+TOYOTA AYGO 1.0L VVTI 72CV 2019 5p clim affichant 75.000 km
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, vitres électriques avant, radio  Bluetooth avec ecran  tactile, climatisation manuelle, ABS, airbags, sièges arrières isofix, banquette ar rabattable, aide au démarrage en côte, caméra de recul, limiteur de vitesse, etc..
+Verrouillage centralisé avec télécommande, vitres électriques avant, radio Bluetooth avec écran  tactile, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, aide au démarrage en côte, caméra de recul, limiteur de vitesse, kit crevaison, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite...
