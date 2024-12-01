@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "mécanique"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="5700"
+prix="5600"
 
 +++
 
@@ -53,7 +53,7 @@ Rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 5700 Euros
+### PRIX : 5600 Euros
 
     
 <!-- more -->

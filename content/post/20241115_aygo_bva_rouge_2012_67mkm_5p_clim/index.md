@@ -15,7 +15,7 @@ aboite = "Automatique"
 
 apuissance= " 68 CV"
 acouleur = "rouge"
-prix="7700"
+prix="7600"
 
 +++
 
@@ -51,7 +51,7 @@ Aucun frais à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 7700 Euros
+### PRIX : 7600 Euros
 
 
 <!-- more -->
