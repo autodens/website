@@ -105,8 +105,8 @@ Liste d'équipements à valider avec un commercial
 
 
 ### MECANIQUE :
-entretien à jour avec factures ( dernier entretien 01/2025)
-Pas de courroie de distribution ( moteur à chaîne)
+Entretien à jour avec factures ( dernier entretien 01/2025)/
+Moteur à chaîne ( pas de courroie de distribution)
 
 ### CARROSSERIE :
 Propre
