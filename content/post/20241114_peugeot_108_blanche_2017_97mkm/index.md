@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "Manuelle"
 apuissance= "68 CV"
 acouleur = "blanche"
-prix="7400"
+prix="7200"
 
 +++
 
@@ -52,7 +52,7 @@ Rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 7400 Euros
+### PRIX : 7200 Euros
 
 
 <!-- more -->
