@@ -43,10 +43,11 @@ Tissu impeccable
 ### MECANIQUE :
 Entretien à jour/
 Distribution par chaîne/
-Double de clés
+Embrayage Neuf/
 
+Double de clés/
 
-Contrôle technique : RAS
+Contrôle technique :OK /
 Rien à prévoir
 
 
