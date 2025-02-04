@@ -52,7 +52,7 @@ Rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 7800 Euros
+### PRIX : 8800 Euros
 
 
 <!-- more -->
