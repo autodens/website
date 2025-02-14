@@ -15,7 +15,7 @@ aboite = "Manuelle 6"
 
 apuissance= "90 CV"
 acouleur = "blanche"
-prix="13200"
+prix="13300"
 
 +++
 
@@ -50,7 +50,7 @@ dernier entretien à 49mkm
 Voiture disponible rapidement
 
 
-### PRIX : 13200 Euros
+### PRIX : 13300 Euros
 
 
 <!-- more -->
