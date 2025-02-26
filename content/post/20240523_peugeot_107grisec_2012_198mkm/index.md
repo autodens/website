@@ -1,6 +1,6 @@
 +++
-title = "PEUGEOT 107 2012 grise 5p clim "
-description = "PEUGEOT 107 2012 grise 5p clim  "
+title = "PEUGEOT 107 2012 grise 5p clim critair1"
+description = "PEUGEOT 107 2012 grise 5p clim critair1 "
 tags = [
 ]
 date = "2024-04-22"
@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20240523_peugeot_107grisec_2012_198mkm/images/1.jpg"
 adate = "2012"
-akm = "198 000km"
+akm = "199 000km"
 agaz = "essence"
 aboite = "manu"
 apuissance= "68 CV"
@@ -18,13 +18,13 @@ prix="3400"
 
 +++
 
-# PEUGEOT 107 2012 grise 5p clim 
+# PEUGEOT 107 2012 grise 5p clim critair1
 
 {{< gallery  "../post/20240523_peugeot_107grisec_2012_198mkm/images/1.jpg,../post/20240523_peugeot_107grisec_2012_198mkm/images/2.jpg,../post/20240523_peugeot_107grisec_2012_198mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
  
 
 
-PEUGEOT 107 2012 grise 5p clim affichant 198.000 km
+PEUGEOT 107 2012 grise 5p clim affichant 199.000 km critair1
 
 
 ### EQUIPEMENTS :

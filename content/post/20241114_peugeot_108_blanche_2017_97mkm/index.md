@@ -1,6 +1,6 @@
 +++
-title = "PEUGEOT 108 blanche 68CV 2017 5p clim"
-description = "PEUGEOT 108 blanche 68CV 2017 5p clim"
+title = "PEUGEOT 108 blanche 68CV 2017 5p clim critair1"
+description = "PEUGEOT 108 blanche 68CV 2017 5p clim critair1"
 tags = [
 ]
 date = "2024-11-14"
@@ -18,12 +18,12 @@ prix="7200"
 
 +++
 
-# PEUGEOT 108 blanche 68CV 2017 5p clim
+# PEUGEOT 108 blanche 68CV 2017 5p clim critair1
 
 {{< gallery "../post/20241114_peugeot_108_blanche_2017_97mkm/images/1.jpg,../post/20241114_peugeot_108_blanche_2017_97mkm/images/2.jpg,../post/20241114_peugeot_108_blanche_2017_97mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-PEUGEOT 108 blanche 68CV 2017 5p clim de 2017 affichant 97.000km
+PEUGEOT 108 blanche 68CV 2017 5p clim de 2017 affichant 97.000km critair1
 
 ### EQUIPEMENTS :
 Verrouillage centralisé avec télécommande, vitres électriques avant, poste radio  Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, aide au démarrage en côte, limiteur de vitesse, véritable roue de secours etc..

@@ -1,6 +1,6 @@
 +++
-title = "PEUGEOT 108 verte Style 72CV 2021 5p clim"
-description = "PEUGEOT 108 verte Style 72CV 2021 5p clim"
+title = "PEUGEOT 108 verte Style 72CV 2021 5p clim critair1"
+description = "PEUGEOT 108 verte Style 72CV 2021 5p clim critair1"
 tags = [
 ]
 date = "2024-09-12"
@@ -18,12 +18,12 @@ prix="9500"
 
 +++
 
-# PEUGEOT 108 verte Style 72CV 2021 5p clim
+# PEUGEOT 108 verte Style 72CV 2021 5p clim critair1
 
 {{< gallery "../post/20240912_peugeot_108_verte_2021_46mkm/images/1.jpg,../post/20240912_peugeot_108_verte_2021_46mkm/images/2.jpg,../post/20240912_peugeot_108_verte_2021_46mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-PEUGEOT 108 verte Style 72CV 5p clim de 2021 affichant 45.000 km
+PEUGEOT 108 verte Style 72CV 5p clim de 2021 affichant 45.000 km critair1
 
 
 ### EQUIPEMENTS :

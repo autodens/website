@@ -1,6 +1,6 @@
 +++
-title = "PEUGEOT 108 grise 72CV STYLE 2020 5p clim"
-description = "PEUGEOT 108 grise 72CV STYLE 2020 5p clim"
+title = "PEUGEOT 108 grise 72CV STYLE 2020 5p clim critair1"
+description = "PEUGEOT 108 grise 72CV STYLE 2020 5p clim critair1"
 tags = [
 ]
 date = "2025-02-04"
@@ -18,12 +18,12 @@ prix="8800"
 
 +++
 
-# PEUGEOT 108 grise 72CV STYLE 2020 5p clim
+# PEUGEOT 108 grise 72CV STYLE 2020 5p clim critair1
 
 {{< gallery "../post/20250204_peugeot_108_grisf_2020_44mkm/images/1.jpg,../post/20250204_peugeot_108_grisf_2020_44mkm/images/2.jpg,../post/20250204_peugeot_108_grisf_2020_44mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-PEUGEOT 108 grise 72CV STYLE 2020 5p clim affichant 44.000km
+PEUGEOT 108 grise 72CV STYLE 2020 5p clim affichant 44.000km critair1
 
 ### EQUIPEMENTS :
 Verrouillage centralisé avec télécommande, double des clés, vitres électriques avant, poste radio CARPLAY avec ecran tactile, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours, aide au démarrage en côte, limiteur de vitesse, etc..
