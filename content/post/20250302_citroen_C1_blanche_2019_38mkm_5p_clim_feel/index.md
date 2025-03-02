@@ -21,7 +21,7 @@ prix="8500"
 
 # CITROEN C1 FEEL 2019 72CV Essence 5 portes clim Crit'Air 1
 
-{{< gallery "../post/20250302_citroen_C1_blanche_2019_38mkm_5p_clim_feel/images/1.jpg,../post/20250302_citroen_C1_blanche_2019_38mkm_5p_clim_feel/images/2.jpg,../post/20250302_citroen_C1_blanche_2019_38mkm_5p_clim_feel/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20250302_citroen_C1_blanche_2019_38mkm_5p_clim_feel/images/1.jpg,../post/20250302_citroen_C1_blanche_2019_38mkm_5p_clim_feel/images/2.jpg,../post/20250302_citroen_C1_blanche_2019_38mkm_5p_clim_feel/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 CITROEN C1 FEEL 2019 72CV Essence 5 portes clim Crit'Air 1 affichant seulement 38.000 km
