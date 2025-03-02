@@ -21,7 +21,7 @@ prix="7300"
 
 # DACIA SANDERO STEPWAYS 2016 Essence 90CV blanche 5p clim Crit'Air 1
 
-{{< gallery "../post/20250215_dacia_sandero_stepway_blanche_2016_140mkm/images/1.jpg,../post/20250215_dacia_sandero_stepway_blanche_2016_140mkm/images/2.jpg,../post/20250215_dacia_sandero_stepway_blanche_2016_140mkm/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20250215_dacia_sandero_stepway_blanche_2016_140mkm/images/1.jpg,../post/20250215_dacia_sandero_stepway_blanche_2016_140mkm/images/2.jpg,../post/20250215_dacia_sandero_stepway_blanche_2016_140mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 DACIA SANDERO STEPWAYS 2016 Essence 90CV blanche 5p clim affichant 140.000 km
