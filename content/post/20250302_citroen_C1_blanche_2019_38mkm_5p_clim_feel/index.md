@@ -28,7 +28,7 @@ CITROEN C1 FEEL 2019 72CV Essence 5 portes clim Crit'Air 1 affichant seulement 3
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, vitres av électriques,reglage siège conducteur en hauteur, Radio Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, limiteur de vitesse, aide au démarrage en côte, véritable roue de secours, etc..
+Verrouillage centralisé avec télécommande, vitres av électriques, réglage siège conducteur en hauteur, Radio Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, limiteur de vitesse, aide au démarrage en côte, véritable roue de secours, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
