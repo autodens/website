@@ -1,9 +1,9 @@
 +++
-title = "CITROEN C1 Essence 72CV FEEL bi-ton 5p clim Crit'Air 1"
-description = "CITROEN C1 Essence 72CV FEEL bi-ton 5p clim Crit'Air 1"
+title = "CITROEN C1 Essence 72CV FEEL  5p clim Crit'Air 1"
+description = "CITROEN C1 Essence 72CV FEEL 5p clim Crit'Air 1"
 tags = [
 ]
-date = "2025-03-01"
+date = "2025-03-02"
 categories = [
     "Voitures",
 ]
@@ -19,12 +19,12 @@ prix="8500"
 
 +++
 
-# CITROEN C1 Essence 72CV FEEL bi-ton 5p clim Crit'Air 1
+# CITROEN C1 Essence 72CV FEEL  5p clim Crit'Air 1
 
 {{< gallery "../post/20250302_citroen_c1_2019_38mkm_biton/images/1.jpg,../post/20250302_citroen_c1_2019_38mkm_biton/images/2.jpg,../post/20250302_citroen_c1_2019_38mkm_biton/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-CITROEN C1 Essence 72CV FEEL bi-ton 5p clim Crit'Air 1 affichant 38.000 km
+CITROEN C1 Essence 72CV FEEL 5p clim Crit'Air 1 affichant 38.000 km
 
 
 ### EQUIPEMENTS :
