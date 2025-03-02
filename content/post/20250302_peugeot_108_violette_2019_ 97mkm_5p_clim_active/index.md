@@ -28,14 +28,14 @@ PEUGEOT 108 ACTIVE 2019 72CV Essence 5 portes clim Crit'Air 1 affichant 97.000 k
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande,double des clés, vitres av électriques, Radio Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, limiteur de vitesse, etc..
+Verrouillage centralisé avec télécommande, double des clés, vitres av électriques, Radio Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, limiteur de vitesse, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
-bel état  ( qq rayures d'usage/ leger enfoncement porte AVG)
+bel état  ( qq rayures d'usage/ léger enfoncement porte AVG)
 
 
 ### INTERIEUR :
@@ -44,7 +44,7 @@ Tissu noir très propre
 ### MECANIQUE :
 Entretien à jour
 Distribution par chaîne
-embrayage réccente
+embrayage récent
 Disques et plaquettes AV neufs
 
 
