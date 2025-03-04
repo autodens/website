@@ -15,6 +15,7 @@ aboite = "manu"
 apuissance= "68 CV"
 acouleur = "grise"
 prix="3400"
+acritair="critair1"
 
 +++
 
