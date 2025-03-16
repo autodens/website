@@ -35,7 +35,7 @@ Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
- bel état  ( qq rayures d'usage)
+Très propre
 
 
 ### INTERIEUR :
