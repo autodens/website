@@ -8,7 +8,7 @@ categories = [
     "Voitures",
 ]
 image = "../post/20250311_renault_clio5_bleue_2021_77mkm_business/images/1.jpg"
-adate = "20121
+adate = "20121"
 akm = "77 000km"
 agaz = "essence"
 aboite = "Manuelle"
