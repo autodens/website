@@ -3,19 +3,19 @@ title = "RENAULT CLIO 5 2021 Essence 90CV BUSINESS blanche 5p clim critair1"
 description = "RENAULT CLIO 5 2021 Essence 90CV BUSINESS blanche  5p clim critair1"
 tags = [
 ]
-date = "2025-02-08"
+date = "2025-03-08"
 categories = [
     "Voitures",
 ]
 image = "../post/20250208_renault_clio5_blanche_2021_53mkm/images/1.jpg"
 adate = "2021"
-akm = "52 000km"
+akm = "29 000km"
 agaz = "essence"
 aboite = "Manuelle 6"
 
 apuissance= "90 CV"
 acouleur = "blanche"
-prix="13300"
+prix="14300"
 
 +++
 
@@ -24,7 +24,7 @@ prix="13300"
 {{< gallery "../post/20250208_renault_clio5_blanche_2021_53mkm/images/1.jpg,../post/20250208_renault_clio5_blanche_2021_53mkm/images/2.jpg,../post/20250208_renault_clio5_blanche_2021_53mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-RENAULT CLIO 5 2021 Essence 90CV BUSINESS blanche 5p clim affichant 52.000 km critair1
+RENAULT CLIO 5 2021 Essence 90CV BUSINESS blanche 5p clim affichant 29.000 km critair1
 
 
 ### EQUIPEMENTS :
@@ -44,13 +44,13 @@ Tissu noir très propre
 ### MECANIQUE :
 Entretien à jour
 Distribution par chaîne
-dernier entretien à 49mkm
+
 
 
 Voiture disponible rapidement
 
 
-### PRIX : 13300 Euros
+### PRIX : 14300 Euros
 
 
 <!-- more -->
