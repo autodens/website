@@ -11,7 +11,7 @@ image = "../post/20250413_toyota_aygo_bva_bleue_2013_47mkm/images/1.jpg"
 adate = "2013"
 akm = "47 000km"
 agaz = "essence"
-aboite = "AUTO"
+aboite = "auto"
 
 apuissance= "68 CV"
 acouleur = "bleue"
@@ -35,7 +35,7 @@ Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
- Très Propre  
+Très Propre  
 
 
 ### INTERIEUR :
@@ -43,7 +43,7 @@ Tissu impeccable
 
 ### MECANIQUE :
 Entretien à jour
-chaine de distribution
+Chaine de distribution
 CT OK
 
 

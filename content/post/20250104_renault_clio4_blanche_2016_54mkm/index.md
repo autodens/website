@@ -9,10 +9,10 @@ categories = [
 ]
 image = "../post/20250104_renault_clio4_blanche_2016_54mkm/images/1.jpg"
 adate = "2016"
-akm = " 54000km"
+akm = " 54 000km"
 agaz = "essence"
 aboite = "manuelle"
-apuissance="90 CV"
+apuissance="90 cv"
 acouleur = "blanche"
 prix="9900"
 
