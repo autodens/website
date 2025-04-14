@@ -21,7 +21,7 @@ prix="8500"
 
 # TOYOTA AYGO ESSENCE 68CV BOITE AUTO 2013 bleue clim critair1
 
-{{< gallery "../post/20250413_toyota_aygo_bva_bleue_2013_47mkm/images/1.jpg,../post/20250413_toyota_aygo_bva_bleue_2013_47mkm/images/2.jpg,../post20250413_toyota_aygo_bva_bleue_2013_47mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20250413_toyota_aygo_bva_bleue_2013_47mkm/images/1.jpg,../post/20250413_toyota_aygo_bva_bleue_2013_47mkm/images/2.jpg,../post/20250413_toyota_aygo_bva_bleue_2013_47mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 TOYOTA AYGO ESSENCE 68CV BOITE AUTO 2013 bleue clim critair1 affichant 47.000 km
