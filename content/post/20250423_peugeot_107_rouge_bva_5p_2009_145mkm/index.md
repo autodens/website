@@ -1,30 +1,30 @@
 +++
-title = "PEUGEOT 107 3p BVA noire Essence critair2"
-description = "PEUGEOT 107 3p BVA noire Essence critair2 "
+title = "PEUGEOT 107 5p BVA rouge Essence critair2"
+description = "PEUGEOT 107 5p BVA rouge Essence critair2 "
 tags = [
 ]
-date = "2025-04-02"
+date = "2025-04-23"
 categories = [
     "Voitures"
 ]
-image = "../post/20250402_peugeot_107noire_bva_3p_2008_160mkm/images/1.jpg"
-adate = "2008"
-akm = "160 000km"
+image = "../post/20250423_peugeot_107_rouge_bva_5p_2009_145mkm/images/1.jpg"
+adate = "2009"
+akm = "145 000km"
 agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
-acouleur = "noire"
-prix="5900"
+acouleur = "rouge"
+prix="6500"
 
 +++
 
-# PEUGEOT 107 3p BVA noire Essence critair2
+# PEUGEOT 107 5p BVA rouge Essence critair2
 
-{{< gallery  "../post/20250402_peugeot_107noire_bva_3p_2008_160mkm/images/1.jpg,../post/20250402_peugeot_107noire_bva_3p_2008_160mkm/images/2.jpg,../post/20250402_peugeot_107noire_bva_3p_2008_160mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery  "../post/20250423_peugeot_107_rouge_bva_5p_2009_145mkm/images/1.jpg,../post/20250423_peugeot_107_rouge_bva_5p_2009_145mkm/images/2.jpg,../post/20250423_peugeot_107_rouge_bva_5p_2009_145mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
  
 
 
-PEUGEOT 107 3p BVA noire Essence critair2 affichant 160.000 km 
+PEUGEOT 107 5p BVA rouge Essence critair2 affichant 145.000 km 
 
 
 ### EQUIPEMENTS :
@@ -33,7 +33,7 @@ Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE :
-moyenne ( rayures, bosses d'usage)
+très propre
 
 
 ### INTERIEUR :
@@ -42,6 +42,7 @@ Tissu propre
 ### MECANIQUE :
 Entretien à jour ( vidange + filtres faits en 04/2024)
 Moteur à chaîne ( pas de Courroie de distribution)
+embrayage neuf
 
 Double des clés
 Consommation : 4L/100km
@@ -52,7 +53,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 5900 Euros
+### PRIX : 6500 Euros
 
 Disponible rapidement
 Garantie
