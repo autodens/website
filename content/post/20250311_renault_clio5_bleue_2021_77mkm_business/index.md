@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "90 CV"
 acouleur = "bleue"
-prix="12500"
+prix="12200"
 
 +++
 
@@ -49,7 +49,7 @@ Distribution par chaine
 Voiture disponible rapidement
 
 
-### PRIX : 12500 Euros
+### PRIX : 12200 Euros
 
 
 <!-- more -->

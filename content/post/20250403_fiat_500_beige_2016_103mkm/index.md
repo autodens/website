@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "69 CV"
 acouleur = "beige"
-prix="8200"
+prix="8000"
 
 +++
 
@@ -52,7 +52,7 @@ CT OK
 Voiture disponible rapidement
 
 
-### PRIX : 8200 Euros
+### PRIX : 8000 Euros
 
 
 <!-- more -->

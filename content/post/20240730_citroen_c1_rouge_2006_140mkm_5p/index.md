@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= " 68CV"
 acouleur = "rouge"
-prix="3500"
+prix="3200"
 
 +++
 
@@ -50,7 +50,7 @@ CT OK
 Voiture disponible rapidement
 
 
-### PRIX : 3500 Euros
+### PRIX : 3200 Euros
 
 
 <!-- more -->

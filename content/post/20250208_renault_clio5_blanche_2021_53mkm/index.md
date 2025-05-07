@@ -15,7 +15,7 @@ aboite = "Manuelle 6"
 
 apuissance= "90 CV"
 acouleur = "blanche"
-prix="14000"
+prix="13900"
 
 +++
 
@@ -50,7 +50,7 @@ Distribution par chaîne
 Voiture disponible rapidement
 
 
-### PRIX : 14000 Euros
+### PRIX : 13900 Euros
 
 
 <!-- more -->

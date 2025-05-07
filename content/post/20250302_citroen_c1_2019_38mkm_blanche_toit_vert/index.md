@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "72 CV"
 acouleur = "blanche"
-prix="8500"
+prix="7900"
 
 +++
 
@@ -53,7 +53,7 @@ historique avec factures
 Voiture disponible rapidement
 
 
-### PRIX : 8500 Euros
+### PRIX : 7900 Euros
 
 
 <!-- more -->
