@@ -9,13 +9,13 @@ categories = [
 ]
 image = "../post/20250503_dacia_sandero_stepway_blanche_2015_80mkm/images/1.jpg"
 adate = "2015"
-akm = "80 000km"
+akm = "79 000km"
 agaz = "essence"
 aboite = "Manuelle"
 
 apuissance= "90 CV"
 acouleur = "blanche"
-prix="8300"
+prix="8200"
 
 +++
 
@@ -28,7 +28,7 @@ DACIA SANDERO STEPWAY 2015 Essence 90CV blanche 5p clim affichant 80.000 km
 
 
 ### EQUIPEMENTS :
-finition Ambiance, Verrouillage centralisé avec télécommande, vitres av électriques, Radio Bluetooth , climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, régulateur de vitesse, limiteur de vitesse, etc..
+finition Ambiance, Verrouillage centralisé avec télécommande, vitres av électriques, Radio Bluetooth ,ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, régulateur de vitesse, limiteur de vitesse, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
@@ -42,7 +42,7 @@ Très bel état
 Tissu noir très propre
 
 ### MECANIQUE :
-Entretien à jour
+Entretien à jour ( historique Réseau RENAULT)
 Distribution par chaîne
 
 
@@ -50,7 +50,7 @@ Distribution par chaîne
 Voiture disponible rapidement
 
 
-### PRIX : 8300 Euros
+### PRIX : 8200 Euros
 
 
 <!-- more -->
