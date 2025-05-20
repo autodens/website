@@ -1,30 +1,30 @@
 +++
-title = "PEUGEOT 107 5p BVA rouge Essence 2010"
-description = "PEUGEOT 107 5p BVA rouge Essence 2010"
+title = "PEUGEOT 107 5p BVA grise Essence"
+description = "PEUGEOT 107 5p BVA grise Essence"
 tags = [
 ]
-date = "2025-05-02"
+date = "2025-05-20"
 categories = [
     "Voitures"
 ]
-image = "../post/20250502_peugeot_107rouge_bva_2010_5p_146mkm/images/1.jpg"
-adate = "2010"
-akm = "146 000km"
+image = "../post/20250520_peugeot_107grise_bva_2009_5p_41mkm/images/1.jpg"
+adate = "2009"
+akm = "41 000km"
 agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
-acouleur = "rouge"
-prix="5900"
+acouleur = "grise"
+prix="7500"
 
 +++
 
-# PEUGEOT 107 5p BVA rouge Essence 2010 
+# PEUGEOT 107 5p BVA grise Essence
 
-{{< gallery  "../post/20250502_peugeot_107rouge_bva_2010_5p_146mkm/images/1.jpg,../post/20250502_peugeot_107rouge_bva_2010_5p_146mkm/images/2.jpg,../post/20250502_peugeot_107rouge_bva_2010_5p_146mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery  "../post/20250520_peugeot_107grise_bva_2009_5p_41mkm/images/1.jpg,../post/20250520_peugeot_107grise_bva_2009_5p_41mkm/images/2.jpg,../post/20250520_peugeot_107grise_bva_2009_5p_41mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
  
 
 
-PEUGEOT 107 5p BVA rouge Essence 2010  affichant 146.000 km 
+PEUGEOT 107 5p BVA grise Essence  affichant seulement 41.000 km 
 
 
 ### EQUIPEMENTS :
@@ -42,7 +42,7 @@ Tissu noir ok
 ### MECANIQUE :
 Entretien à jour ( vidange + filtres faits en 04/2024)
 Moteur à chaîne ( pas de Courroie de distribution)
-Embrayage neuf
+
 
 Double des clés
 Consommation : 4L/100km
@@ -50,13 +50,16 @@ Véhicule économe
 Crit air 2
 Contrôle technique OK 
 
+Ideal jeune permis en boite AUTO
+
+
 Aucun frais à prévoir
 
 
-### PRIX : 5900 Euros
+### PRIX : 7500 Euros
 
 Disponible rapidement
-Garantie
+Garantie 6 mois
 
 <!-- more -->
 

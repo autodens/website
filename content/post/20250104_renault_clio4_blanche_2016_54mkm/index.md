@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manuelle"
 apuissance="90 cv"
 acouleur = "blanche"
-prix="9800"
+prix="9700"
 
 +++
 
@@ -120,7 +120,7 @@ Tissu noir
 
 Disponible rapidement
 
-### PRIX :9800 Euro
+### PRIX :9700 Euro
 
 
 <!-- more -->
