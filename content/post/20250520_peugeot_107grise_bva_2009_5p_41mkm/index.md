@@ -28,8 +28,8 @@ PEUGEOT 107 5p BVA grise Essence  affichant seulement 41.000 km
 
 
 ### EQUIPEMENTS :
-Boite de Vitesse Automatique, Direction assistée ,verrouillage centralisé, compte tours, Radio CD (possibilité de monter un autoradio récent avec écran tactile et fonction CARPLAY), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
-Liste d'options à valider avec moi lors de votre visite
+Boite de Vitesse Automatique, Climatisation manuelle,  Direction assistée ,verrouillage centralisé, compte tours, Radio CD (possibilité de monter un autoradio récent avec écran tactile et fonction CARPLAY), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
+Liste d'options à valider lors de votre visite
 
 
 ### CARROSSERIE :
@@ -40,7 +40,7 @@ Très propre
 Tissu noir ok
 
 ### MECANIQUE :
-Entretien à jour ( vidange + filtres faits en 04/2024)
+Entretien à jour ( vidange + filtres faits en 06/2024)
 Moteur à chaîne ( pas de Courroie de distribution)
 
 
