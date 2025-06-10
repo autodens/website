@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="7500"
+prix="7400"
 
 +++
 
@@ -56,7 +56,7 @@ Ideal jeune permis en boite AUTO
 Aucun frais à prévoir
 
 
-### PRIX : 7500 Euros
+### PRIX : 7400 Euros
 
 Disponible rapidement
 Garantie 6 mois
