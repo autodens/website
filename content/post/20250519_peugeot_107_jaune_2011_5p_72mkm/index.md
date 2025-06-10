@@ -28,7 +28,7 @@ PEUGEOT 107 5p Essence affichant seulement 72.000 km
 
 
 ### EQUIPEMENTS :
-Boite de Vitesse Automatique, Direction assistée ,verrouillage centralisé, compte tours, Radio CD (possibilité de monter un autoradio récent avec écran tactile et fonction CARPLAY), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
+Boite de Vitesse Mécanique 5 rapports, Direction assistée ,verrouillage centralisé avec telecommande, compte tours, Radio CD (possibilité de monter un autoradio récent avec écran tactile et fonction CARPLAY), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
 Liste d'options à valider avec moi lors de votre visite
 
 
