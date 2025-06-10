@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "72 CV"
 acouleur = "blanche"
-prix="7900"
+prix="7400"
 
 +++
 
@@ -44,7 +44,7 @@ Tissu noir très propre
 ### MECANIQUE :
 Entretien à jour
 Distribution par chaîne
-Embrayage récent
+Embrayage neuf
 historique avec factures
 
 
@@ -53,7 +53,7 @@ historique avec factures
 Voiture disponible rapidement
 
 
-### PRIX : 7900 Euros
+### PRIX : 7400 Euros
 
 
 <!-- more -->
