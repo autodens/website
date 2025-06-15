@@ -3,7 +3,7 @@ title = "RENAULT CLIO 5 2021 Essence 90CV BUSINESS grise 5p clim critair1"
 description = "RENAULT CLIO 5 2021 Essence 90CV BUSINESS grise  5p clim critair1"
 tags = [
 ]
-date = "2025-06-03"
+date = "2025-06-15"
 categories = [
     "Voitures",
 ]
@@ -15,7 +15,7 @@ aboite = "Manuelle 6"
 
 apuissance= "90 CV"
 acouleur = "grise"
-prix="13600"
+prix="13500"
 
 +++
 
@@ -35,7 +35,7 @@ Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
-Très bon état 
+Très bon état / légère griffure aile ARD
 
 
 ### INTERIEUR :
