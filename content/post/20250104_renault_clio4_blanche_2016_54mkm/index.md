@@ -8,13 +8,13 @@ categories = [
     "Voitures",
 ]
 image = "../post/20250104_renault_clio4_blanche_2016_54mkm/images/1.jpg"
-adate = "2016"
-akm = " 54 000km"
+adate = "2017"
+akm = " 45 000km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance="90 cv"
 acouleur = "blanche"
-prix="9700"
+prix="9900"
 
 +++
 
@@ -24,7 +24,7 @@ prix="9700"
 
 
 
-RENAULT CLIO IV blanche 0.9TCE 90cv 5p critair 1 de 2016 affichant 54.000km
+RENAULT CLIO IV blanche 0.9TCE 90cv 5p critair 1 de 2017 affichant 45.000km
 5 portes
 
 ### EQUIPEMENTS :
@@ -120,7 +120,7 @@ Tissu noir
 
 Disponible rapidement
 
-### PRIX :9700 Euro
+### PRIX :9900 Euro
 
 
 <!-- more -->
