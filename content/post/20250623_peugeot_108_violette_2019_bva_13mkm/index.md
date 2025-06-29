@@ -15,7 +15,7 @@ aboite = "AUTO"
 
 apuissance= "72 CV"
 acouleur = "violette"
-prix="11500"
+prix="11300"
 
 +++
 
@@ -52,7 +52,7 @@ Historique avec factures PEUGEOT
 Voiture disponible rapidement
 
 
-### PRIX : 11500 Euros
+### PRIX : 11300 Euros
 
 
 <!-- more -->
