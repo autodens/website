@@ -1,6 +1,6 @@
 +++
-title = "PEUGEOT 107 5p BVA rouge Essence 2010"
-description = "PEUGEOT 107 5p BVA rouge Essence 2010"
+title = "PEUGEOT 107 5p Boite auto rouge Essence 2010"
+description = "PEUGEOT 107 5p Boite auto rouge Essence 2010"
 tags = [
 ]
 date = "2025-05-02"
@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "rouge"
-prix="5800"
+prix="5500"
 
 +++
 
@@ -33,7 +33,7 @@ Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE :
-Très propre
+Très propre ( vernis un peu écaillé sur capot et toit)
 
 
 ### INTERIEUR :
@@ -53,7 +53,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 5800 Euros
+### PRIX : 5500 Euros
 
 Disponible rapidement
 Garantie
