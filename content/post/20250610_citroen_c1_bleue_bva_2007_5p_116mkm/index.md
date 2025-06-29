@@ -1,6 +1,6 @@
 +++
-title = "CITROEN C1 bleue BVA 5p bleue Essence"
-description = "CITROEN C1 bleue BVA 5p bleue Essence"
+title = "CITROEN C1 bleue Boite AUTO 5 portes Essence  clim"
+description = "CITROEN C1 bleue Boite AUTO 5 portes Essence clim"
 tags = [
 ]
 date = "2025-06-10"
@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "bleue"
-prix="5900"
+prix="5700"
 
 +++
 
@@ -24,7 +24,7 @@ prix="5900"
  
 
 
-CITROEN C1 bleue BVA 5p bleue Essence  affichant 116.000 km 
+CITROEN C1 bleue Boite AUTO 5 portes Essence clim affichant 116.000 km 
 
 
 ### EQUIPEMENTS :
@@ -57,7 +57,7 @@ Ideal jeune permis en boite AUTO
 Aucun frais à prévoir
 
 
-### PRIX : 5900 Euros
+### PRIX : 5700 Euros
 
 Disponible rapidement
 Garantie 6 mois
