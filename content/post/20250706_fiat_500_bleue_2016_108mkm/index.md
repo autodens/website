@@ -24,7 +24,7 @@ prix="7900"
 {{< gallery "../post/20250706_fiat_500_bleue_2016_108mkm/images/1.jpg,../post/20250706_fiat_500_bleue_2016_108mkm/images/2.jpg,../post/20250706_fiat_500_bleue_2016_108mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2016 clim Crit'Air 1 affichant 103.000 km
+FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2016 clim Crit'Air 1 affichant 108.000 km
 
 
 ### EQUIPEMENTS :
