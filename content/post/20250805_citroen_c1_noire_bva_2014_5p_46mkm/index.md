@@ -1,6 +1,6 @@
 +++
-title = "CITROEN C1 noire Boite AUTO 5 portes Essence clim"
-description = "CITROEN C1 noire Boite AUTO 5 portes Essence clim"
+title = "CITROEN C1 grise Boite AUTO 5 portes Essence clim"
+description = "CITROEN C1 grise Boite AUTO 5 portes Essence clim"
 tags = [
 ]
 date = "2025-08-05"
@@ -13,18 +13,18 @@ akm = "46 000km"
 agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
-acouleur = "noire"
+acouleur = "grise"
 prix="7600"
 
 +++
 
-# CITROEN C1 noire Boite AUTO 5 portes Essence clim
+# CITROEN C1 grise Boite AUTO 5 portes Essence clim
 
 {{< gallery  "../post/20250805_citroen_c1_noire_bva_2014_5p_46mkm/images/1.jpg,../post/20250805_citroen_c1_noire_bva_2014_5p_46mkm/images/2.jpg,../post/20250805_citroen_c1_noire_bva_2014_5p_46mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
  
 
 
-CITROEN C1 noire Boite AUTO 5 portes Essence clim affichant seulement 46.000 km 
+CITROEN C1 grise Boite AUTO 5 portes Essence clim affichant seulement 46.000 km 
 
 
 ### EQUIPEMENTS :
