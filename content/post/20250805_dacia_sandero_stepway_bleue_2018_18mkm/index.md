@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "90 CV"
 acouleur = "bleue"
-prix="10000"
+prix="10400"
 
 +++
 
@@ -28,7 +28,7 @@ DACIA SANDERO STEPWAY 2018 Essence 90CV bleue 5p clim affichant seulement 18.000
 
 
 ### EQUIPEMENTS :
-climatisation, Verrouillage centralisé avec télécommande, vitres av électriques, Radio Bluetooth ,ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, régulateur de vitesse, limiteur de vitesse, etc..
+Climatisation manuelle, Verrouillage centralisé avec télécommande, vitres av électriques, Radio Bluetooth ,ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, régulateur de vitesse, limiteur de vitesse, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
@@ -50,7 +50,7 @@ Distribution par chaîne
 Voiture disponible rapidement
 
 
-### PRIX : 10000 Euros
+### PRIX : 10400 Euros
 
 
 <!-- more -->
