@@ -41,7 +41,7 @@ Tissu beige ok
 
 ### MECANIQUE :
 Entretien à jour 
-Moteur à chaîne ( pas de Courroie de distribution)
+
 
 
 
@@ -57,7 +57,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX :7200 Euros
+### PRIX :14000 Euros
 
 Disponible rapidement
 Garantie 6 mois
