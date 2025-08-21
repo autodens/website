@@ -1,6 +1,6 @@
 +++
-title = "MERCEDES GLA 180 7-G DCT SENSATION bleue Boite AUTO 5 portes Diesel clim"
-description = "MERCEDES GLA 180 7-G DCT SENSATION bleue Boite AUTO 5 portes Diesel clim"
+title = "MERCEDES GLA 180 7-G DCT SENSATION bleue Boite AUTO 5 portes clim"
+description = "MERCEDES GLA 180 7-G DCT SENSATION bleue Boite AUTO 5 portes clim"
 tags = [
 ]
 date = "2025-08-18"
@@ -18,7 +18,7 @@ prix="14 000"
 
 +++
 
-# MERCEDES GLA 180 7-G DCT SENSATION bleue Boite AUTO 5 portes Diesel clim
+# MERCEDES GLA 180 7-G DCT SENSATION bleue Boite AUTO 5 portes clim
 
 {{< gallery  "../post/20250818_mercedes_gla_noire_bva_2017_5p_160mkm/images/1.jpg,../post/20250818_mercedes_gla_noire_bva_2017_5p_160mkm/images/2.jpg,../post/20250818_mercedes_gla_noire_bva_2017_5p_160mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
  
