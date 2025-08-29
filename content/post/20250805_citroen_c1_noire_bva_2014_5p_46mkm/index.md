@@ -8,13 +8,13 @@ categories = [
     "Voitures"
 ]
 image = "../post/20250805_citroen_c1_noire_bva_2014_5p_46mkm/images/1.jpg"
-adate = "2014"
-akm = "46 000km"
+adate = "2010"
+akm = "87 000km"
 agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="7600"
+prix="7200"
 
 +++
 
@@ -24,7 +24,7 @@ prix="7600"
  
 
 
-CITROEN C1 grise Boite AUTO 5 portes Essence clim affichant seulement 46.000 km 
+CITROEN C1 grise Boite AUTO 5 portes Essence clim affichant 87.000 km 
 
 
 ### EQUIPEMENTS :
@@ -57,7 +57,7 @@ Ideal jeune permis en boite AUTO
 Aucun frais à prévoir
 
 
-### PRIX :7600 Euros
+### PRIX :7200 Euros
 
 Disponible rapidement
 Garantie 6 mois

@@ -9,13 +9,13 @@ categories = [
 ]
 image = "../post/20250403_fiat_500_beige_2016_103mkm/images/1.jpg"
 adate = "2016"
-akm = "103 000km"
+akm = "104 000km"
 agaz = "essence"
 aboite = "Manuelle"
 
 apuissance= "69 CV"
 acouleur = "beige"
-prix="7900"
+prix="7800"
 
 +++
 
@@ -24,7 +24,7 @@ prix="7900"
 {{< gallery "../post/20250403_fiat_500_beige_2016_103mkm/images/1.jpg,../post/20250403_fiat_500_beige_2016_103mkm/images/2.jpg,../post/20250403_fiat_500_beige_2016_103mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-FIAT 500 LOUNGE 1.2L 69CV ESSENCE beige 2016 clim Crit'Air 1 affichant 103.000 km
+FIAT 500 LOUNGE 1.2L 69CV ESSENCE beige 2016 clim Crit'Air 1 affichant 104.000 km
 
 
 ### EQUIPEMENTS :
@@ -52,7 +52,7 @@ CT OK
 Voiture disponible rapidement
 
 
-### PRIX : 7900 Euros
+### PRIX : 7800 Euros
 
 
 <!-- more -->
