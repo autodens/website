@@ -21,7 +21,7 @@ prix="11300"
 
 # PEUGEOT 108 STYLE Essence 68CV violette BVA 5p clim Crit'Air 1
 
-{{< gallery "../post/20250829_peugeot_108_bva_violette_2017_19mkm/images/1.jpg,../post/20250829_peugeot_108_bva_violette_2017_19mkm/2.jpg,../post/20250829_peugeot_108_bva_violette_2017_19mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20250829_peugeot_108_bva_violette_2017_19mkm/images/1.jpg,../post/20250829_peugeot_108_bva_violette_2017_19mkm/images/2.jpg,../post/20250829_peugeot_108_bva_violette_2017_19mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 PEUGEOT 108 STYLE Essence 68CV violette BVA 5p clim Crit'Air 1 affichant 97.000 km
