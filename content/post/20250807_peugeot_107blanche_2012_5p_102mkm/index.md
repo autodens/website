@@ -3,7 +3,7 @@ title = "PEUGEOT 107 Essence 5p blanche clim critair 1"
 description = "PEUGEOT 107 Essence 5p blanche clim critair 1"
 tags = [
 ]
-date = "2025-08-07"
+date = "2025-09-03"
 categories = [
     "Voitures"
 ]
@@ -33,7 +33,7 @@ Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE :
- Propre
+Très Propre
 
 
 ### INTERIEUR :
@@ -42,12 +42,12 @@ Tissu noir ok
 ### MECANIQUE :
 Entretien à jour 
 Moteur à chaîne ( pas de Courroie de distribution)
-
+Embrayage neuf
 
 Double des clés
 Consommation : 4L/100km
 Véhicule économe
-Crit air 2
+Crit air 1
 Contrôle technique OK 
 
 Aucun frais à prévoir
