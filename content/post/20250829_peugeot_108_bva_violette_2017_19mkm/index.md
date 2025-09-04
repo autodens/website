@@ -3,7 +3,7 @@ title = "PEUGEOT 108 STYLE Essence 68CV violette BVA 5p clim Crit'Air 1"
 description = "PEUGEOT 108 STYLE Essence 68CV violette BVA 5p clim Crit'Air 1"
 tags = [
 ]
-date = "2025-08-29"
+date = "2025-09-04"
 categories = [
     "Voitures",
 ]
@@ -15,7 +15,7 @@ aboite = "AUTO"
 
 apuissance= "68 CV"
 acouleur = "violette"
-prix="11300"
+prix="11500"
 
 +++
 
