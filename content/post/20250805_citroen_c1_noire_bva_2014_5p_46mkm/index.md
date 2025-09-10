@@ -40,8 +40,9 @@ propre ( qq rayures d'usage)
 Tissu noir ok
 
 ### MECANIQUE :
-Entretien à jour ( vidange + filtres faits en 08/2025)
+Entretien à jour ( vidange + filtres faits en 09/2025)
 Moteur à chaîne ( pas de Courroie de distribution)
+EMBRAYAGE NEUF
 
 
 
