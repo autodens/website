@@ -33,7 +33,7 @@ Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE :
-Très propre ( vernis un peu écaillé sur capot et toit)
+Très propre 
 
 
 ### INTERIEUR :
