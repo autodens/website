@@ -1,6 +1,6 @@
 +++
-title = "PEUGEOT 107 Essence 5p Boite auto grise clim"
-description = "PEUGEOT 107 Essence 5p Boite auto grise clim"
+title = "PEUGEOT 107 Essence 5p Boite auto grise"
+description = "PEUGEOT 107 Essence 5p Boite auto grise"
 tags = [
 ]
 date = "2025-08-04"
@@ -9,26 +9,26 @@ categories = [
 ]
 image = "../post/20250804_peugeot_107grise_bva_2007_5p_89mkm/images/1.jpg"
 adate = "2007"
-akm = "89 000km"
+akm = "114 000km"
 agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="6500"
+prix="6300"
 
 +++
 
-# PEUGEOT 107 Essence 5p Boite auto grise clim
+# PEUGEOT 107 Essence 5p Boite auto grise 
 
 {{< gallery  "../post/20250804_peugeot_107grise_bva_2007_5p_89mkm/images/1.jpg,../post/20250804_peugeot_107grise_bva_2007_5p_89mkm/images/2.jpg,../post/20250804_peugeot_107grise_bva_2007_5p_89mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
  
 
 
-PEUGEOT 107 Essence 5p Boite auto grise clim  affichant 89.000 km 
+PEUGEOT 107 Essence 5p Boite auto grise   affichant 114.000 km 
 
 
 ### EQUIPEMENTS :
-Boite de Vitesse Automatique, clim, Direction assistée ,verrouillage centralisé, compte tours, Radio CD (possibilité de monter un autoradio récent avec écran tactile et fonction CARPLAY), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
+Boite de Vitesse Automatique, Direction assistée ,verrouillage centralisé, compte tours, Radio CD ( CARPLAY possible en option), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
 Liste d'options à valider avec moi lors de votre visite
 
 
@@ -42,8 +42,7 @@ Tissu noir ok
 ### MECANIQUE :
 Entretien à jour 
 Moteur à chaîne ( pas de Courroie de distribution)
-
-
+Embrayage neuf
 Double des clés
 Consommation : 4L/100km
 Véhicule économe
@@ -53,7 +52,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 6500 Euros
+### PRIX : 6300 Euros
 
 Disponible rapidement
 Garantie
