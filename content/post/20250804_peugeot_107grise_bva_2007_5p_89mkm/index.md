@@ -3,7 +3,7 @@ title = "PEUGEOT 107 Essence 5p Boite auto grise"
 description = "PEUGEOT 107 Essence 5p Boite auto grise"
 tags = [
 ]
-date = "2025-08-04"
+date = "2025-09-12"
 categories = [
     "Voitures"
 ]
@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="6300"
+prix="6200"
 
 +++
 
@@ -24,11 +24,11 @@ prix="6300"
  
 
 
-PEUGEOT 107 Essence 5p Boite auto grise   affichant 114.000 km 
+PEUGEOT 107 Essence 5p Boite auto grise affichant 114.000 km 
 
 
 ### EQUIPEMENTS :
-Boite de Vitesse Automatique, Direction assistée ,verrouillage centralisé, compte tours, Radio CD ( CARPLAY possible en option), vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
+Boite de vitesse Automatique, Direction assistée ,Verrouillage centralisé, Compte tours, Radio CD ( CARPLAY possible en option), Vitres avant électriques, Airbags, Sièges arrières ISOFIX, Banquette arrière rabattable, Véritable roue de secours etc.
 Liste d'options à valider avec moi lors de votre visite
 
 
@@ -52,7 +52,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 6300 Euros
+### PRIX : 6200 Euros
 
 Disponible rapidement
 Garantie
