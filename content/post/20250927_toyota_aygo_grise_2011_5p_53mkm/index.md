@@ -44,7 +44,6 @@ Entretien à jour ( vidange + filtres faits en 09/2025)
 Moteur à chaîne ( pas de Courroie de distribution)
 
 
-
 Double des clés
 Consommation : 4L/100km
 Véhicule économe
@@ -57,7 +56,7 @@ Ideal jeune permis
 Aucun frais à prévoir
 
 
-### PRIX :5900 Euros
+### PRIX : 5900 Euros
 
 Disponible rapidement
 Garantie 6 mois
