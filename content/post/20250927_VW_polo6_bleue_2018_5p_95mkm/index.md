@@ -28,12 +28,12 @@ VOLKSWAGEN POLO 6 bleue 5 portes Essence 95CV clim critair 1 affichant 95.000 km
 
 
 ### EQUIPEMENTS :
-Direction assistée, Climatisation, Verrouillage centralisé, Compte tours, CARPLAY, vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, etc.
+Direction assistée, Climatisation, Verrouillage centralisé, Compte tours, CARPLAY, vitres avant électriques, régulateur de vitesse, limiteur de vitesse, aides à la conduite, airbags, sièges arrières ISOFIX, banquette arrière rabattable, etc.
 Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE 
-Propre
+très Propre
 
 
 ### INTERIEUR :
@@ -42,6 +42,9 @@ Tissu noir ok
 ### MECANIQUE :
 Entretien à jour ( vidange + filtres faits en 09/2025)
 Moteur à chaîne ( pas de Courroie de distribution)
+Plaquettes de freins avant neuves
+Pneus avant neufs
+Batterie neuve
 
 Double des clés
 Crit air 1
@@ -50,7 +53,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX :12600 Euros
+### PRIX : 12600 Euros
 
 Disponible rapidement
 Garantie 6 mois
