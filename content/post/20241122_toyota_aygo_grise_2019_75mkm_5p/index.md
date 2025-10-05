@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "Manuelle"
 apuissance= "72 CV"
 acouleur = "grise"
-prix="8500"
+prix="8300"
 
 +++
 
@@ -55,7 +55,7 @@ Rien à prévoir
 Voiture disponible rapidement
 
 
-### PRIX : 8500 Euros
+### PRIX : 8300 Euros
 
 
 <!-- more -->
