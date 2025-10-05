@@ -11,10 +11,10 @@ image = "../post/20250804_peugeot_107grise_bva_2007_5p_89mkm/images/1.jpg"
 adate = "2008"
 akm = "96 000km"
 agaz = "essence"
-aboite = "auto"
+aboite = "AUTO"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="7200"
+prix="7100"
 
 +++
 
@@ -52,7 +52,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 7200 Euros
+### PRIX : 7100 Euros
 
 Disponible rapidement
 Garantie

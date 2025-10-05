@@ -3,7 +3,7 @@ title = "VOLKSWAGEN POLO 6 Bleue 5 portes Essence 95CV clim critair 1"
 description = "VOLKSWAGEN POLO 6 Bleue 5 portes Essence 95CV clim critair 1"
 tags = [
 ]
-date = "2025-09-27"
+date = "2025-10-05"
 categories = [
     "Voitures"
 ]
@@ -11,7 +11,7 @@ image = "../post/20250927_vw_polo6_bleue_2018_5p_95mkm/images/1.jpg"
 adate = "2018"
 akm = "95 000km"
 agaz = "essence"
-aboite = "manu"
+aboite = "Manuelle"
 apuissance= "95 CV"
 acouleur = "bleue"
 prix="12600"
@@ -33,7 +33,7 @@ Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE 
-très Propre
+Très Propre
 
 
 ### INTERIEUR :
