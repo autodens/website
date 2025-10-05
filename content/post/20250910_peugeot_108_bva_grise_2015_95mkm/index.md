@@ -15,7 +15,7 @@ aboite = "AUTO"
 
 apuissance= "68 CV"
 acouleur = "grise"
-prix="9900"
+prix="9700"
 
 +++
 
@@ -49,7 +49,7 @@ Première main
 
 Voiture disponible rapidement
 
-### PRIX : 9900 Euros
+### PRIX : 9700 Euros
 
 
 <!-- more -->
