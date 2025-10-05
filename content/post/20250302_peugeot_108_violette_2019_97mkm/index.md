@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "72 CV"
 acouleur = "violette"
-prix="7100"
+prix="7000"
 
 +++
 
@@ -54,7 +54,7 @@ Freins AV neufs
 Voiture disponible rapidement
 
 
-### PRIX : 7100 Euros
+### PRIX : 7000 Euros
 
 
 <!-- more -->
