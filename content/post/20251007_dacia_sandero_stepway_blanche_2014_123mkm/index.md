@@ -24,7 +24,7 @@ prix="7900"
 {{< gallery "../post/20251007_dacia_sandero_stepway_blanche_2014_123mkm/images/1.jpg,../post/20251007_dacia_sandero_stepway_blanche_2014_123mkm/images/2.jpg,../post/20251007_dacia_sandero_stepway_blanche_2014_123mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-DACIA SANDERO STEPWAY 2014 Essence 90CV blanche 5p clim affichant 80.000 km
+DACIA SANDERO STEPWAY 2014 Essence 90CV blanche 5p clim affichant 123.000 km
 
 
 ### EQUIPEMENTS :
