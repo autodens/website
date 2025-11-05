@@ -15,7 +15,7 @@ aboite = "AUTO"
 
 apuissance= "68 CV"
 acouleur = "violette"
-prix="11500"
+prix="11300"
 
 +++
 
@@ -50,7 +50,7 @@ Distribution par chaîne
 Voiture disponible rapidement
 
 
-### PRIX : 11500 Euros
+### PRIX : 11300 Euros
 
 
 <!-- more -->

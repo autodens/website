@@ -46,7 +46,7 @@ Embrayage neuf
 Double des clés
 Consommation : 4L/100km
 Véhicule économe
-Crit air 2
+Crit air 1
 Contrôle technique OK 
 
 Aucun frais à prévoir
