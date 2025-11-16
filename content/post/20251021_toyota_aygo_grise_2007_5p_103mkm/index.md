@@ -28,7 +28,7 @@ TOYOTA AYGO grise 5 portes Essence clim  affichant seulement 103.000 km
 
 
 ### EQUIPEMENTS :
-Direction assistée, Climatisation manuelle, Verrouillage centralisé, Compte tours, Radio  CARPLAY bluetooth, vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
+Direction assistée, Climatisation manuelle, Verrouillage centralisé, Compte tours, Radio CARPLAY bluetooth, vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
 Liste d'options à valider avec moi lors de votre visite
 
 

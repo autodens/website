@@ -15,7 +15,7 @@ aboite = "AUTO"
 
 apuissance= "68 CV"
 acouleur = "grise"
-prix="9700"
+prix="9500"
 
 +++
 
@@ -28,7 +28,7 @@ PEUGEOT 108 ALLURE Essence 68CV grise BVA 5p clim Crit'Air 1 affichant 95.000 km
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, vitres av électriques, Radio Bluetooth avec ecran tactile, camera de recul, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, limiteur de vitesse, double des clés, véritable roue de secours, etc..
+Boite automatique, Verrouillage centralisé avec télécommande, vitres av électriques, Radio Bluetooth avec écran tactile, camera de recul, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, limiteur de vitesse, double des clés, véritable roue de secours, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
@@ -48,8 +48,10 @@ Carnet tamponné PEUGEOT
 Première main
 
 Voiture disponible rapidement
+Garantie 6 mois
 
-### PRIX : 9700 Euros
+
+### PRIX : 9500 Euros
 
 
 <!-- more -->

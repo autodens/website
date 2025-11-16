@@ -14,7 +14,7 @@ agaz = "Essence"
 aboite = "auto"
 apuissance= "122 CV"
 acouleur = "bleue"
-prix="14 500"
+prix="14200"
 
 +++
 
@@ -28,7 +28,7 @@ MERCEDES GLA 180 7-G DCT SENSATION bleue Boite AUTO 5 portes Essence clim affich
 
 
 ### EQUIPEMENTS :
-Boite de Vitesse Automatique, Direction assistée, climatisation auto, verrouillage centralisé, compte tours, CARPLAY  avec Ecran tactile, USB, camera de recul, feux arrières LED, rétroviseurs électriques, vitres avant et arrières électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable,  etc.
+Boite de Vitesse Automatique, Direction assistée, climatisation auto, aides à la conduite, verrouillage centralisé, compte tours, CARPLAY  avec Ecran tactile, USB, camera de recul, feux arrières LED, rétroviseurs électriques, vitres avant et arrières électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable,  etc.
 Liste d'options à valider avec moi lors de votre visite
 
 
@@ -43,12 +43,8 @@ Tissu/ cuir beige ok
 Entretien à jour 
 
 
-
-
 Double des clés
-Consommation : 4L/100km
-Véhicule économe
-Crit air 2
+Crit air 1
 Contrôle technique OK 
 
 
@@ -57,7 +53,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX :14500 Euros
+### PRIX: 14200 Euros
 
 Disponible rapidement
 Garantie 6 mois

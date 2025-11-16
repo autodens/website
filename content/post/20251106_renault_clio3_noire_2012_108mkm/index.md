@@ -28,14 +28,14 @@ RENAULT CLIO 1.2L ESSENCE 75CV NOIRE 5p CLIM CRIT AIR 1 affichant 108.000 km
 
 
 ### EQUIPEMENTS :
-Climatisation, Vitres Avant électriques, Direction assistée, Autoradio CD, Rétroviseurs électriques, Verrouillage centralisé avec télécommande, Véritable roue de secours, etc...
+Climatisation, Vitres Avant électriques, Direction assistée, Autoradio CD,GPS, Rétroviseurs électriques, Verrouillage centralisé avec télécommande, Véritable roue de secours, etc...
 
 Merci de valider cette liste d'équipements avec un commercial
 
 
 
 ### CARROSSERIE :
- Propre  
+ Propre 
 
 
 ### INTERIEUR :
@@ -43,8 +43,10 @@ Tissu noir
 
 ### MECANIQUE :
 Entretien à jour
+Historique RENAULT
 Distribution+ Pompe à eau à jour
 CT OK
+double de clés
 
 
 

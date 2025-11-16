@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "72 CV"
 acouleur = "violette"
-prix="7000"
+prix="6990"
 
 +++
 
@@ -35,7 +35,7 @@ Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
- bel état  ( qq rayures et bosse d'usage)
+ bel état
 
 
 ### INTERIEUR :
@@ -52,9 +52,10 @@ Freins AV neufs
 
 
 Voiture disponible rapidement
+Garantie 6 mois
 
 
-### PRIX : 7000 Euros
+### PRIX : 6990 Euros
 
 
 <!-- more -->
