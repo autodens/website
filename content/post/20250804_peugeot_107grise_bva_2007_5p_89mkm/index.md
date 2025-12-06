@@ -9,12 +9,12 @@ categories = [
 ]
 image = "../post/20250804_peugeot_107grise_bva_2007_5p_89mkm/images/1.jpg"
 adate = "2008"
-akm = "96 000km"
+akm = "104 000km"
 agaz = "essence"
 aboite = "AUTO"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="6690"
+prix="6390"
 
 +++
 
@@ -24,7 +24,7 @@ prix="6690"
  
 
 
-PEUGEOT 107 Essence 5p Boite auto grise affichant 96.000 km 
+PEUGEOT 107 Essence 5p Boite auto grise affichant 104.000 km 
 
 
 ### EQUIPEMENTS :
@@ -33,7 +33,7 @@ Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE :
- Propre pour son âge
+ Très Propre 
 
 
 ### INTERIEUR :
@@ -52,10 +52,10 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 6690 Euros
+### PRIX : 6390 Euros
 
 Disponible rapidement
-Garantie
+Garantie 6 mois
 
 <!-- more -->
 
