@@ -1,15 +1,15 @@
 +++
-title = "FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2016 clim Crit'Air 1"
-description = "FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2016 clim Crit'Air 1"
+title = "FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2017 clim Crit'Air 1"
+description = "FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2017 clim Crit'Air 1"
 tags = [
 ]
-date = "2025-11-05"
+date = "2025-12-05"
 categories = [
     "Voitures",
 ]
-image = "../post/20251105_fiat_500_bleue_2017_118mkm/images/1.jpg"
+image = "../post/20250706_fiat_500_bleue_2016_108mkm/images/1.jpg"
 adate = "2017"
-akm = "118 000km"
+akm = "100 000km"
 agaz = "essence"
 aboite = "Manuelle"
 
@@ -19,12 +19,12 @@ prix="7400"
 
 +++
 
-# FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2016 clim Crit'Air 1
+# FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2017 clim Crit'Air 1
 
-{{< gallery "../post/20251105_fiat_500_bleue_2017_118mkm/images/1.jpg,../post/20251105_fiat_500_bleue_2017_118mkm/images/2.jpg,../post/20251105_fiat_500_bleue_2017_118mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20250706_fiat_500_bleue_2016_108mkm/images/1.jpg,../post/20250706_fiat_500_bleue_2016_108mkm/images/2.jpg,../post/20250706_fiat_500_bleue_2016_108mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2016 clim Crit'Air 1 affichant 118.000 km
+FIAT 500 LOUNGE 1.2L 69CV ESSENCE bleue 2017 clim Crit'Air 1 affichant 100.000 km
 
 
 ### EQUIPEMENTS :
@@ -35,11 +35,11 @@ Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
- Très propre  
+Impeccable
 
 
 ### INTERIEUR :
-Tissu noir et blanc très propre
+Tissu/cuir noir et blanc très propre
 
 ### MECANIQUE :
 Entretien à jour
