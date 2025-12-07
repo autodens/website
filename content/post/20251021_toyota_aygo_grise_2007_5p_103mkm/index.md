@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="4900"
+prix="4800"
 
 +++
 
@@ -55,7 +55,7 @@ Ideal jeune permis
 Aucun frais à prévoir
 
 
-### PRIX : 4900 Euros
+### PRIX : 4800 Euros
 
 Disponible rapidement
 Garantie 6 mois

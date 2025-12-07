@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "75 CV"
 acouleur = "noire"
-prix="5800"
+prix="5600"
 
 +++
 
@@ -54,7 +54,7 @@ Voiture disponible rapidement
 Garantie 6 mois
 
 
-### PRIX : 5800 Euros
+### PRIX : 5600 Euros
  
 
 <!-- more -->

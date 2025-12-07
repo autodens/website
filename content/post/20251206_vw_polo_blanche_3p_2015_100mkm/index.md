@@ -1,6 +1,6 @@
 +++
-title = "VOLKSWAGEN POLO 1.0 75 SERIE LIMITEE ESSENCE blanche clim Crit'Air 1"
-description = "VOLKSWAGEN POLO 1.0 75 SERIE LIMITEE ESSENCE blanche clim Crit'Air 1"
+title = "VOLKSWAGEN POLO 1.0 75 SERIE LIMITED EDITION ESSENCE blanche clim Crit'Air 1"
+description = "VOLKSWAGEN POLO 1.0 75 SERIE LIMITED EDITION ESSENCE blanche clim Crit'Air 1"
 tags = [
 ]
 date = "2025-12-06"
@@ -19,27 +19,27 @@ prix="7890"
 
 +++
 
-# VOLKSWAGEN POLO 1.0 75 SERIE LIMITEE ESSENCE blanche clim Crit'Air 1
+# VOLKSWAGEN POLO 1.0 75 SERIE LIMITED EDITION ESSENCE blanche clim Crit'Air 1
 
 {{< gallery "../post/20251206_vw_polo_blanche_3p_2015_100mkm/images/1.jpg,../post/20251206_vw_polo_blanche_3p_2015_100mkm/images/2.jpg,../post/20251206_vw_polo_blanche_3p_2015_100mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-VOLKSWAGEN POLO 1.0 75 SERIE LIMITEE ESSENCE blanche clim affichant 105.000 km
+VOLKSWAGEN POLO 1.0 75 SERIE LIMITED EDITION ESSENCE blanche clim affichant 105.000 km
 
 
 ### EQUIPEMENTS :
-Verrouillage centralisé avec télécommande, Vitres électriques, Radio Bluetooth, Climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, double des clés, véritable roue de secours, etc..
+Verrouillage centralisé avec télécommande, Vitres électriques, Radio Bluetooth grand écran tactile, Climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, régulateur de vitesse, banquette arrière rabattable, double des clés, véritable roue de secours, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
- Propre  
+Propre  
 
 
 ### INTERIEUR :
-Tissu 
+Tissu noir
 
 ### MECANIQUE :
 Entretien à jour
