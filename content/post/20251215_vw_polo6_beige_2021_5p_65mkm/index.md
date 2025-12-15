@@ -5,13 +5,14 @@ tags = [
 ]
 date = "2025-12-15"
 categories = [
-    "Voitures"
+    "Voitures",
 ]
 image = "../post/20251215_vw_polo6_beige_2021_5p_65mkm/images/1.jpg"
 adate = "2021"
 akm = "65 000km"
 agaz = "essence"
 aboite = "Manuelle"
+
 apuissance= "80 CV"
 acouleur = "beige"
 prix="13500"
