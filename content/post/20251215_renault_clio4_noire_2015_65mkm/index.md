@@ -8,7 +8,7 @@ categories = [
     "Voitures",
 ]
 image = "../post/20251215_renault_clio4_noire_2015_65mkm/images/1.jpg"
-adate = "20185
+adate = "2015
 akm = " 65000km"
 agaz = "essence"
 aboite = "manuelle"
