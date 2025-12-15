@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20251215_renault_clio4_noire_2015_65mkm/images/1.jpg"
 adate = "2015
-akm = " 65000"
+akm = " 65000 km"
 agaz = "essence"
 aboite = "manuelle"
 apuissance="90 CV"
