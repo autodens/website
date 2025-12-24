@@ -15,7 +15,7 @@ aboite = "AUTO"
 
 apuissance= "68 CV"
 acouleur = "violette"
-prix="11200"
+prix="11000"
 
 +++
 
@@ -51,7 +51,7 @@ Voiture disponible rapidement
 Garantie 6 mois
 
 
-### PRIX : 11200 Euros
+### PRIX : 11000 Euros
 
 
 <!-- more -->

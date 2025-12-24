@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu"
 apuissance= "68 CV"
 acouleur = "grise"
-prix="4800"
+prix="4500"
 
 +++
 
@@ -28,12 +28,12 @@ TOYOTA AYGO grise 5 portes Essence clim  affichant seulement 103.000 km
 
 
 ### EQUIPEMENTS :
-Direction assistée, Climatisation manuelle, Verrouillage centralisé, Compte tours, Radio CARPLAY bluetooth, vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
+Direction assistée, Climatisation manuelle, Verrouillage centralisé avec télécommande et double de clés, Compte tours, CARPLAY Bluetooth, vitres avant électriques, airbags, sièges arrières ISOFIX, banquette arrière rabattable, véritable roue de secours etc.
 Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE 
-propre (rayure sur porte  et PC arrière G)
+propre (petite rayure sur porte  et PC arrière G)
 
 
 ### INTERIEUR :
@@ -55,7 +55,7 @@ Ideal jeune permis
 Aucun frais à prévoir
 
 
-### PRIX : 4800 Euros
+### PRIX : 4500 Euros
 
 Disponible rapidement
 Garantie 6 mois

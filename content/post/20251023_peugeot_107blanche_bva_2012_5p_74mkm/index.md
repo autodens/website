@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "AUTO"
 apuissance= "68 CV"
 acouleur = "blanche"
-prix="7390"
+prix="7290"
 
 +++
 
@@ -52,7 +52,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 7390 Euros
+### PRIX : 7290 Euros
 
 Disponible rapidement
 Garantie
