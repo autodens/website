@@ -62,12 +62,41 @@
       transition: color 0.25s ease-in-out
       &:hover
         color: var(--theme)
+    
+    .nav-home
+      display: flex
+      align-items: center
+      gap: 0.75rem
+      
+      .home-icon
+        width: 20px
+        height: 20px
+        display: inline-block
+        vertical-align: middle
+        opacity: 0.9
+      
+      &:hover .home-icon
+        opacity: 1
 
   &-brand
     font-family: var(--font)
     font-size: 2em !important
     padding-top: 0 !important
     padding-bottom: 0 !important
+    display: flex
+    align-items: center
+    gap: 0.75rem
+    
+    .nav-home-icon
+      width: 24px
+      height: 24px
+      display: inline-block
+      vertical-align: middle
+      opacity: 0.9
+      flex-shrink: 0
+      
+    &:hover .nav-home-icon
+      opacity: 1
 
   &-close
     display: flex
@@ -127,6 +156,4 @@
   &-open
     animation: showMenu 0.5s cubic-bezier(0.52, 0.16, 0.24, 1) forwards
 
-  &_item
-    text-transform: capitalize
 

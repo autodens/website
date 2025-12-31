@@ -1,6 +1,9 @@
 <header class = 'nav' style="position:inherit;">
   <nav class = 'nav-menu'>
-    <a href='{{ absURL "" }}' class = 'nav-brand nav_item'>{{ .Site.Title }}</a>
+    <a href='{{ absURL "" }}' class = 'nav-brand nav_item'>
+      <img src='{{ absURL "images/home-icon.svg" }}' alt='Home' class='nav-home-icon' />
+      <span>{{ .Site.Title }}</span>
+    </a>
     <div class = 'nav_bar-wrap'>
       <div class = 'nav_bar'></div>
     </div>
