@@ -40,7 +40,7 @@
       {{- end }}
       {{- end }}
     </div>
-    <h3 class='post_link'>
+    <h3 class='post_link baloo-font'>
       <a href='{{ .Permalink }}'>{{ .Title }}</a>
     </h3>
 
@@ -102,7 +102,7 @@
     <!-- <p class = 'pale'>{{ .Summary | truncate 90 }}</p>
      -->
     {{- if isset .Params "prix" }}
-    <p class="pale" style="text-align:end;font-size:medium;font-weight: bold;padding-top:7px;">{{ .Params.prix }} Euros</p>
+    <p class="pale baloo-font" style="text-align:end;font-size:medium;font-weight: bold;padding-top:7px;">{{ .Params.prix }} Euros</p>
     {{- end }}
 
   </div>
