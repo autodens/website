@@ -1,0 +1,45 @@
+.intro
+  margin: 4rem 0 1rem
+  padding: 2rem 1.5rem
+  color:  var(--light)
+  background-image: url(../images/carte_visite_new_banner.png)
+  background-size: 100% 
+  height: 550px
+  
+  @media screen and (max-width: 768px)
+    height: 350px
+    padding: 1.5rem 1rem
+  
+  @media screen and (max-width: 480px)
+    height: 250px
+    padding: 1rem 0.75rem
+    margin: 2rem 0 1rem
+  &_inner
+    @include viewport(59rem)
+    margin: 0 auto
+    display: flex
+    text-align: center
+    padding: 25px
+    position: relative
+    background-color: var(--bubble)
+    border-radius: 1rem
+    align-items: center
+    justify-content: center
+    section
+      @extend %narrow
+
+  &_logo
+    max-width: 300px
+    width: 100%
+    height: auto
+    margin: 0 auto 1.5rem
+    display: block
+
+  &_headline
+    margin: 0 auto
+    font-weight: 300
+
+  &_desc
+    opacity: 0.8
+    text-align: center
+

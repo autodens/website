@@ -20,7 +20,7 @@ defaultContentLanguage = 'fr'
     name = "autodens" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
     fullName = "Denis Freydiere" # optional. If set, it will display on author card
     bio = ""
-    photo = "/images/bandeau.png"
+    photo = "/images/logo2.svg"
     url = "https://auto-dens.fr"
   #  ga_analytics = "G-DDQ23YTTMV" # google analytics ID e.g UA-116386578-1
 
