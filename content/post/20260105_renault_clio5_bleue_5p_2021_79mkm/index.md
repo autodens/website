@@ -7,8 +7,8 @@ date = "2026-01-05"
 categories = [
     "Voitures",
 ]
-image = "../post/20251229_vw_touran_blanc_5p_2013_213mkm/images/1.jpg"
-adate = "20121
+image = "../post/20260105_renault_clio5_bleue_5p_2021_79mkm/images/1.jpg"
+adate = "2021"
 akm = "79 000km"
 agaz = "Essence"
 aboite = "Manuelle"
