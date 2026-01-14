@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "69 CV"
 acouleur = "bleue"
-prix="7300"
+prix="6900"
 
 +++
 
@@ -53,7 +53,7 @@ Voiture disponible rapidement
 Garantie 6 mois
 
 
-### PRIX : 7300 Euros
+### PRIX : 6900 Euros
 
 
 <!-- more -->
