@@ -9,13 +9,13 @@ categories = [
 ]
 image = "../post/20251106_renault_clio3_noire_2012_108mkm/images/1.jpg"
 adate = "2012"
-akm = "108 000km"
+akm = "120 000km"
 agaz = "essence"
 aboite = "Manuelle"
 
 apuissance= "75 CV"
 acouleur = "noire"
-prix="5600"
+prix="5400"
 
 +++
 
@@ -47,6 +47,7 @@ Historique RENAULT
 Distribution+ Pompe à eau à jour
 CT OK
 double de clés
+Compteur remplacé et kilométrage actuel affiché env 108000 km
 
 
 
@@ -54,7 +55,7 @@ Voiture disponible rapidement
 Garantie 6 mois
 
 
-### PRIX : 5600 Euros
+### PRIX : 5400 Euros
  
 
 <!-- more -->
