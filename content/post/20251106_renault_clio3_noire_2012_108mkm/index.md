@@ -24,7 +24,7 @@ prix="5400"
 {{< gallery "../post/20251106_renault_clio3_noire_2012_108mkm/images/1.jpg,../post/20251106_renault_clio3_noire_2012_108mkm/images/2.jpg,../post/20251106_renault_clio3_noire_2012_108mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-RENAULT CLIO 1.2L ESSENCE 75CV NOIRE 5p CLIM CRIT AIR 1 affichant 108.000 km
+RENAULT CLIO 1.2L ESSENCE 75CV NOIRE 5p CLIM CRIT AIR 1 affichant 120.000 km
 
 
 ### EQUIPEMENTS :
