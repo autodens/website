@@ -3,7 +3,7 @@ title = "PEUGEOT 108 STYLE Essence 68CV violette BVA 5p clim Crit'Air 1"
 description = "PEUGEOT 108 STYLE Essence 68CV violette BVA 5p clim Crit'Air 1"
 tags = [
 ]
-date = "2025-09-04"
+date = "2026-01-29"
 categories = [
     "Voitures",
 ]
@@ -15,7 +15,7 @@ aboite = "AUTO"
 
 apuissance= "68 CV"
 acouleur = "violette"
-prix="11000"
+prix="10990"
 
 +++
 
@@ -28,7 +28,7 @@ PEUGEOT 108 STYLE Essence 68CV violette BVA 5p clim Crit'Air 1 affichant seuleme
 
 
 ### EQUIPEMENTS :
-Boite automatique, Verrouillage centralisé avec télécommande, vitres av électriques, Radio Bluetooth, climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, limiteur de vitesse, double des clés, véritable roue de secours, etc..
+Boite automatique, Verrouillage centralisé avec télécommande, vitres av électriques, Radio Bluetooth, climatisation manuelle, aide au démarrage en côte, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, limiteur de vitesse, double des clés, véritable roue de secours, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
@@ -51,7 +51,7 @@ Voiture disponible rapidement
 Garantie 6 mois
 
 
-### PRIX : 11000 Euros
+### PRIX : 10990 Euros
 
 
 <!-- more -->
