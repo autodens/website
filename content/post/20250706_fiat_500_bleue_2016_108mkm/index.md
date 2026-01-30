@@ -3,7 +3,7 @@ title = "FIAT 500 LOUNGE 1.2L 69CV ESSENCE grise 2017 clim Crit'Air 1"
 description = "FIAT 500 LOUNGE 1.2L 69CV ESSENCE grise 2017 clim Crit'Air 1"
 tags = [
 ]
-date = "2025-01-30"
+date = "2026-01-30"
 categories = [
     "Voitures",
 ]
