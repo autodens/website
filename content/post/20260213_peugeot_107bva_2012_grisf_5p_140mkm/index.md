@@ -1,6 +1,6 @@
 +++
-title = "PEUGEOT 107 2012 grise 5p BVA clim "
-description = "PEUGEOT 107 2012 grise 5p BVA clim "
+title = "PEUGEOT 107 2012 grise 5p BVA "
+description = "PEUGEOT 107 2012 grise 5p BVA "
 tags = [
 ]
 date = "2026-02-13"
@@ -24,7 +24,7 @@ prix="6900"
  
 
 
-PEUGEOT 107 2012 grise 5p BVA clim affichant 140.000 km
+PEUGEOT 107 2012 grise 5p BVA affichant 140.000 km
 
 
 ### EQUIPEMENTS :
@@ -33,15 +33,16 @@ Liste d'options à valider avec un commercial lors de votre visite
 
 
 ### CARROSSERIE :
-Très Propre
+Propre
 
 
 ### INTERIEUR :
 Tissu très propre
 
 ### MECANIQUE :
-Entretien à jour ( vidange + filtres fait en 02/26)
+Entretien à jour ( vidange + filtres fait en 07/25)
 Moteur à chaîne ( pas de Courroie de distribution)
+Historique d'entretien
 
 
 Double des clés
