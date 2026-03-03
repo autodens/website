@@ -33,7 +33,7 @@ Liste d'options à valider avec un commercial lors de votre visite
 
 
 ### CARROSSERIE :
-Très Propre
+Propre
 
 
 ### INTERIEUR :
