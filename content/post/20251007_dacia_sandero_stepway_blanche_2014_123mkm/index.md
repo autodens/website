@@ -8,14 +8,14 @@ categories = [
     "Voitures",
 ]
 image = "../post/20251007_dacia_sandero_stepway_blanche_2014_123mkm/images/1.jpg"
-adate = "2014"
-akm = "123 000km"
+adate = "2015"
+akm = "83 000km"
 agaz = "essence"
 aboite = "Manuelle"
 
 apuissance= "90 CV"
 acouleur = "blanche"
-prix="7600"
+prix="7400"
 
 +++
 
@@ -24,11 +24,11 @@ prix="7600"
 {{< gallery "../post/20251007_dacia_sandero_stepway_blanche_2014_123mkm/images/1.jpg,../post/20251007_dacia_sandero_stepway_blanche_2014_123mkm/images/2.jpg,../post/20251007_dacia_sandero_stepway_blanche_2014_123mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-DACIA SANDERO STEPWAY 2014 Essence 90CV blanche 5p clim affichant 123.000 km
+DACIA SANDERO STEPWAY 2015 Essence 90CV blanche 5p clim affichant 83.000 km
 
 
 ### EQUIPEMENTS :
-Finition PRESTIGE, Verrouillage centralisé avec télécommande, vitres électriques, Radio Bluetooth ,Climatisation manuelle, ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, régulateur de vitesse, limiteur de vitesse, etc..
+Verrouillage centralisé avec télécommande, vitres électriques, Radio Bluetooth , ABS, airbags, sièges arrières ISOFIX, banquette arrière rabattable, régulateur de vitesse, limiteur de vitesse, etc..
 
 
 Liste d'options à valider avec un commercial lors de votre visite.
@@ -44,13 +44,13 @@ Tissu noir très propre
 ### MECANIQUE :
 Entretien à jour 
 Distribution par chaîne
-
+4 pneus 4 saisons neufs
 
 
 Voiture disponible rapidement
 Garantie 6 mois
 
-### PRIX :7600 Euros
+### PRIX :7400 Euros
 
 
 <!-- more -->
