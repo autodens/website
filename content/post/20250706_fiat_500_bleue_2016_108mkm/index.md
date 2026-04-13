@@ -35,7 +35,7 @@ Liste d'options à valider avec un commercial lors de votre visite.
 
 
 ### CARROSSERIE :
-très propre
+très propre ( petite bosse sur aile avd)
 
 
 ### INTERIEUR :
