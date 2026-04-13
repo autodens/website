@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "105 CV"
 acouleur = "blanc"
-prix="7300"
+prix="7000"
 
 +++
 
@@ -55,7 +55,7 @@ CT OK
 Voiture disponible rapidement
 
 
-### PRIX : 7300 Euros
+### PRIX : 7000 Euros
 
 
 <!-- more -->
