@@ -32,17 +32,16 @@ Liste d'options à valider avec un commercial lors de votre visite
 
 
 ### CARROSSERIE :
-Propre  ( petite rayure sur aile avg)
+Très Propre 
 
 
 ### INTERIEUR :
-Tissu très propre
+Tissu très propre ( cuir/ alcantara)
 
 ### MECANIQUE :
 Entretien à jour ( vidange + filtres fait en 03/26)
 Moteur à chaîne ( pas de Courroie de distribution)
 Embrayage neuf
-
 
 Double des clés
 Consommation : 4L/100km
@@ -52,6 +51,7 @@ Véhicule économe
 Contrôle technique OK 
 
 Aucun frais à prévoir
+Disponible sur parc
 
 
 ### PRIX : 7700 Euros
