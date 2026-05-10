@@ -24,7 +24,7 @@ prix="4900"
  
 
 
-PEUGEOT 107 2010 noire 68CH Blue Lion Trendy affichant 53.000km
+PEUGEOT 107 2010 noire 68CH Blue Lion Trendy affichant 111.000km
 
 ### EQUIPEMENTS :
 Climatisation, Verrouillage centralisé avec télécommande, Compte tours, Direction assistée , CARPLAY Bluetooth, Vitres avant électriques, Airbags, Sièges arrières ISOFIX, Banquette arrière rabattable, etc..
@@ -40,21 +40,23 @@ Tissu très propre
 
 ### MECANIQUE :
 Entretien à jour ( vidange + filtres fait en 04/26)
+
 Moteur à chaîne ( pas de Courroie de distribution)
 
-
 Double des clés
-Consommation : 4L/100km
-Véhicule économe
 
+Consommation : 4L/100km
+
+Véhicule économe
 
 Contrôle technique OK 
 
 Aucun frais à prévoir
+
 Disponible sur parc
 
 
-### PRIX :4900 Euros
+### PRIX : 4900 Euros
 
 Disponible rapidement
 Garantie 6 mois
