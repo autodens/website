@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "90 CV"
 acouleur = "bleue"
-prix="11900"
+prix="11500"
 
 +++
 
@@ -52,7 +52,7 @@ Garantie 6 mois
 Voiture disponible rapidement
 
 
-### PRIX : 11900 Euros
+### PRIX : 11500 Euros
 
 
 <!-- more -->
