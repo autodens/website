@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "violette"
-prix="7100"
+prix="7200"
 
 +++
 
@@ -54,7 +54,7 @@ Aucun frais à prévoir
 Disponible sur parc
 
 
-### PRIX : 7100 Euros
+### PRIX : 7200 Euros
 
 Disponible rapidement
 Garantie 6 mois
