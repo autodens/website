@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
 acouleur = "rouge"
-prix="6400"
+prix="5900"
 
 +++
 
@@ -41,6 +41,7 @@ Tissu très propre
 
 ### MECANIQUE :
 Entretien à jour ( vidange + filtres fait en 02/26)
+Première main
 Moteur à chaîne ( pas de Courroie de distribution)
 Historique d'entretien
 
@@ -56,7 +57,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX : 6400 Euros
+### PRIX : 5900 Euros
 
 Disponible rapidement
 Garantie 6 mois
