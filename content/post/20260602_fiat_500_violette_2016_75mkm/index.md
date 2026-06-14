@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "69 CV"
 acouleur = "aubergine"
-prix="7900"
+prix="7690"
 
 +++
 
@@ -53,7 +53,7 @@ Voiture disponible rapidement
 Garantie 6 mois
 
 
-### PRIX : 7900 Euros
+### PRIX : 7690 Euros
 
 
 <!-- more -->
