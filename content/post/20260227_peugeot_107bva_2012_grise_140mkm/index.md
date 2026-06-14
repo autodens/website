@@ -33,7 +33,7 @@ Liste d'options à valider avec un commercial lors de votre visite
 
 
 ### CARROSSERIE :
-Propre ( bas de caisse frotté, sera repris par le carrossier)
+Bon état général
 
 
 ### INTERIEUR :
