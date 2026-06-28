@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu"
 apuissance= "68 CV"
 acouleur = "blanche"
-prix="4200"
+prix="3990"
 
 +++
 
@@ -27,7 +27,7 @@ prix="4200"
 PEUGEOT 107 blanche 68CH Blue Lion Trendy affichant 132.000km
 
 ### EQUIPEMENTS :
- Verrouillage centralisé avec télécommande, Compte tours, Direction assistée , CARPLAY Bluetooth, Vitres avant électriques, Airbags, Sièges arrières ISOFIX, Banquette arrière rabattable, etc..
+ Verrouillage centralisé avec télécommande, Compte tours, Direction assistée , CARPLAY Bluetooth , Vitres avant électriques, Airbags, Sièges arrières ISOFIX, Banquette arrière rabattable, etc..
 Liste d'options à valider avec un commercial lors de votre visite
 
 
@@ -56,7 +56,7 @@ Aucun frais à prévoir
 Disponible sur parc
 
 
-### PRIX : 4200 Euros
+### PRIX : 3990 Euros
 
 Disponible rapidement
 Garantie 6 mois
