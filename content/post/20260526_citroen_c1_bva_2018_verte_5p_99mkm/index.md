@@ -24,7 +24,7 @@ prix="8700"
  
 
 
-CCITROEN C1 II verte 2018 Boite AUTO ETG FEEL 68CV affichant 99.000km
+CITROEN C1 II verte 2018 Boite AUTO ETG FEEL 68CV affichant 99.000km
 
 ### EQUIPEMENTS :
 Verrouillage centralisé avec télécommande, Compte tours, Direction assistée , Radio Bluetooth, Vitres avant électriques, Airbags, Sièges arrières ISOFIX, Banquette arrière rabattable, climatisation, etc..
