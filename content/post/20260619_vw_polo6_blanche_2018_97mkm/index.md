@@ -39,15 +39,12 @@ Tissu très propre
 
 ### MECANIQUE :
 Entretien à jour 
-Moteur à chaîne 
+
 
 Double des clés
 
-
-
 Contrôle technique OK 
 
-Aucun frais à prévoir
 Disponible sur parc
 
 
