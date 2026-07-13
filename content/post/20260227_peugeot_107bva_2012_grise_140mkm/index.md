@@ -33,7 +33,7 @@ Liste d'options à valider avec un commercial lors de votre visite
 
 
 ### CARROSSERIE :
-Bon état général
+Très bel état général
 
 
 ### INTERIEUR :
@@ -42,6 +42,7 @@ Tissu très propre
 ### MECANIQUE :
 Entretien à jour ( vidange + filtres fait en 02/26)
 Moteur à chaîne ( pas de Courroie de distribution)
+Historique d'entretien
 
 
 Double des clés
