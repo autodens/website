@@ -14,7 +14,7 @@ agaz = "Essence"
 aboite = "auto"
 apuissance= "122 CV"
 acouleur = "bleue"
-prix="13500"
+prix="13800"
 
 +++
 
@@ -53,7 +53,7 @@ Contrôle technique OK
 Aucun frais à prévoir
 
 
-### PRIX: 13500 Euros
+### PRIX: 13800 Euros
 
 Disponible rapidement
 Garantie 6 mois
