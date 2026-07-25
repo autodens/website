@@ -7,7 +7,7 @@ date = "2026-07-25"
 categories = [
     "Voitures",
 ]
-image = "../post/20260725_renault_clio4_grise_essence_5p_2018 _82mkm/images/1.jpg"
+image = "../post/20260725_renault_clio4_grise_essence_5p_2018_82mkm/images/1.jpg"
 adate = "2018"
 akm = "82 000km"
 agaz = "Essence"
@@ -21,7 +21,7 @@ prix="8700"
 
 # RENAULT CLIO 4 0.9L TCE 90 ZEN 5p clim
 
-{{< gallery "../post/20260725_renault_clio4_grise_essence_5p_2018 _82mkm/images/1.jpg,../post/20260725_renault_clio4_grise_essence_5p_2018 _82mkm/images/2.jpg,../post/20260725_renault_clio4_grise_essence_5p_2018 _82mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
+{{< gallery "../post/20260725_renault_clio4_grise_essence_5p_2018_82mkm/images/1.jpg,../post/20260725_renault_clio4_grise_essence_5p_2018_82mkm/images/2.jpg,../post/20260725_renault_clio4_grise_essence_5p_2018_82mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
 RENAULT CLIO 4 0.9L TCE 90 ZEN 5p clim affichant 84 000 km
