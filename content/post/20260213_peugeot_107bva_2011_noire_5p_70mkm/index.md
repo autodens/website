@@ -28,12 +28,12 @@ PEUGEOT 107 2011 noire 5p BVA clim  affichant 90.000 km
 
 
 ### EQUIPEMENTS :
-Climatisation, Verrouillage centralisé avec télécommande, Compte tours, Direction assistée , Radio CD ( possibilité de CARPLAY Bluetooth en option), Vitres avant électriques, Airbags, Sièges arrières ISOFIX, Banquette arrière rabattable, etc..
+Climatisation, Verrouillage centralisé avec télécommande, Compte tours, Direction assistée , CARPLAY Bluetooth, Vitres avant électriques, Airbags, Sièges arrières ISOFIX, Banquette arrière rabattable, véritable roue de secours etc..
 Liste d'options à valider avec un commercial lors de votre visite
 
 
 ### CARROSSERIE :
-Très Propre ( quelques traces legeres de frottment sur les parechocs)
+Bon état  général ( quelques traces  de frottements sur les parechocs)
 
 
 ### INTERIEUR :

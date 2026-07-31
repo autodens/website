@@ -9,7 +9,7 @@ categories = [
 ]
 image = "../post/20260105_renault_clio5_bleue_5p_2021_79mkm/images/1.jpg"
 adate = "2021"
-akm = "79 000km"
+akm = "83 000km"
 agaz = "Essence"
 aboite = "Manuelle"
 
@@ -24,7 +24,7 @@ prix="11500"
 {{< gallery "../post/20260105_renault_clio5_bleue_5p_2021_79mkm/images/1.jpg,../post/20260105_renault_clio5_bleue_5p_2021_79mkm/images/2.jpg,../post/20260105_renault_clio5_bleue_5p_2021_79mkm/images/3.jpg" "A PNG gallery image::A WEBP gallery image::A JPEG gallery image" >}}
 
 
-RENAULT CLIO5 0.9TCE 90 BUSINESSE 5p clim critair 1 de 2021 affichant 79 000 km
+RENAULT CLIO5 0.9TCE 90 BUSINESSE 5p clim critair 1 de 2021 affichant 83 000 km
 
 
 ### EQUIPEMENTS :

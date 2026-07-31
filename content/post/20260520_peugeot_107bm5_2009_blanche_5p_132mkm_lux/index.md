@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu"
 apuissance= "68 CV"
 acouleur = "blanche"
-prix="3990"
+prix="3800"
 
 +++
 
@@ -56,7 +56,7 @@ Aucun frais à prévoir
 Disponible sur parc
 
 
-### PRIX : 3990 Euros
+### PRIX : 3800 Euros
 
 Disponible rapidement
 Garantie 6 mois
