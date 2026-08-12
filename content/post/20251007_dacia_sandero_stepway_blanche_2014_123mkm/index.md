@@ -15,7 +15,7 @@ aboite = "Manuelle"
 
 apuissance= "90 CV"
 acouleur = "blanche"
-prix="7200"
+prix="7500"
 
 +++
 
@@ -50,7 +50,7 @@ Distribution par chaîne
 Voiture disponible rapidement
 Garantie 6 mois
 
-### PRIX :7200 Euros
+### PRIX :7500 Euros
 
 
 <!-- more -->
