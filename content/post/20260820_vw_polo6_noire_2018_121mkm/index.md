@@ -3,7 +3,7 @@ title = "VOLKSWAGEN POLO 6 noire 1.0L TSI 95CV CONFORTLINE"
 description = "VOLKSWAGEN POLO 6 noire 1.0L TSI 95CV CONFORTLINE"
 tags = [
 ]
-date = "2026-08-20"
+date = "2026-08-14"
 categories = [
     "Voitures"
 ]
