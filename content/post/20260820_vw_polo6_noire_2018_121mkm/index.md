@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "meca"
 apuissance= "95 CV"
 acouleur = "noire"
-prix="11500"
+prix="10990"
 
 +++
 
@@ -31,7 +31,7 @@ Liste d'options à valider avec moi lors de votre visite
 
 
 ### CARROSSERIE :
-Bon état ( qq rayures sur Pare chocs)
+Très Bon état ( qq rayures sur Pare chocs)
 
 
 ### INTERIEUR :
@@ -45,10 +45,10 @@ Double des clés
 
 Contrôle technique OK 
 
-Disponible sur parc sous 8 jours
+Disponible sur parc
 
 
-### PRIX : 11500 Euros
+### PRIX : 10990 Euros
 
 
 Garantie 6 mois
