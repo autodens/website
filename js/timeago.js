@@ -14,28 +14,29 @@ function calculateTimeSince(num){
 
   if (timeSince < minute ) {
     timeAgo = 1;
-    timeTag = timeAgo < 2 ? 'MIN' : 'MINS';
+    timeTag = ' MIN';
   } else if (timeSince > minute && timeSince < hour ) {
     timeAgo = Math.ceil(timeSince / minute);
-    timeTag = timeAgo < 2 ? 'MIN' : 'MINS';
+    timeTag = ' MIN';
   } else if (timeSince > hour && timeSince < day ) {
     timeAgo = Math.floor(timeSince / hour);
-    timeTag = timeAgo < 2 ? 'HR' : 'HRS';
+    timeTag = ' HR';
   } else if (timeSince > day && timeSince < week) {
     timeAgo = Math.floor(timeSince / day);
-    timeTag = timeAgo < 2 ? 'JR' : 'JRS';
+    timeTag = ' DAY';
   } else if (timeSince > week && timeSince < month) {
     timeAgo = Math.floor(timeSince / week);
-    timeTag = timeAgo < 2 ? 'SEM' : 'SEMS';
+    timeTag = ' WK';
   } else if (timeSince > month && timeSince < year) {
     timeAgo = Math.floor(timeSince / month);
-    timeTag = timeAgo < 2 ? 'MOIS' : 'MOIS';
+    timeTag = ' MONTH';
   } else if (timeSince > year) {
     timeAgo = Math.floor(timeSince / year);
-    timeTag = timeAgo < 2 ? 'YR' : 'ANS';
+    timeTag = ' YR';
   }
 
-  return `IL Y A ${timeAgo}&nbsp;${timeTag}`;
+  let decorator = timeAgo < 2 ? ' AGO' : 'S AGO';
+  return `${timeAgo}&nbsp;${timeTag}${decorator}`;
 }
 
 function populateCommentsTime(nodes) {
