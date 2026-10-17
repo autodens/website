@@ -57,7 +57,7 @@ Aucun frais à prévoir
 
 ### PRIX : 7300 Euros
 
-Disponible sur parc
+Disponible sous 10 jours
 Garantie 6 mois
 
 <!-- more -->
