@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "manu"
 apuissance= "90 CV"
 acouleur = "orange"
-prix="6900"
+prix="6700"
 
 +++
 
@@ -52,7 +52,7 @@ Aucun frais à prévoir
 Disponible sur parc
 
 
-### PRIX : 6900 Euros
+### PRIX : 6700 Euros
 
 
 Garantie 6 mois
