@@ -14,7 +14,7 @@ agaz = "essence"
 aboite = "meca"
 apuissance= "95 CV"
 acouleur = "noire"
-prix="10990"
+prix="10790"
 
 +++
 
@@ -48,7 +48,7 @@ Contrôle technique OK
 Disponible sur parc
 
 
-### PRIX : 10990 Euros
+### PRIX : 10790 Euros
 
 
 Garantie 6 mois
