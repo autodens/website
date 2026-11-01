@@ -3,7 +3,7 @@ title = "TOYOTA AYGO Blanche BOITE AUTO 5p Clim camera"
 description = "TOYOTA AYGO Blanche BOITE AUTO 5p Clim camera"
 tags = [
 ]
-date = "2026-10-31
+date = "2026-10-31"
 categories = [
     "Voitures"
 ]
