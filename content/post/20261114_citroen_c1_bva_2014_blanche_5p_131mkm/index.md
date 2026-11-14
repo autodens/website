@@ -13,7 +13,7 @@ akm = "131 000km"
 agaz = "essence"
 aboite = "auto"
 apuissance= "68 CV"
-acouleur = ""blanche
+acouleur = "blanche"
 prix="8690"
 
 +++
